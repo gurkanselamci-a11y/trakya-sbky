@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f2f4f6">
+<meta name="description" content="Trakya Üniversitesi Siyaset Bilimi ve Kamu Yönetimi için çevrimdışı çalışma, soru çözme ve tekrar uygulaması.">
+<title>TÜ SBKY · Çalışma</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="TÜ SBKY">
+<link rel="stylesheet" href="vendor/fonts/fonts.css">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<svg class="sprite" aria-hidden="true" focusable="false"><defs>
+<symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3.5l9 7"/><path d="M5.5 9.5V20h13V9.5"/><path d="M9.5 20v-5.5h5V20"/></symbol>
+<symbol id="i-book" viewBox="0 0 24 24"><path d="M12 6.8C12 5.2 10.4 4 8.4 4H3.5v13.5h4.9c2 0 3.6 1.2 3.6 2.5"/><path d="M12 6.8C12 5.2 13.6 4 15.6 4h4.9v13.5h-4.9c-2 0-3.6 1.2-3.6 2.5"/><path d="M12 6.8V20"/></symbol>
+<symbol id="i-layers" viewBox="0 0 24 24"><path d="M12 3.5 3.5 8l8.5 4.5L20.5 8z"/><path d="M3.5 12.5 12 17l8.5-4.5"/><path d="M3.5 16.5 12 21l8.5-4.5"/></symbol>
+<symbol id="i-exam" viewBox="0 0 24 24"><rect x="4.5" y="4" width="15" height="17" rx="1.5"/><path d="M9 4V2.8h6V4"/><path d="M8.5 13.5l2.2 2.2 4.8-4.8"/></symbol>
+<symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3.5" y="5.5" width="17" height="15" rx="1.5"/><path d="M3.5 10.5h17M8 3.5v4M16 3.5v4"/></symbol>
+<symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.2 15.2 20.5 20.5"/></symbol>
+<symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r=".9" fill="currentColor" stroke="none"/></symbol>
+<symbol id="i-note" viewBox="0 0 24 24"><path d="M5.5 3.5h9l5 5v12h-14z"/><path d="M14 3.5v5.5h5.5"/><path d="M8.5 13h7M8.5 16.5h5"/></symbol>
+<symbol id="i-chart" viewBox="0 0 24 24"><path d="M3.5 20.5h17"/><path d="M6.5 20.5v-6M12 20.5V6M17.5 20.5v-9"/></symbol>
+<symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 6.5h16M4 12h16M4 17.5h16"/></symbol>
+<symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8.2" r="3.7"/><path d="M4.5 20.5c.9-3.9 3.9-6.2 7.5-6.2s6.6 2.3 7.5 6.2"/></symbol>
+<symbol id="i-lock" viewBox="0 0 24 24"><rect x="5" y="10.5" width="14" height="10" rx="1.5"/><path d="M8.5 10.5V7.8a3.5 3.5 0 0 1 7 0v2.7"/></symbol>
+<symbol id="i-refresh" viewBox="0 0 24 24"><path d="M19.5 12a7.5 7.5 0 0 1-13 5.1M4.5 12a7.5 7.5 0 0 1 13-5.1"/><path d="M17.5 3.5v3.4h-3.4M6.5 20.5v-3.4h3.4"/></symbol>
+<symbol id="i-logout" viewBox="0 0 24 24"><path d="M14 4.5H5.5v15H14"/><path d="M10 12h10M16.5 8.5 20 12l-3.5 3.5"/></symbol>
+<symbol id="i-list" viewBox="0 0 24 24"><path d="M9 6.5h11M9 12h11M9 17.5h11"/><path d="M4 6.5h.01M4 12h.01M4 17.5h.01"/></symbol>
+<symbol id="i-cap" viewBox="0 0 24 24"><path d="M2.5 8.8 12 4.3l9.5 4.5L12 13.3z"/><path d="M6.5 10.8v4.9c0 1.6 2.5 2.9 5.5 2.9s5.5-1.3 5.5-2.9v-4.9"/><path d="M21.5 8.8v5"/></symbol>
+<symbol id="i-settings" viewBox="0 0 24 24"><path d="M3.5 7.5h6M14.5 7.5h6M3.5 16.5h3M11.5 16.5h9"/><circle cx="12" cy="7.5" r="2.5"/><circle cx="9" cy="16.5" r="2.5"/></symbol>
+<symbol id="i-flame" viewBox="0 0 24 24"><path d="M13 3c.5 3-1.2 4.4-2.8 6C8.4 10.8 7 12.4 7 14.8A5.2 5.2 0 0 0 17 16c0-3-1.6-4.6-1.6-4.6-.4 1.4-1.3 2-2 2 .8-3.6-.4-8.4-.4-10.4z"/></symbol>
+<symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3.5v11.5"/><path d="M7.8 11.2 12 15.4l4.2-4.2"/><path d="M4.5 19.5h15"/></symbol>
+<symbol id="i-upload" viewBox="0 0 24 24"><path d="M12 20V8.5"/><path d="M7.8 12.3 12 8.1l4.2 4.2"/><path d="M4.5 4h15"/></symbol>
+<symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 6.5h16"/><path d="M9.5 6.5V4h5v2.5"/><path d="M6.5 6.5 7.6 20h8.8L17.5 6.5"/><path d="M10 10.5v5.5M14 10.5v5.5"/></symbol>
+<symbol id="i-star" viewBox="0 0 24 24"><path d="m12 3.5 2.7 5.6 6 .8-4.4 4.3 1.1 6.1-5.4-3-5.4 3 1.1-6.1L3.3 9.9l6-.8z"/></symbol>
+<symbol id="i-star-on" viewBox="0 0 24 24"><path d="m12 3.5 2.7 5.6 6 .8-4.4 4.3 1.1 6.1-5.4-3-5.4 3 1.1-6.1L3.3 9.9l6-.8z" fill="currentColor"/></symbol>
+<symbol id="i-check" viewBox="0 0 24 24"><path d="m4.5 12.5 5 5 10-11"/></symbol>
+<symbol id="i-x" viewBox="0 0 24 24"><path d="M5.5 5.5 18.5 18.5M18.5 5.5 5.5 18.5"/></symbol>
+<symbol id="i-right" viewBox="0 0 24 24"><path d="M4 12h15"/><path d="m13.5 6.5 5.5 5.5-5.5 5.5"/></symbol>
+<symbol id="i-left" viewBox="0 0 24 24"><path d="M20 12H5"/><path d="M10.5 6.5 5 12l5.5 5.5"/></symbol>
+<symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 11v5.5M12 7.8h.01"/></symbol>
+<symbol id="i-pin" viewBox="0 0 24 24"><path d="M9 3.5h6l-.8 5.2 3.3 2.8v1.6H6.5V11.5l3.3-2.8z"/><path d="M12 13.1V20.5"/></symbol>
+<symbol id="i-alert" viewBox="0 0 24 24"><path d="M12 4 21 19.5H3z"/><path d="M12 9.8v4.6M12 17.2h.01"/></symbol>
+<symbol id="i-bulb" viewBox="0 0 24 24"><path d="M12 3.2a6 6 0 0 0-3.5 10.9v2h7v-2A6 6 0 0 0 12 3.2z"/><path d="M9.5 18.5h5M10.5 21h3"/></symbol>
+<symbol id="i-quote" viewBox="0 0 24 24"><path d="M9.5 6.5C6.6 7.6 5 9.9 5 13v4.5h5.2V12H7.9c0-2 .6-3.4 2.3-4.2z"/><path d="M19 6.5c-2.9 1.1-4.5 3.4-4.5 6.5v4.5h5.2V12h-2.3c0-2 .6-3.4 2.3-4.2z"/></symbol>
+<symbol id="i-pencil" viewBox="0 0 24 24"><path d="m4 20 1.1-4.2L16.3 4.6l3.1 3.1L8.2 18.9z"/><path d="m14.4 6.5 3.1 3.1"/></symbol>
+<symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M12 6.8V12l3.4 2.2"/></symbol>
+<symbol id="i-trophy" viewBox="0 0 24 24"><path d="M7.5 3.5h9v5.2a4.5 4.5 0 0 1-9 0z"/><path d="M7.5 5h-3v1.4a3.3 3.3 0 0 0 3 3.3M16.5 5h3v1.4a3.3 3.3 0 0 1-3 3.3"/><path d="M12 13.2v3.8M8.5 20.5h7"/></symbol>
+<symbol id="i-offline" viewBox="0 0 24 24"><path d="M5 11.5a10 10 0 0 1 14 0M8.2 15a5.5 5.5 0 0 1 7.6 0"/><path d="M12 19h.01"/><path d="M3.5 3.5 20.5 20.5"/></symbol>
+<symbol id="i-compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="m15.5 8.5-2 5-5 2 2-5z"/></symbol>
+<symbol id="i-soon" viewBox="0 0 24 24"><path d="M6.5 3.5h11v3.2L12 12l5.5 5.3v3.2h-11v-3.2L12 12 6.5 6.7z"/></symbol>
+<symbol id="i-help" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M9.6 9.4a2.5 2.5 0 1 1 3.1 2.4c-.6.2-1 .8-1 1.5v.5"/><path d="M11.7 16.6h.01"/></symbol>
+<symbol id="i-code" viewBox="0 0 24 24"><path d="M9 7.5 4.5 12 9 16.5M15 7.5 19.5 12 15 16.5"/></symbol>
+<symbol id="i-sigma" viewBox="0 0 24 24"><path d="M17.5 5H6.5l6 7-6 7h11"/></symbol>
+<symbol id="i-cpu" viewBox="0 0 24 24"><rect x="6.5" y="6.5" width="11" height="11" rx="1"/><rect x="10" y="10" width="4" height="4"/><path d="M9.5 6.5v-3M14.5 6.5v-3M9.5 20.5v-3M14.5 20.5v-3M6.5 9.5h-3M6.5 14.5h-3M20.5 9.5h-3M20.5 14.5h-3"/></symbol>
+<symbol id="i-network" viewBox="0 0 24 24"><circle cx="12" cy="4.8" r="2.3"/><circle cx="5" cy="18" r="2.3"/><circle cx="19" cy="18" r="2.3"/><path d="M10.6 6.8 6.2 15.9M13.4 6.8l4.4 9.1M7.3 18h9.4"/></symbol>
+<symbol id="i-database" viewBox="0 0 24 24"><ellipse cx="12" cy="6" rx="7.5" ry="3"/><path d="M4.5 6v12c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3V6"/><path d="M4.5 12c0 1.7 3.4 3 7.5 3s7.5-1.3 7.5-3"/></symbol>
+<symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3.3 19.3 6v5.3c0 4.7-3.2 8-7.3 9.4-4.1-1.4-7.3-4.7-7.3-9.4V6z"/><path d="m9 11.8 2.2 2.2 4-4"/></symbol>
+<symbol id="i-cube" viewBox="0 0 24 24"><path d="M12 3.2 20 7.6v8.8L12 20.8 4 16.4V7.6z"/><path d="m4 7.6 8 4.4 8-4.4M12 12v8.8"/></symbol>
+<symbol id="i-scale" viewBox="0 0 24 24"><path d="M12 4.2v16M7.5 20.2h9"/><path d="M4 7.5h16"/><path d="M12 4.2 4 7.5M12 4.2l8 3.3"/><path d="M4 7.5 1.8 13.2a2.4 2.4 0 0 0 4.4 0z"/><path d="M20 7.5l-2.2 5.7a2.4 2.4 0 0 0 4.4 0z"/></symbol>
+<symbol id="i-building" viewBox="0 0 24 24"><path d="M2.5 20.5h19"/><path d="M12 2.8 20 7.5H4z"/><path d="M6 10v8M10 10v8M14 10v8M18 10v8"/><path d="M3.5 18.2h17"/></symbol>
+<symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17"/><path d="M12 3.5c2.4 2.4 3.6 5.3 3.6 8.5S14.4 18.2 12 20.5C9.6 18.2 8.4 15.2 8.4 12S9.6 5.8 12 3.5z"/></symbol>
+<symbol id="i-people" viewBox="0 0 24 24"><circle cx="9" cy="8.5" r="3.2"/><path d="M2.8 19.5c.7-3.2 3.2-5.2 6.2-5.2s5.5 2 6.2 5.2"/><path d="M16 5.8a3.2 3.2 0 0 1 0 5.6"/><path d="M17.2 14.6c2.1.5 3.6 2.2 4 4.9"/></symbol>
+<symbol id="i-gavel" viewBox="0 0 24 24"><path d="M3.5 20.5h9"/><path d="m6.5 12.5 6-6"/><path d="m4.8 15.6 5.6-5.6 2.4 2.4-5.6 5.6z" /><path d="m12.8 3.4 5 5-2.1 2.1-5-5z"/><path d="m16.6 7.2 3.9 3.9"/></symbol>
+</defs></svg>
+
+<div id="splash" class="splash"><div class="splash-logo">TÜ</div><div class="splash-txt">Yükleniyor…</div></div>
+
+<div class="shell" id="shell" hidden>
+  <header class="topbar">
+    <button class="icon-btn only-mobile" id="backBtn" title="Geri" hidden><svg class="ico" aria-hidden="true"><use href="#i-left"/></svg></button>
+    <div class="brand">
+      <span class="brand-mark">TÜ</span>
+      <span class="brand-txt"><b id="pageTitle">Ana Sayfa</b><small id="pageSub">Siyaset Bilimi ve Kamu Yönetimi</small></span>
+    </div>
+    <div class="topbar-right">
+      <div class="streak" id="streakBox" title="Üst üste çalışma günü"><svg class="ico" aria-hidden="true"><use href="#i-flame"/></svg><b id="streakNum">0</b></div>
+      <button class="icon-btn" id="searchBtn" title="Ara (A)"><svg class="ico" aria-hidden="true"><use href="#i-search"/></svg></button>
+      <button class="icon-btn" id="settingsBtn" title="Ayarlar"><svg class="ico" aria-hidden="true"><use href="#i-settings"/></svg></button>
+    </div>
+  </header>
+
+  <nav class="sidenav" id="sidenav">
+    <a href="#/" data-nav="/"><svg class="ni" aria-hidden="true"><use href="#i-home"/></svg><span>Ana Sayfa</span></a>
+    <a href="#/dersler" data-nav="/dersler"><svg class="ni" aria-hidden="true"><use href="#i-book"/></svg><span>Dersler</span></a>
+    <a href="#/derslerim" data-nav="/derslerim"><svg class="ni" aria-hidden="true"><use href="#i-list"/></svg><span>Derslerim</span></a>
+    <a href="#/kartlar" data-nav="/kartlar"><svg class="ni" aria-hidden="true"><use href="#i-layers"/></svg><span>Kartlar</span><b class="badge" id="dueBadge" hidden>0</b></a>
+    <a href="#/sinav" data-nav="/sinav"><svg class="ni" aria-hidden="true"><use href="#i-exam"/></svg><span>Sınav</span></a>
+    <a href="#/program" data-nav="/program"><svg class="ni" aria-hidden="true"><use href="#i-calendar"/></svg><span>Program</span></a>
+    <a href="#/notlar" data-nav="/notlar"><svg class="ni" aria-hidden="true"><use href="#i-cap"/></svg><span>Notlar</span></a>
+    <a href="#/ara" data-nav="/ara"><svg class="ni" aria-hidden="true"><use href="#i-search"/></svg><span>Ara</span></a>
+    <a href="#/yanlislarim" data-nav="/yanlislarim"><svg class="ni" aria-hidden="true"><use href="#i-target"/></svg><span>Yanlışlarım</span></a>
+    <a href="#/notlarim" data-nav="/notlarim"><svg class="ni" aria-hidden="true"><use href="#i-note"/></svg><span>Notlarım</span></a>
+    <a href="#/istatistik" data-nav="/istatistik"><svg class="ni" aria-hidden="true"><use href="#i-chart"/></svg><span>İstatistik</span></a>
+    <a href="#/hesap" data-nav="/hesap"><svg class="ni" aria-hidden="true"><use href="#i-user"/></svg><span>Hesap</span></a>
+    <div class="sidenav-foot">
+      <div class="goal-ring" id="goalRing" title="Günlük hedef"></div>
+    </div>
+  </nav>
+
+  <main id="view" class="view" tabindex="-1"></main>
+
+  <nav class="tabbar" id="tabbar">
+    <a href="#/" data-nav="/"><svg class="ni" aria-hidden="true"><use href="#i-home"/></svg><small>Ana</small></a>
+    <a href="#/dersler" data-nav="/dersler"><svg class="ni" aria-hidden="true"><use href="#i-book"/></svg><small>Dersler</small></a>
+    <a href="#/kartlar" data-nav="/kartlar"><svg class="ni" aria-hidden="true"><use href="#i-layers"/></svg><small>Kartlar</small><b class="badge" id="dueBadgeM" hidden>0</b></a>
+    <a href="#/sinav" data-nav="/sinav"><svg class="ni" aria-hidden="true"><use href="#i-exam"/></svg><small>Sınav</small></a>
+    <button type="button" id="moreBtn" aria-haspopup="dialog" aria-expanded="false" aria-controls="moreSheet"><svg class="ni" aria-hidden="true"><use href="#i-menu"/></svg><small>Menü</small></button>
+  </nav>
+
+  <!-- Mobil: tüm bölümler. İçerik app.js'te kenar menüden kopyalanır, tek kaynak orası. -->
+  <div class="more" id="moreSheet" role="dialog" aria-modal="true" aria-label="Tüm bölümler" hidden>
+    <div class="more-backdrop" data-close></div>
+    <div class="more-panel">
+      <div class="more-head">
+        <b>Tüm bölümler</b>
+        <button type="button" class="icon-btn" data-close title="Kapat"><svg class="ico" aria-hidden="true"><use href="#i-x"/></svg></button>
+      </div>
+      <nav class="more-grid" id="moreGrid"></nav>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="toast" hidden></div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

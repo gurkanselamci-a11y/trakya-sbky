@@ -1,0 +1,25 @@
+{
+  "name": "TÜ Siyaset Bilimi ve Kamu Yönetimi Çalışma",
+  "short_name": "TÜ SBKY",
+  "description": "Trakya Üniversitesi Siyaset Bilimi ve Kamu Yönetimi dersleri için çevrimdışı konu anlatımı, soru bankası, aralıklı tekrar ve deneme sınavı.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f4f6",
+  "theme_color": "#f2f4f6",
+  "lang": "tr",
+  "dir": "ltr",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "shortcuts": [
+    { "name": "Kart tekrarı", "short_name": "Kartlar", "url": "./index.html#/kartlar", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Deneme sınavı", "short_name": "Sınav", "url": "./index.html#/sinav", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Ders programı", "short_name": "Program", "url": "./index.html#/program", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

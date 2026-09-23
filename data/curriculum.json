@@ -1,0 +1,1741 @@
+{
+  "university": "Trakya Üniversitesi",
+  "faculty": "İktisadi ve İdari Bilimler Fakültesi",
+  "department": "Siyaset Bilimi ve Kamu Yönetimi",
+  "academicYear": "2026-2027",
+  "activeSemester": 1,
+  "source": "Müfredat ve haftalık program: Trakya Üniversitesi OBS (obs.trakya.edu.tr — Müfredat Bilgi Paketi ve Bölüm Ders Programı, 2026-2027 Güz, erişim 21.09.2026). Müfredat kaydı: 2019 SİYASET BİLİMİ VE KAMU YÖNETİMİ Müfredatı. Ayrıntı: docs/MUFREDAT-ARASTIRMA.md",
+  "semesters": [
+    {
+      "n": 1,
+      "label": "1. Yarıyıl",
+      "term": "Güz",
+      "year": 1,
+      "verified": true,
+      "courses": [
+        "KAM101",
+        "KAM103",
+        "KAM105",
+        "KAM109",
+        "KAM111",
+        "KAM113",
+        "MAT111",
+        "ZAI101",
+        "ZTD101",
+        "ZYD101"
+      ]
+    },
+    {
+      "n": 2,
+      "label": "2. Yarıyıl",
+      "term": "Bahar",
+      "year": 1,
+      "verified": true,
+      "courses": [
+        "KAM104",
+        "KAM106",
+        "KAM108",
+        "KAM110",
+        "KAM112",
+        "KAM114",
+        "KAM116",
+        "ZAI102",
+        "ZTD102",
+        "ZYD102"
+      ]
+    },
+    {
+      "n": 3,
+      "label": "3. Yarıyıl",
+      "term": "Güz",
+      "year": 2,
+      "verified": true,
+      "courses": [
+        "KAM201",
+        "KAM203",
+        "KAM205",
+        "KAM207",
+        "KAM209",
+        "KAM211",
+        "KAM213"
+      ]
+    },
+    {
+      "n": 4,
+      "label": "4. Yarıyıl",
+      "term": "Bahar",
+      "year": 2,
+      "verified": true,
+      "courses": [
+        "KAM202",
+        "KAM204",
+        "KAM206",
+        "KAM208",
+        "KAM210",
+        "KAM212",
+        "KAM214"
+      ]
+    },
+    {
+      "n": 5,
+      "label": "5. Yarıyıl",
+      "term": "Güz",
+      "year": 3,
+      "verified": true,
+      "courses": [
+        "KAM301",
+        "KAM303",
+        "KAM309",
+        "KAM311",
+        "KAM305",
+        "KAM307",
+        "KAM313",
+        "KAM315",
+        "KAM323",
+        "KAM325",
+        "KAM329",
+        "KAM333",
+        "KAM335",
+        "KAM337"
+      ]
+    },
+    {
+      "n": 6,
+      "label": "6. Yarıyıl",
+      "term": "Bahar",
+      "year": 3,
+      "verified": true,
+      "courses": [
+        "KAM302",
+        "KAM304",
+        "KAM308",
+        "KAM312",
+        "KAM310",
+        "KAM314",
+        "KAM316",
+        "KAM326",
+        "KAM334",
+        "KAM336",
+        "KAM340",
+        "KAM342",
+        "KAM344"
+      ]
+    },
+    {
+      "n": 7,
+      "label": "7. Yarıyıl",
+      "term": "Güz",
+      "year": 4,
+      "verified": true,
+      "courses": [
+        "KAM401",
+        "KAM405",
+        "KAM415",
+        "KAM407",
+        "KAM409",
+        "KAM411",
+        "KAM413",
+        "KAM417",
+        "KAM425",
+        "KAM427",
+        "KAM429",
+        "KAM431",
+        "KAM433"
+      ]
+    },
+    {
+      "n": 8,
+      "label": "8. Yarıyıl",
+      "term": "Bahar",
+      "year": 4,
+      "verified": false,
+      "courses": [
+        "KAM402",
+        "KAM406",
+        "KAM410",
+        "KAM404",
+        "KAM412",
+        "KAM414",
+        "KAM416",
+        "KAM424",
+        "KAM428",
+        "KAM430",
+        "KAM468",
+        "KAM484"
+      ]
+    }
+  ],
+  "courseIndex": {
+    "KAM101": {
+      "name": "Toplum Bilim I",
+      "shortName": "Toplum Bilim I",
+      "icon": "people",
+      "color": "#a9662a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Melek Busem Öztekin"
+    },
+    "KAM103": {
+      "name": "Siyaset Bilimine Giriş I",
+      "shortName": "Siyaset Bilimi I",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Burak Gümüş"
+    },
+    "KAM105": {
+      "name": "İktisada Giriş I",
+      "shortName": "İktisada Giriş I",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Levent Özkan"
+    },
+    "KAM109": {
+      "name": "Hukukun Temel Kavramları",
+      "shortName": "Hukukun Kavramları",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Hakan Sabri Çelikyay"
+    },
+    "KAM111": {
+      "name": "Genel İşletme",
+      "shortName": "Genel İşletme",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Seyhan Bilir Güler"
+    },
+    "KAM113": {
+      "name": "Genel Muhasebe I",
+      "shortName": "Genel Muhasebe I",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Kıymet Çalıyurt"
+    },
+    "MAT111": {
+      "name": "Matematik I",
+      "shortName": "Matematik I",
+      "icon": "sigma",
+      "color": "#8c3f6b",
+      "elective": false,
+      "credits": {
+        "t": 2,
+        "u": 2,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Engin Şenel"
+    },
+    "ZAI101": {
+      "name": "Atatürk İlkeleri ve İnkılap Tarihi I",
+      "shortName": "Atatürk İlkeleri I",
+      "icon": "book",
+      "color": "#5a6470",
+      "elective": false,
+      "credits": {
+        "t": 2,
+        "u": 0,
+        "l": 0,
+        "kredi": 2,
+        "akts": 2
+      },
+      "instructor": "Emre Elmas"
+    },
+    "ZTD101": {
+      "name": "Türk Dili I",
+      "shortName": "Türk Dili I",
+      "icon": "book",
+      "color": "#5a6470",
+      "elective": false,
+      "credits": {
+        "t": 2,
+        "u": 0,
+        "l": 0,
+        "kredi": 2,
+        "akts": 2
+      },
+      "instructor": "Salih Koralp Güreşir"
+    },
+    "ZYD101": {
+      "name": "Yabancı Dil I",
+      "shortName": "Yabancı Dil I",
+      "icon": "book",
+      "color": "#5a6470",
+      "elective": false,
+      "credits": {
+        "t": 2,
+        "u": 0,
+        "l": 0,
+        "kredi": 2,
+        "akts": 2
+      },
+      "instructor": "Meltem Baysal Çalışkan"
+    },
+    "KAM104": {
+      "name": "Siyaset Bilimi Giriş II",
+      "shortName": "Siyaset Bilimi II",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Burak Gümüş"
+    },
+    "KAM106": {
+      "name": "Makro İktisat",
+      "shortName": "Makro İktisat",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Levent Özkan"
+    },
+    "KAM108": {
+      "name": "Sosyal Bilimlerde Kamu Yönetimi Terminolojisi",
+      "shortName": "KY Terminolojisi",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Nalan Demiral"
+    },
+    "KAM110": {
+      "name": "Anayasa Hukuku",
+      "shortName": "Anayasa Hukuku",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "H. Sabri Çelikyay"
+    },
+    "KAM112": {
+      "name": "Medeni Hukuk",
+      "shortName": "Medeni Hukuk",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Rengül Ekizceleroğlu"
+    },
+    "KAM114": {
+      "name": "Genel Muhasebe II",
+      "shortName": "Genel Muhasebe II",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Kiymet Caliyurt"
+    },
+    "KAM116": {
+      "name": "Toplum Bilim II",
+      "shortName": "Toplum Bilim II",
+      "icon": "people",
+      "color": "#a9662a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Tülay Tekin Yılmaz"
+    },
+    "ZAI102": {
+      "name": "Atatürk İlkeleri ve İnkılap Tarihi II",
+      "shortName": "Atatürk İlkeleri II",
+      "icon": "book",
+      "color": "#5a6470",
+      "elective": false,
+      "credits": {
+        "t": 2,
+        "u": 0,
+        "l": 0,
+        "kredi": 2,
+        "akts": 2
+      },
+      "instructor": "Emre Elmas"
+    },
+    "ZTD102": {
+      "name": "Türk Dili II",
+      "shortName": "Türk Dili II",
+      "icon": "book",
+      "color": "#5a6470",
+      "elective": false,
+      "credits": {
+        "t": 2,
+        "u": 0,
+        "l": 0,
+        "kredi": 2,
+        "akts": 2
+      },
+      "instructor": "Salih Koralp Güreşir"
+    },
+    "ZYD102": {
+      "name": "Yabancı Dil II",
+      "shortName": "Yabancı Dil II",
+      "icon": "book",
+      "color": "#5a6470",
+      "elective": false,
+      "credits": {
+        "t": 2,
+        "u": 0,
+        "l": 0,
+        "kredi": 2,
+        "akts": 2
+      },
+      "instructor": "Anıl Nalkıran"
+    },
+    "KAM201": {
+      "name": "Kamu Yönetimi I",
+      "shortName": "Kamu Yönetimi I",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Nalan Demiral"
+    },
+    "KAM203": {
+      "name": "Yönetim Bilimi I",
+      "shortName": "Yönetim Bilimi I",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Muzaffer Özsoy"
+    },
+    "KAM205": {
+      "name": "Siyasal Düşünceler Tarihi I",
+      "shortName": "Siyasal Düşünceler I",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Deniz Eroğlu Utku"
+    },
+    "KAM207": {
+      "name": "Sosyal Bilimlerde Araştırma Yöntemleri",
+      "shortName": "Araştırma Yöntemleri",
+      "icon": "sigma",
+      "color": "#8c3f6b",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Nalan Demiral"
+    },
+    "KAM209": {
+      "name": "İdare Hukuku I",
+      "shortName": "İdare Hukuku I",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Selda Çağlar"
+    },
+    "KAM211": {
+      "name": "Kentleşme ve Konut Politikaları I",
+      "shortName": "Kentleşme I",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Berkan Demiral"
+    },
+    "KAM213": {
+      "name": "Kamu Maliyesi I",
+      "shortName": "Kamu Maliyesi I",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Mikail Pehlivan"
+    },
+    "KAM202": {
+      "name": "Yönetim Bilimi II",
+      "shortName": "Yönetim Bilimi II",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Muzaffer Özsoy"
+    },
+    "KAM204": {
+      "name": "Siyasal Düşünceler Tarihi II",
+      "shortName": "Siyasal Düşünceler II",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "A. Baran Dural"
+    },
+    "KAM206": {
+      "name": "Kamu Maliyesi II",
+      "shortName": "Kamu Maliyesi II",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Bilge Hakan Agun"
+    },
+    "KAM208": {
+      "name": "Borçlar Hukuku",
+      "shortName": "Borçlar Hukuku",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Rengül Ekizceleroğlu"
+    },
+    "KAM210": {
+      "name": "İdare Hukuku II",
+      "shortName": "İdare Hukuku II",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Selda Çağlar"
+    },
+    "KAM212": {
+      "name": "Kamu Yönetimi II",
+      "shortName": "Kamu Yönetimi II",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Nalan Demiral"
+    },
+    "KAM214": {
+      "name": "Kentleşme ve Konut Politikaları II",
+      "shortName": "Kentleşme II",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 4
+      },
+      "instructor": "Berkan Demiral"
+    },
+    "KAM301": {
+      "name": "Mahalli İdareler I",
+      "shortName": "Mahalli İdareler I",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Mahmut Güler"
+    },
+    "KAM303": {
+      "name": "İstatistik I",
+      "shortName": "İstatistik I",
+      "icon": "sigma",
+      "color": "#8c3f6b",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Havva Gültekin"
+    },
+    "KAM309": {
+      "name": "Çevre Yönetimi",
+      "shortName": "Çevre Yönetimi",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Gökhan Zengin"
+    },
+    "KAM311": {
+      "name": "Siyasi Tarih I",
+      "shortName": "Siyasi Tarih I",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Cemile Arıkoğlu Ündücü"
+    },
+    "KAM305": {
+      "name": "Türkiye Ekonomisi",
+      "shortName": "Türkiye Ekonomisi",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Berkan Demiral"
+    },
+    "KAM307": {
+      "name": "Vergi Hukuku",
+      "shortName": "Vergi Hukuku",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Selçuk Tekin"
+    },
+    "KAM313": {
+      "name": "Sosyal Politika",
+      "shortName": "Sosyal Politika",
+      "icon": "people",
+      "color": "#a9662a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Muzaffer Özsoy"
+    },
+    "KAM315": {
+      "name": "Türk Düşünce Tarihi",
+      "shortName": "Türk Düşünce Tarihi",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "A. Baran Dural"
+    },
+    "KAM323": {
+      "name": "Uluslararası Hukuk",
+      "shortName": "Uluslararası Hukuk",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Berkan Demiral"
+    },
+    "KAM325": {
+      "name": "Karşılaştırmalı Kamu Yönetimi",
+      "shortName": "Karş. Kamu Yönetimi",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Nalan Demiral"
+    },
+    "KAM329": {
+      "name": "Demokrasi Teorileri",
+      "shortName": "Demokrasi Teorileri",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Burak Gümüş"
+    },
+    "KAM333": {
+      "name": "Göç Politikaları",
+      "shortName": "Göç Politikaları",
+      "icon": "globe",
+      "color": "#1f6f78",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Deniz Eroglu Utku"
+    },
+    "KAM335": {
+      "name": "Modern Türkiye'de Toplumsal Cinsiyet",
+      "shortName": "Toplumsal Cinsiyet",
+      "icon": "people",
+      "color": "#a9662a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Melek Busem Öztekin"
+    },
+    "KAM337": {
+      "name": "Çevresel Etki Değerlendirmesi",
+      "shortName": "ÇED",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Gökhan Zengin"
+    },
+    "KAM302": {
+      "name": "Mahalli İdareler II",
+      "shortName": "Mahalli İdareler II",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Mahmut Güler"
+    },
+    "KAM304": {
+      "name": "Siyaset Sosyolojisi",
+      "shortName": "Siyaset Sosyolojisi",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Burak Gümüş"
+    },
+    "KAM308": {
+      "name": "Bölgesel Kalkınma Yönetimi",
+      "shortName": "Bölgesel Kalkınma",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Berkan Demiral"
+    },
+    "KAM312": {
+      "name": "Siyasi Tarih II",
+      "shortName": "Siyasi Tarih II",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Cemile Arıkoğlu Ündücü"
+    },
+    "KAM310": {
+      "name": "İş Hukuku",
+      "shortName": "İş Hukuku",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Muzaffer Özsoy"
+    },
+    "KAM314": {
+      "name": "Uluslararası İlişkiler ve Politikalar",
+      "shortName": "Uluslararası İlişkiler",
+      "icon": "globe",
+      "color": "#1f6f78",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Deniz Eroglu Utku"
+    },
+    "KAM316": {
+      "name": "Türk Düşünce Tarihi",
+      "shortName": "Türk Düşünce Tarihi",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "A. Baran Dural"
+    },
+    "KAM326": {
+      "name": "Türk Vergi Sistemi",
+      "shortName": "Türk Vergi Sistemi",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Selçuk Tekin"
+    },
+    "KAM334": {
+      "name": "Karşılaştırmalı Siyasal Sistemler",
+      "shortName": "Karş. Siyasal Sist.",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Aytekin Geleri"
+    },
+    "KAM336": {
+      "name": "Kent Yönetimi",
+      "shortName": "Kent Yönetimi",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Mahmut Güler"
+    },
+    "KAM340": {
+      "name": "Uygarlık Tarihi",
+      "shortName": "Uygarlık Tarihi",
+      "icon": "people",
+      "color": "#a9662a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Deniz Eroglu Utku"
+    },
+    "KAM342": {
+      "name": "Toplumsal Cinsiyet ve Şehir",
+      "shortName": "Cinsiyet ve Şehir",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Gökben Demirbaş"
+    },
+    "KAM344": {
+      "name": "Yönetim Psikolojisi",
+      "shortName": "Yönetim Psikolojisi",
+      "icon": "people",
+      "color": "#a9662a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Emre Akcagündüz"
+    },
+    "KAM401": {
+      "name": "Türk Siyasi Hayatı I",
+      "shortName": "Türk Siyasi Hayatı I",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Serap Yolcu Yavuz"
+    },
+    "KAM405": {
+      "name": "İnsan Hakları",
+      "shortName": "İnsan Hakları",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Hakan Sabri Çelikyay"
+    },
+    "KAM415": {
+      "name": "Kamu Yönetiminde Etik",
+      "shortName": "Yönetimde Etik",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Emre Akcagündüz"
+    },
+    "KAM407": {
+      "name": "Kentleşme Suç ve Suçluluk",
+      "shortName": "Kentleşme ve Suç",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      }
+    },
+    "KAM409": {
+      "name": "İnsan Kaynakları Yönetimi",
+      "shortName": "İnsan Kaynakları",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Muzaffer Özsoy"
+    },
+    "KAM411": {
+      "name": "Uluslararası Örgütler",
+      "shortName": "Uluslararası Örgütler",
+      "icon": "globe",
+      "color": "#1f6f78",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Deniz Eroğlu Utku"
+    },
+    "KAM413": {
+      "name": "Uygulamalı Girişimcilik",
+      "shortName": "Girişimcilik",
+      "icon": "book",
+      "color": "#5a6470",
+      "elective": true,
+      "credits": {
+        "t": 2,
+        "u": 1,
+        "l": 0,
+        "kredi": 2.5,
+        "akts": 3
+      },
+      "instructor": "Berkan Demiral"
+    },
+    "KAM417": {
+      "name": "Kamu Kurumlarında Stratejik Planlama",
+      "shortName": "Stratejik Planlama",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Mahmut Güler"
+    },
+    "KAM425": {
+      "name": "Türkiye'nin Toplumsal Yapısı",
+      "shortName": "Toplumsal Yapı",
+      "icon": "people",
+      "color": "#a9662a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Cemile Arıkoğlu Ündücü"
+    },
+    "KAM427": {
+      "name": "Çağdaş Siyasal Akımlar",
+      "shortName": "Çağdaş Siy. Akımlar",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "A. Baran Dural"
+    },
+    "KAM429": {
+      "name": "Devlet Sistemleri",
+      "shortName": "Devlet Sistemleri",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Burak Gümüş"
+    },
+    "KAM431": {
+      "name": "Kamu Yönetimi ve Dijitalleşme",
+      "shortName": "KY ve Dijitalleşme",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Emre Akcagündüz"
+    },
+    "KAM433": {
+      "name": "Çevre Hukuku",
+      "shortName": "Çevre Hukuku",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Berkan Demiral"
+    },
+    "KAM402": {
+      "name": "Türk Anayasa Düzeni",
+      "shortName": "Türk Anayasa Düzeni",
+      "icon": "scale",
+      "color": "#5b4a8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "H. Sabri Çelikyay"
+    },
+    "KAM406": {
+      "name": "Kamu Personel Yönetimi",
+      "shortName": "Kamu Personel Yönetimi",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "Gökhan Zengin"
+    },
+    "KAM410": {
+      "name": "Türk Siyasi Hayatı II",
+      "shortName": "Türk Siyasi Hayatı II",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": false,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 5
+      },
+      "instructor": "A. Baran Dural"
+    },
+    "KAM404": {
+      "name": "Türk Yönetim Tarihi",
+      "shortName": "Türk Yönetim Tarihi",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Nalan Demiral"
+    },
+    "KAM412": {
+      "name": "Dünya Ekonomisi",
+      "shortName": "Dünya Ekonomisi",
+      "icon": "globe",
+      "color": "#1f6f78",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Ahmet Atakişi"
+    },
+    "KAM414": {
+      "name": "Endüstri İlişkileri",
+      "shortName": "Endüstri İlişkileri",
+      "icon": "chart",
+      "color": "#2b6b4f",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Muzaffer Özsoy"
+    },
+    "KAM416": {
+      "name": "Siyasal Partiler",
+      "shortName": "Siyasal Partiler",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Cemile Arıkoğlu Ündücü"
+    },
+    "KAM424": {
+      "name": "Küresel Çevre Sorunları",
+      "shortName": "Küresel Çevre",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Berkan Demiral"
+    },
+    "KAM428": {
+      "name": "Siyaset Teorisi",
+      "shortName": "Siyaset Teorisi",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Deniz Eroglu Utku"
+    },
+    "KAM430": {
+      "name": "Uygarlık Tarihi İçinde Kentsel Gelişme",
+      "shortName": "Kentsel Gelişme",
+      "icon": "building",
+      "color": "#2f5d8a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Mahmut Güler"
+    },
+    "KAM468": {
+      "name": "Medya-Kamuoyu-Siyaset",
+      "shortName": "Medya ve Siyaset",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Burak Gümüş"
+    },
+    "KAM484": {
+      "name": "Baskı ve Çıkar Grupları",
+      "shortName": "Baskı-Çıkar Grupları",
+      "icon": "compass",
+      "color": "#a8322a",
+      "elective": true,
+      "credits": {
+        "t": 3,
+        "u": 0,
+        "l": 0,
+        "kredi": 3,
+        "akts": 3
+      },
+      "instructor": "Deniz Eroğlu Utku"
+    }
+  },
+  "schedule": [
+    {
+      "day": 1,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM203",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 1,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM301",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 1,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM405",
+      "room": "DERSLİK 22[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 1,
+      "start": "08:30",
+      "end": "12:20",
+      "code": "MAT111",
+      "room": "AMFİ 9[96]",
+      "kind": "Teori"
+    },
+    {
+      "day": 1,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM109",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 1,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM309",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 1,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM433",
+      "room": "AMFİ 9[96]",
+      "kind": "Teori"
+    },
+    {
+      "day": 2,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM113",
+      "room": "AMFİ 9[96]",
+      "kind": "Teori"
+    },
+    {
+      "day": 2,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM201",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 2,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM311",
+      "room": "AMFİ 3[140]",
+      "kind": "Teori"
+    },
+    {
+      "day": 2,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM417",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 2,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM111",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 2,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM209",
+      "room": "DERSLİK 22[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 2,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM307",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 2,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM429",
+      "room": "AMFİ 9[96]",
+      "kind": "Teori"
+    },
+    {
+      "day": 3,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM211",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 3,
+      "start": "10:30",
+      "end": "12:20",
+      "code": "ZYD101",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 3,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM103",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 3,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM205",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 3,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM337",
+      "room": "DERSLİK 22[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 3,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM409",
+      "room": "AMFİ 9[96]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM105",
+      "room": "DERSLİK 22[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM207",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM313",
+      "room": "AMFİ 9[96]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM411",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM431",
+      "room": "DERSLİK 19[48]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM213",
+      "room": "DERSLİK 22[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM325",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "12:30",
+      "end": "15:20",
+      "code": "KAM401",
+      "room": "AMFİ 12[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 4,
+      "start": "12:30",
+      "end": "14:20",
+      "code": "ZAI101",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 5,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM101",
+      "room": "DERSLİK 22[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 5,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM303",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 5,
+      "start": "08:30",
+      "end": "11:20",
+      "code": "KAM415",
+      "room": "AMFİ 11[144]",
+      "kind": "Teori"
+    },
+    {
+      "day": 5,
+      "start": "14:30",
+      "end": "17:20",
+      "code": "KAM335",
+      "room": "DERSLİK 20[111]",
+      "kind": "Teori"
+    },
+    {
+      "day": 5,
+      "start": "14:30",
+      "end": "16:20",
+      "code": "ZTD101",
+      "room": "AMFİ 3[140]",
+      "kind": "Teori"
+    }
+  ]
+}

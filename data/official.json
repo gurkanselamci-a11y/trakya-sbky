@@ -1,0 +1,6178 @@
+{
+ "_kaynak": "Trakya Üniversitesi OBS — Müfredat Bilgi Paketi, ders bilgi formları. Erişim: 21.09.2026. Bu alanlar üniversitenin ilan ettiği resmî bilgidir; uygulamadaki ders anlatımı ve sorular bu depoda üretilmiştir.",
+ "KAM101": {
+  "amac": "Toplum Bilimi Dersinin ana hedefi, geniş bir kültür yelpazesi içinde bilgilenmiş, toplumsal yapı ve süreçleri irdeleyebilen, eleştirel düşünce yeteneğine sahip bireyler yetiştirmektir.",
+  "icerik": "Bu derste temel sosyolojik kavramlar ve kuramlar işlenerek, öğrencilere anlatılmaktadır. Bu çerçevede öğrencilerin ileride alacakları dersler ile ilgili temel bilgiler verilmektedir. Yaşadığımız toplumun sosyal ve kültürel yapısı ve güncel konuları üzerine tartışma ortamı yaratılmasına özellikle önem verilmektedir.",
+  "outcomes": [
+   "Öğrenciler toplumsal dünyaya ilişkin sosyolojik bir bakış açısı geliştirebilecektir",
+   "Öğrenciler toplumsal olguları ve toplumla ilgili olan kavramları açıklayabilecektir",
+   "Öğrenciler Türkiye'de ve dünyada toplumsal kurumların temel özelliklerini açıklayabilecektir",
+   "Öğrenciler modern sosyolojinin gelişimini ve temel özelliklerini açıklayabilecektir"
+  ],
+  "resources": [
+   "Suğur, N. (Ed.), 2013, Sosyolojiye Giriş, Eskişehir: Anadolu Üniversitesi Açıköğretim Fakültesi Yayını",
+   "Sungur, Z & Kırel, A.Ç. (Ed.), Davranış Bilimleri I, 2015, Eskişehir, Anadolu Üniversitesi Açıköğretim Fakültesi Yayınları, Yayın No: 1672"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Sosyolojiye Giriş"
+   },
+   {
+    "n": 2,
+    "konu": "Sosyolojide Bilimsel Yöntem ve Aşamalar"
+   },
+   {
+    "n": 3,
+    "konu": "Sosyolojinin Tarihsel Gelişimi"
+   },
+   {
+    "n": 4,
+    "konu": "Sosyolojide Kuramsal Yaklaşımlar"
+   },
+   {
+    "n": 5,
+    "konu": "Kültür, Kültürü Oluşturan Parçalar"
+   },
+   {
+    "n": 6,
+    "konu": "Kültürel Farklılıklar, Kültürel Değişme"
+   },
+   {
+    "n": 7,
+    "konu": "Kültürün Diğer Parametreleri"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Aile Kavramı, Aile Yapıları ve Türleri"
+   },
+   {
+    "n": 10,
+    "konu": "Aile Kurumunu Açıklayan Sosyolojik Kuramlar"
+   },
+   {
+    "n": 11,
+    "konu": "Türk Toplumunda Aile Yapısı, Toplumsal Gruplar"
+   },
+   {
+    "n": 12,
+    "konu": "Küreselleşme, Genel Kavramlar"
+   },
+   {
+    "n": 13,
+    "konu": "Kapitalizmin Küreselleşmesi"
+   },
+   {
+    "n": 14,
+    "konu": "Toplumsal Tabakalaşma Olgusu ve Sistemleri"
+   },
+   {
+    "n": 15,
+    "konu": "Toplumsal Tabakalaşma Kuramları"
+   }
+  ],
+  "updated": "08.04.2025"
+ },
+ "KAM103": {
+  "amac": "Bu derste, üniversiteyi yeni kazanmış adaylara siyaset bilimi felsefesi tanıtılmaktadır. Öğrencilere en temel bilgiler aktarılıp güncel meselelerde kullanılan kavramların temel kuramları öğretilmektedir",
+  "icerik": "Siyaset Bilimi, İktidar/Güç ve Egemenlik (Weber), Siyasal Güçler (Partiler, örgütler, medya aktörleri, flashmoblar), Siyasal Düşünceler, Parti içi Oligarşi, Hükümet Sistemleri",
+  "outcomes": [
+   "Bu dersi alan öğrenciler, dönem sonunda güncel konuları teorik bazda bilen,siyasal olayları bilimsel çerçeveler üzerinde tartışan bireyler haline gelir."
+  ],
+  "resources": [
+   "Heywood, Andrew, Siyaset, Felix, 2022; Gönenç, Levent, \"Hükümet Sistemi Tartışmalarında 'Başkanlı Parlamenter Sistem' Seçeneği\",, Dural, A. Baran Dural (Ed.), Siyaset Biliminde Kuram Yöntem Güncel Yaklaşımlar, Paradigma Akademi, 2. Baskı, Edirne, 2013"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "genel tanıtım"
+   },
+   {
+    "n": 2,
+    "konu": "Siyaset Bilimi nedir?"
+   },
+   {
+    "n": 3,
+    "konu": "Bürokratik Aygıt (Klasik ve yeni bürokrasi teorileri)"
+   },
+   {
+    "n": 4,
+    "konu": "Güç/iktidar ve devlet ( & Weber'in Egemenlik Sosyolojisi)"
+   },
+   {
+    "n": 5,
+    "konu": "güç/iktidar ve devlet 2"
+   },
+   {
+    "n": 6,
+    "konu": "Siyasal Güçler (Medya, Partiler)"
+   },
+   {
+    "n": 7,
+    "konu": "Siyasal Güçler (Medya, Partiler)"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "siyasal güçler (örgütler, baskı grupları, yeni sosyal hereketler, flashmoblar)"
+   },
+   {
+    "n": 10,
+    "konu": "Hükümet Sistemleri"
+   },
+   {
+    "n": 11,
+    "konu": "İsviçre, Birleşik Krallık"
+   },
+   {
+    "n": 12,
+    "konu": "ABD Başkanlık Sistemi"
+   },
+   {
+    "n": 13,
+    "konu": "Almanya"
+   },
+   {
+    "n": 14,
+    "konu": "Cumhurbaşkanlığı Hükümet Sistemi"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "24.03.2025"
+ },
+ "KAM104": {
+  "amac": "Bu derste, üniversiteyi yeni kazanmış adaylara siyaset bilimi felsefesi tanıtılmaktadır. Öğrencilere en temel bilgiler aktarılıp güncel meselelerde kullanılan kavramların temel kuramları öğretilmektedir",
+  "icerik": "Siyasal Sistem, Siyasal Toplumsallaşma, Siyasal Kültür, Siyasal İdeolojiler, Seçim Sistemleri, Uluslararası İlişkiler Teorileri",
+  "outcomes": [
+   "Dönem sonunda öğrenciler, güncel konuları teorik bazda bilir, siyasal olayları bilimsel çerçeveler üzerinde tartışan bireyler haline gelir."
+  ],
+  "resources": [
+   "Slayt & Andrew Heywood, Siyaset, Felix Yayınevi, 24. Baskı, 2022; içinde A. Baran Dural (Ed.), Siyaset Biliminde Kuram-Yöntem-Güncel Yaklaşımlar, Paradigma Akademi Yayınları, Edirne, 2. Baskı, 2013"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Genel Tanıtım"
+   },
+   {
+    "n": 2,
+    "konu": "Siyasal Sistem & Siyasal Toplumsallaşma"
+   },
+   {
+    "n": 3,
+    "konu": "Siyasal Katılım & Siyasal Kültür"
+   },
+   {
+    "n": 4,
+    "konu": "Siyasal İdeoloji: Liberalizm ve Muhafazakarlık"
+   },
+   {
+    "n": 5,
+    "konu": "Siyasal İdeoloji : Socializml'er (Devrimci Sosyalizm, Demokratik Sosyalizm, Sosyal Demokrasi, Gramşiyan yaklaşım, Althusserci yaklaşım, Poulantzas, Block)"
+   },
+   {
+    "n": 6,
+    "konu": "Siyasal İdeoloji: Milliyetçilik ve Faşizm"
+   },
+   {
+    "n": 7,
+    "konu": "Siyasal İdeolojiler: Kemalism Seçim Sistemleri"
+   },
+   {
+    "n": 8,
+    "konu": "Midterm"
+   },
+   {
+    "n": 9,
+    "konu": "Anayasa Hak ve Özgürlükler"
+   },
+   {
+    "n": 10,
+    "konu": "Uluslararası İlişkiler Kuramları1: Realism, Liberalizm, Neo-Realizm"
+   },
+   {
+    "n": 11,
+    "konu": "Uluslararası İlişkiler Kuramları 2: Jeopolitik Kuramlar"
+   },
+   {
+    "n": 12,
+    "konu": "Uluslararası İlişkiler Teorileri 3: Hegemonya yaklaşımı & Hegemonyacı İstikrar Teorisi"
+   },
+   {
+    "n": 13,
+    "konu": "Uluslararası İlişkiler Kuramları 4: İki Düzeyli Oyunları"
+   },
+   {
+    "n": 14,
+    "konu": "Uluslararası İlişkiler Teorileri 5: OYUN “KURAMI”; Lenin'in Emperalizm Kuramı, Wallerstein'in Dünya Sistem Kuramı, Küreselleşme"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM105": {
+  "amac": "İktisat bilimine ait temel bilgileri teorik ve uygulamalarla öğretmek",
+  "icerik": "Ders teorik ve pratik bilgilerin yanı sıra güncel ekonomik gelişmelerin irdelenmesi ile desteklenmektedir",
+  "outcomes": [
+   "Öğrencileri iktisat bilimine ait bilgileri iş hayatında uygulayacak düzeye gelir."
+  ],
+  "resources": [
+   "İktisadın Giriş- Prof. Dr. İlker Parasız- Ezgi Kitabevi",
+   "İktisada Giriş- S. Ison,S. Wall- Bilim Teknik Yayınevi"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Ekonomik temel kavramlar, ekonomi biliminde yöntem"
+   },
+   {
+    "n": 2,
+    "konu": "Tercihler, fırsat maliyeti ilkesi, kıt kaynak kavramı"
+   },
+   {
+    "n": 3,
+    "konu": "Mal, hizmet ve fayda kavramları"
+   },
+   {
+    "n": 4,
+    "konu": "Ordinal Fayda Teorisi"
+   },
+   {
+    "n": 5,
+    "konu": "Kardinal Fayda Teorisi"
+   },
+   {
+    "n": 6,
+    "konu": "Talep, piyasa talebi ve talep eğrisi, talebi etkileyen faktörler"
+   },
+   {
+    "n": 7,
+    "konu": "Arz, arzı etkileyen faktörler ve arz eğrisinden kaymalar"
+   },
+   {
+    "n": 8,
+    "konu": "Arasınav"
+   },
+   {
+    "n": 9,
+    "konu": "Denge fiyatının oluşumu açısından piyasada fiyatın oluşumu ve piyasa mekanizması"
+   },
+   {
+    "n": 10,
+    "konu": "Talep ve arz esneklikleri; esneklik kavramı"
+   },
+   {
+    "n": 11,
+    "konu": "Talebin fiyat esnekliği, talebin gelir esnekliği, talebin çapraz esnekliği, arzın fiyat esnekliği, arzın çapraz esnekliği"
+   },
+   {
+    "n": 12,
+    "konu": "Tam Rekabet Piyasası"
+   },
+   {
+    "n": 13,
+    "konu": "Monopol Piyasası"
+   },
+   {
+    "n": 14,
+    "konu": "Diğer Aksak Rekabet Piyasaları (oligopoly and monopolistically competative markets"
+   },
+   {
+    "n": 15,
+    "konu": "Oyun Teorisi"
+   }
+  ],
+  "updated": "03.04.2025"
+ },
+ "KAM106": {
+  "amac": "Makroekonomik büyüklükler ve kendi aralarındaki etkileşimi ve bunun analiz yeteneğini öğrencilere kazandırmaktır.",
+  "icerik": "Makro Ekonomik Büyüklükler,",
+  "outcomes": [
+   "Öğrenci; Makro iktisat konuları hakkında bilgi sahibi olur",
+   "Güncel ekonomik verileri takip eder",
+   "Ekonomik verileri yorumlar",
+   "Makro verilerin nasıl hesaplandığını bilir"
+  ],
+  "resources": [
+   "TCMB Yayınları ve Elektronik Veri Dağıtım Sistemi",
+   "N.Aslan,Makro İktisat,3.Baskı,2011."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Makroekonomi ve Düşünce Okulları"
+   },
+   {
+    "n": 2,
+    "konu": "Temel Ekonomik Sorunlar: İşsizlik, Enflasyon ve Büyüme"
+   },
+   {
+    "n": 3,
+    "konu": "Gayri Safi Yurtiçi Hasıla ve Milli Gelir Hesapları"
+   },
+   {
+    "n": 4,
+    "konu": "Enflasyon ve İstihdam"
+   },
+   {
+    "n": 5,
+    "konu": "Gelir Harcama Modeli ve Harcama Çarpanı (Basit Keynesyen Harcama Modeli)"
+   },
+   {
+    "n": 6,
+    "konu": "Keynesyen Modele Devlet Harcamalarının Eklenmesi"
+   },
+   {
+    "n": 7,
+    "konu": "Mal Piyasasında Denge ve IS eğrisi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Para Talebi"
+   },
+   {
+    "n": 10,
+    "konu": "Para Arzı ve Merkez Bankacılığı"
+   },
+   {
+    "n": 11,
+    "konu": "Para Piyasasında Denge ve LM eğrisi"
+   },
+   {
+    "n": 12,
+    "konu": "IS-LM Modeli (Para ve Mal Piyasalarında eş anlı denge), Para ve Maliye Politikası Tartışmaları"
+   },
+   {
+    "n": 13,
+    "konu": "Ödemeler Dengesi"
+   },
+   {
+    "n": 14,
+    "konu": "Mundell-Fleming Modeli (IS-LM-BP Modeli)"
+   },
+   {
+    "n": 15,
+    "konu": "İktisat Politikası Tartışmaları"
+   }
+  ],
+  "updated": "03.04.2025"
+ },
+ "KAM108": {
+  "amac": "Ders kapsamında Kamu Yönetimi Bölümü’nün Anabilim Dalları ve bu Anabilim Dalları’nda geçerli temel literatür hakkında öğrencilerin bilgilendirilmesi ve ileriki yıllarda karşılaşacakları yoğun kuramsal bilginin temellerinin atılması hedeflenmektedir",
+  "icerik": "Sadece Kamu Yönetimi değil, Sosyal Bilimlerin Kamu Yönetimi ile ilişkili tüm bilim dallarına ait temel kuramsal altyapı bütüncül biçimde işlenir.",
+  "outcomes": [
+   "Öğrenciler Kamu Yönetimi alanındaki genel terimlere ve kavramlara hakim olacaktır.",
+   "Kamu Yönetiminin Tarihsel Gelişimi ve Türkiye'deki Kamu Yönetimi hakkında bilgi sahibi olurlar."
+  ],
+  "resources": [
+   "\"Garcia'ya Mektup\" \"Lodos'un Adı Beyazıt\" \"İdare Terimi Niçin Korunmalı ve Yaşatılmalıdır\" Uğur Ömürgönülşen \"Türkiye'de Mülki İdare Amirliği\" Kurthan Fişek \"Kamu Yönetimi Sözlüğü\" Bekir Parlak",
+   "\"Garcia'ya Mektup\""
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Bilim, Sosyal Bilim, Kamu Yönetimi ve Terminoloji kavramları"
+   },
+   {
+    "n": 2,
+    "konu": "Garcia'ya Mektup ve Lodos'un Adı Beyazıt makaleleri üzerinden kamu yönetimine ve kamusal işlere bakış"
+   },
+   {
+    "n": 3,
+    "konu": "Uğur Ömür Gönülşen'in \"İdare Terimi Niçin Korunmalı ve Yaşatılmalıdır\" makalesi üzerinden idare kavramının önemi"
+   },
+   {
+    "n": 4,
+    "konu": "İdare ve Yönetim Terimlerinin Analizi"
+   },
+   {
+    "n": 5,
+    "konu": "Türkiye'de Mülki İdare Amirliği"
+   },
+   {
+    "n": 6,
+    "konu": "Mülki İdare Amirliği Sistemi ve Türkiye'de Tarihsel Süreç"
+   },
+   {
+    "n": 7,
+    "konu": "Değerlendirme"
+   },
+   {
+    "n": 8,
+    "konu": "VİZE"
+   },
+   {
+    "n": 9,
+    "konu": "Terimler Sözcüğü Üzerinden İlgili Terimlerin Analizi (A-C)"
+   },
+   {
+    "n": 10,
+    "konu": "Terimler Sözcüğü Üzerinden İlgili Terimlerin Analizi (D-G)"
+   },
+   {
+    "n": 11,
+    "konu": "Terimler Sözcüğü Üzerinden İlgili Terimlerin Analizi (H-J)"
+   },
+   {
+    "n": 12,
+    "konu": "Terimler Sözlüğü Üzerinden İlgili Terimlerin Analizi ( K-N )"
+   },
+   {
+    "n": 13,
+    "konu": "Terimler Sözlüğü Üzerinden İlgili Terimlerin Analizi ( 0-S)"
+   },
+   {
+    "n": 14,
+    "konu": "Terimler Sözlüğü Üzerinden İlgili Terimlerin Analizi ( T-Z)"
+   },
+   {
+    "n": 15,
+    "konu": "Genel Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM109": {
+  "amac": "Öğrencilerin hukuk kurallarının diğer toplumsal düzen kuralları karşılaştırmasını sağlamak, hukuk kurallarının nitelikleri ve yargı örgütü hakkında bilgilendirmek ve bazı temel hukuk kavramlarını tanımalarını sağlamak ve diğer hukuk dersleri için bir alt yapı oluşturmaktır",
+  "icerik": "Hukuk kurallarının diğer toplumsal düzen kuralları karşılaştırması, hukuk kurallarının nitelikleri, uygulanması, yargı örgütü, bazı temel hukuk kavramlarının incelenmesi",
+  "outcomes": [
+   "Öğrenci Hukuk kuralları ile diğer toplumsal davranış kurallarını karşılaştırır",
+   "Hukuk kurallarının niteliklerini ayırt etmek ve yargı teşkilatını ana hatları ile tanır",
+   "Bazı temel hukuk kavramları hakkında bilgi sahibi olur",
+   "Diğer hukuk dersleri için temel bilgileri edinir"
+  ],
+  "resources": [
+   "Kemal GÖZLER. Hukukun Temel Kavramları, Ekin Yayınevi, Bursa, 7. Baskı, 2010"
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM110": {
+  "amac": "Öğrencilerin anayasa hukukunun genel esasları hakkında bilgi sahibi olmalarını sağlamaktır",
+  "icerik": "Anayasa kavramı ve anayasa hukuku, kurucu iktidar, devlet, devletin unsurları ve şekilleri, hükümet sistemleri, demokrasi, demokrasi tipleri, seçimler, yasama, yürütme ve yargı, temel hak ve özgürlükler, anayasa yargısı",
+  "outcomes": [
+   "Öğrenci Anayasa kavramı ve anayasa hukuku hakkında bilgi edinir.",
+   "Anayasa hukukunun temel kavramlarını oluşturan kurucu iktidar, devlet, devletin unsurları ve şekilleri, hükümet sistemleri, demokrasi, demokrasi tipleri, seçimler, yasama, yürütme ve yargı, temel hak ve özgürlükler, anayasa yargısı hakkında temel bilgileri edinmelerini ve yorumlamalarını sağlar."
+  ],
+  "resources": [
+   "Kemal GÖZLER, Anayasa Hukukunun Genel Esasları, Ekin Yayınevi, Bursa, 1. Baskı, 2010"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "updated": "21.03.2025"
+ },
+ "KAM111": {
+  "amac": "İşletme Biliminin temel fonksiyonlarını teorik ve uygulamalarla öğretmek",
+  "icerik": "Ders teorik ve pratik bilgilerin yanı sıra vaka çalışmalarıyla da desteklenmektedir",
+  "outcomes": [
+   "Öğrenciler temel işletme fonksiyonlarını öğrenerek bir iş planı hazırlayacak düzeye gelir."
+  ],
+  "resources": [
+   "Modern İşletmecilik, İsmet Mucuk"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "işletme ve İşletme Yönetimi"
+   },
+   {
+    "n": 2,
+    "konu": "ekonomik Bir Birim Olarak İşletme"
+   },
+   {
+    "n": 3,
+    "konu": "işletme Çeşitleri"
+   },
+   {
+    "n": 4,
+    "konu": "hukuki Açıdan İşletme Çeşitleri"
+   },
+   {
+    "n": 5,
+    "konu": "işletmenin Kuruluş Çalışmaları"
+   },
+   {
+    "n": 6,
+    "konu": "işletme Büyüklüğü"
+   },
+   {
+    "n": 7,
+    "konu": "işletme Büyüklüğü"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "işletmenin Kuruluş Yerinin Seçimi"
+   },
+   {
+    "n": 10,
+    "konu": "işletmenin Kuruluş Yerinin Seçimi"
+   },
+   {
+    "n": 11,
+    "konu": "Yönetim"
+   },
+   {
+    "n": 12,
+    "konu": "Üretim"
+   },
+   {
+    "n": 13,
+    "konu": "Pazarlama"
+   },
+   {
+    "n": 14,
+    "konu": "Finans"
+   },
+   {
+    "n": 15,
+    "konu": "İnsan"
+   }
+  ],
+  "updated": "18.03.2025"
+ },
+ "KAM112": {
+  "amac": "Medeni hukukun alt dallarından olan kişiler hukuku, aile hukuku ve miras hukuku konular hakkında öğrencilerin bilgi sahibi olmasının sağlanması amaçlamaktadır.",
+  "icerik": "Kişiler hukuku, aile hukukunun ve miras hukukunun temel ilkeleri.",
+  "outcomes": [
+   "Medenî Hukuk kavramlarını açıklayabilme.",
+   "Başlangıç Hükümlerini ve hukukun genel ilkelerini açıklayabilme",
+   "Medeni Hukuk dersinin kapsamına giren konularda hukuku uygulayabilme."
+  ],
+  "resources": [
+   "Medeni Hukuk, Turgut Akıntürk, Derya Ateş, Beta Yayınları"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Hukuk kavramı, hukukun çeşitli anlamları, hukukun sistemi"
+   },
+   {
+    "n": 2,
+    "konu": "Hak kavramı, Hakkın türleri"
+   },
+   {
+    "n": 3,
+    "konu": "Medeni hukukun sistemi, önemi, kaynakları"
+   },
+   {
+    "n": 4,
+    "konu": "Başlangıç Hükümleri"
+   },
+   {
+    "n": 5,
+    "konu": "Kişiler Hukuku"
+   },
+   {
+    "n": 6,
+    "konu": "Gerçek kişilik, kişinin ehliyetleri"
+   },
+   {
+    "n": 7,
+    "konu": "Tüzel kişilik"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Aile hukuku"
+   },
+   {
+    "n": 10,
+    "konu": "Evlilik hukuku"
+   },
+   {
+    "n": 11,
+    "konu": "Evliliğin kurulması, nişanlanmanın hükümleri"
+   },
+   {
+    "n": 12,
+    "konu": "Eşler arasındaki mal rejimi"
+   },
+   {
+    "n": 13,
+    "konu": "Evliliğin sona ermesi, boşanmanın hükümleri"
+   },
+   {
+    "n": 14,
+    "konu": "Hısımlık Hukuku"
+   },
+   {
+    "n": 15,
+    "konu": "Miras hukuku"
+   }
+  ],
+  "updated": "26.03.2025"
+ },
+ "KAM113": {
+  "amac": "İşletmelerde muhasebenin amacının ve nasıl bir işleyişe sahip olduğunun anlatılması.",
+  "icerik": "Temel finansal tablolar, kavramlar, defterler ve hesapların muhasebe sistemi içerisinde nasıl kullanıldığının örnek uygulamalar ile birlikte açıklanması.",
+  "outcomes": [
+   "Türkiye'de muhasebe sisteminin nasıl işlediği hakkında genel olarak bilgi verilir.",
+   "Muhasebe defterleri tanıtılır.",
+   "Muhasebede kullanılan temel tablolar açıklanır.",
+   "Muhasebe kayıtların nasıl yapıldığı öğrenilir."
+  ],
+  "resources": [
+   "Genel Muhasebe - Prof. Dr. Orhan Sevilengül"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Muhasebe kavramı ve işletme içerisindeki rolü"
+   },
+   {
+    "n": 2,
+    "konu": "Varlık ve kaynak dengesi"
+   },
+   {
+    "n": 3,
+    "konu": "Bilanço ve gelir tablosu"
+   },
+   {
+    "n": 4,
+    "konu": "Muhasebe defterleri"
+   },
+   {
+    "n": 5,
+    "konu": "Hesaplar arası ilişkiler"
+   },
+   {
+    "n": 6,
+    "konu": "Hazır Değerler hesap grubu"
+   },
+   {
+    "n": 7,
+    "konu": "Hesap Kavramı"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Ticari alacaklar hesap grubu"
+   },
+   {
+    "n": 10,
+    "konu": "Stoklar hesap grubu"
+   },
+   {
+    "n": 11,
+    "konu": "KDV hesapları"
+   },
+   {
+    "n": 12,
+    "konu": "İade ve iskonto işlemleri"
+   },
+   {
+    "n": 13,
+    "konu": "Maliyet ve gider hesapları"
+   },
+   {
+    "n": 14,
+    "konu": "Monografi uygulamaları 1"
+   },
+   {
+    "n": 15,
+    "konu": "Monografi uygulamaları 2"
+   }
+  ],
+  "updated": "11.04.2025"
+ },
+ "KAM114": {
+  "amac": "İşletmede ortaya çıkan mali nitelikte işlemlerin tek tek ele alınarak, bu işlemlerin kayıt sınıflandırma ve raporlanmasının öğretilmesi.",
+  "icerik": "Duran varlıklar, kısa vadeli yabancı kaynaklar, öz kaynaklar, gelir tablosu hesapları, envanter kayıtlarının yapılması ve raporlanması.",
+  "outcomes": [
+   "Dönem sonunda öğrenciler, ders içeriğinde belirlenen muhasebe konularında bilgi sahibi olacaklar ve muhasebe sürecinin işleyişi becerisini kazanacaklardır."
+  ],
+  "resources": [
+   "1",
+   "Genel Muhasebe Prof. Dr. Orhan Sevilengül 19.baskı"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "updated": "05.04.2025"
+ },
+ "KAM116": {
+  "amac": "Bu dersin amacı geniş bir kültür yelpazesi içinde bilgilenmiş,toplumsal yapı ve süreçleri irdeleyebilen, eleştirel düşünce yeteneğine sahip bireyler yetiştirmektir.",
+  "icerik": "Bu ders toplum Bilimi 1 dersinin devamı niteliğinde olup, ders kapsamında kolektif bellek,kimlik, etnik gruplar, göç, tabakalaşma, marjinal gruplar, din, eğitim, globalleşme, toplumsal cinsiyet, aileler, medya, Weber'in eylem teorisi, hükümet ve politika, örgütler, kentler ve çevre sorunları konuları işlenmektedir.",
+  "outcomes": [
+   "Öğrenciler toplumsal sorunların çözümünde karar alma, kararı uygulama, üstlendiği görev ve sorumlulukları yerine getirme ve gerektiğinde inisiyatif alma yetkinliği kazanır.",
+   "Öğrenciler düşüncelerini ve sorunlara ilişkin çözüm önerilerini nicel ve nitel verilerle destekleyerek yazılı ve sözlü olarak paylaşabilir",
+   "Öğrenciler sosyal hakların evrenselliği, sosyal adalet, kalite ve kültürel değerler ile çevre koruma, iş sağlığı ve güvenliği konularında yeterli bilince, değişime ve yeniliğe karşı açık tutuma sahip olur",
+   "Yazılı ve görsel bilgi ve veri kaynaklarına ulaşma yöntemleri hakkında bilgi sahibi olur ve bu bilgiyi kuramsal analiz ve uygulama açısından değerlendirir"
+  ],
+  "resources": [
+   "Suğur, N. (Ed.), 2013, Sosyolojiye Giriş, Eskişehir: Anadolu Üniversitesi Açıköğretim Fakültesi Yayını",
+   "Sungur, Z & Kırel, A.Ç. (Ed.), Davranış Bilimleri I, 2015, Eskişehir, Anadolu Üniversitesi Açıköğretim Fakültesi Yayınları, Yayın No: 1672; Suğur, N. (Ed.), 2013, Sosyolojiye Giriş, Eskişehir: Anadolu Üniversitesi Açıköğretim Fakültesi Yayını"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Toplumsal Değişme Kavramı ve Süreci"
+   },
+   {
+    "n": 2,
+    "konu": "Kent ve Kentleşmeye Sosyolojik Bakış"
+   },
+   {
+    "n": 3,
+    "konu": "Sapkın Davranış ve Suç"
+   },
+   {
+    "n": 4,
+    "konu": "Suçu Açıklayan Kuramlar"
+   },
+   {
+    "n": 5,
+    "konu": "Siyaset Sosyolojisine İlişkin Temel Kavramlar"
+   },
+   {
+    "n": 6,
+    "konu": "İdeoloji"
+   },
+   {
+    "n": 7,
+    "konu": "Siyasete İlişkin Temel Sosyolojik Yaklaşımlar"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Aile ile İlgili Teorik Yaklaşımlar"
+   },
+   {
+    "n": 10,
+    "konu": "Kadının Toplumsal Konumu İle İlgili Temel Kuramsal Yaklaşımlar"
+   },
+   {
+    "n": 11,
+    "konu": "Dine Temel Yaklaşımlar"
+   },
+   {
+    "n": 12,
+    "konu": "Din ve Toplumsal Tabakalaşma"
+   },
+   {
+    "n": 13,
+    "konu": "Hukuk, Eğitim ve Toplumsal Yaşam"
+   },
+   {
+    "n": 14,
+    "konu": "Eğitim Sosyolojisi"
+   },
+   {
+    "n": 15,
+    "konu": "Eğitim, Sapma ve Suç İlişkisi"
+   }
+  ],
+  "updated": "08.04.2025"
+ },
+ "KAM201": {
+  "amac": "Bu ders ile öğrencilerin Kamu Yönetimi alanında temel teorik altyapıyı edinmeleri amaçlanmaktadır",
+  "icerik": "Ders kapsamında Kamu yönetimi teorileri, Dünyada kamu yönetiminin gelişimi ve geleceği ve Türkiye'de siyasi ve idari örgütlenme yapısı incelenecektir",
+  "outcomes": [
+   "Ders kapsamında Kamu yönetimi teorileri, Dünyada kamu yönetiminin gelişimi ve geleceği ve Türkiye'de siyasi ve idari örgütlenme yapısı hakkında bilgi sahibi olunur."
+  ],
+  "resources": [
+   "Bilal Eryılmaz Kamu Yönetimi"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Örgüt Nedir"
+   },
+   {
+    "n": 2,
+    "konu": "Örgütlerin Unsurları ve Kamu Yönetimi Açısından Önemi"
+   },
+   {
+    "n": 3,
+    "konu": "Yönetim Nedir?"
+   },
+   {
+    "n": 4,
+    "konu": "Yönetimin İşlevleri"
+   },
+   {
+    "n": 5,
+    "konu": "Örgüt ve Yönetimin Ortak Noktaları"
+   },
+   {
+    "n": 6,
+    "konu": "Kamu Yönetimi Nedir?"
+   },
+   {
+    "n": 7,
+    "konu": "Kamu Yönetiminin Unsurları"
+   },
+   {
+    "n": 8,
+    "konu": "Vize"
+   },
+   {
+    "n": 9,
+    "konu": "Devlet ve Özel Sektör Arasındaki Farklar"
+   },
+   {
+    "n": 10,
+    "konu": "Devletin Büyümesinin Nedenleri"
+   },
+   {
+    "n": 11,
+    "konu": "Kamu Yönetimi Tarihine Giriş"
+   },
+   {
+    "n": 12,
+    "konu": "Siyaset- Yönetim İkilemi"
+   },
+   {
+    "n": 13,
+    "konu": "Kameralizm"
+   },
+   {
+    "n": 14,
+    "konu": "Fransız Kamu Yönetimi"
+   },
+   {
+    "n": 15,
+    "konu": "Woodrow Wilson ve İdarenin İncelenmesi"
+   }
+  ],
+  "updated": "07.04.2025"
+ },
+ "KAM202": {
+  "amac": "Dersin amacı, öğrencinin analitik düşünme ve problem çözme becerisini geliştirmeyi, işletme sorunlarının çözümü için matematiksel modeller ortaya koyarak optimal çözümü bulabilmesini ve elde edilen sonuçları yorumlayabilmesini sağlamaktır",
+  "icerik": "Yönetim Bilimi I dersinin devamı niteliğinde olan bu derste, Sistem Yaklaşımı, Amaçlara Göre Yönetim, Yöneylem Araştırması, Sibernetik, Durusallık Yaklaşımı, Z Teorisi, Kriz Yönetimi, Çatışma Yönetimi, Toplam Kalite Yönetimi, Kamu Yönetimi, Bürokrasi, Yönetişim, Kamu Yönetiminde Reform gibi konular ele alınacaktır",
+  "outcomes": [
+   "Analitik becerilerini ve yaratıcılığını kullanabilir",
+   "İşletmeler için önem taşıyan gerçek problemleri modelleyebilecek ve çözebilir.",
+   "Problem çözümüyle elde edilen nicel verileri kullanarak rasyonel kararlar verebilir.",
+   "Ele alınan çözüm yöntemleri ve yaklaşımların işletme dışındaki diğer alanlarda uygulanabilir olması nedeniyle öğrenciye vereceği kararlarda destek sağlayabilir."
+  ],
+  "resources": [
+   "Nuri Tortop, Eyüp İspir, Burhan Aykaç, Hüseyin Yayman, Akif Özer, Yönetim Bilimi, Nobel Yay., Ankara, 2007"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş"
+   },
+   {
+    "n": 2,
+    "konu": "Sistem Yaklaşımı"
+   },
+   {
+    "n": 3,
+    "konu": "Amaçlara Göre Yönetim"
+   },
+   {
+    "n": 4,
+    "konu": "Yöneylem Araştırması"
+   },
+   {
+    "n": 5,
+    "konu": "Sibernetik, Durumsallık Yaklaşımı"
+   },
+   {
+    "n": 6,
+    "konu": "Z Teorisi"
+   },
+   {
+    "n": 7,
+    "konu": "Kriz Yönetimi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Çatışma Yönetimi"
+   },
+   {
+    "n": 10,
+    "konu": "Toplam Kalite Yönetimi"
+   },
+   {
+    "n": 11,
+    "konu": "Kamu Yönetimi"
+   },
+   {
+    "n": 12,
+    "konu": "Bürokrasi"
+   },
+   {
+    "n": 13,
+    "konu": "Yönetişim"
+   },
+   {
+    "n": 14,
+    "konu": "Kamu Yönetiminde Reform"
+   },
+   {
+    "n": 15,
+    "konu": "Sonuç"
+   }
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM203": {
+  "amac": "Dersin amacı, öğrencinin analitik düşünme ve problem çözme becerisini geliştirmeyi, işletme sorunlarının çözümü için matematiksel modeller ortaya koyarak optimal çözümü bulabilmesini ve elde edilen sonuçları yorumlayabilmesini sağlamaktır",
+  "icerik": "Bu derste klasik yönetim anlayışından başlanarak sırası ile modern, postmodern yönetim anlayışı ve yönetimin ilkeleri konuları işlenecektir",
+  "outcomes": [
+   "Öğrenci Analitik becerilerini ve yaratıcılığını kullanabilir",
+   "İşletmeler için önem taşıyan gerçek problemleri modelleyebilir ve çözer.",
+   "Problem çözümüyle elde edilen nicel verileri kullanarak rasyonel kararlar verir.",
+   "Ele alınan çözüm yöntemleri ve yaklaşımların işletme dışındaki diğer alanlarda uygulanabilir olması nedeniyle öğrenciye vereceği kararlarda destek sağlar."
+  ],
+  "resources": [
+   "Nuri Tortop, Eyüp İspir, Burhan Aykaç, Hüseyin Yayman, Akif Özer, Yönetim Bilimi, Nobel Yay., Ankara, 2007"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Yönetim Biliminin Tanımı ve Önemi"
+   },
+   {
+    "n": 2,
+    "konu": "Klasik Yönetim Anlayışı"
+   },
+   {
+    "n": 3,
+    "konu": "Planlama 1"
+   },
+   {
+    "n": 4,
+    "konu": "Planlama 2"
+   },
+   {
+    "n": 5,
+    "konu": "Örgütleme 1"
+   },
+   {
+    "n": 6,
+    "konu": "Örgütleme 2"
+   },
+   {
+    "n": 7,
+    "konu": "Örgütleme 3"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Yöneltme"
+   },
+   {
+    "n": 10,
+    "konu": "Yöneltme 1"
+   },
+   {
+    "n": 11,
+    "konu": "Yöneltme 2"
+   },
+   {
+    "n": 12,
+    "konu": "Koordinasyon 1"
+   },
+   {
+    "n": 13,
+    "konu": "Koordinasyon 2"
+   },
+   {
+    "n": 14,
+    "konu": "Denetleme 1"
+   },
+   {
+    "n": 15,
+    "konu": "Denetleme 2"
+   }
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM204": {
+  "amac": "Bu dersin temel hedefi Fransız Devrimi’nden 19. yüzyılın sonuna kadar Batı dünyasında üretilmiş olan siyasal düşünceyi aktarmak ve analiz etmektir. Özellikle liberalizmin, demokrasinin ve sosyalizmin ortaya çıkışı modernite bağlamında çözümlenmektedir",
+  "icerik": "Ders kapsamında Fransız Devrimi, Devrim’e yönelik tepkiler; ütopik sosyalizm ve Marxism; anarşizm, Anarko-sendikalizm; Faşizm ve Nasyonel-Sosyalizm; Sosyal devlet konuları ele alınacaktır",
+  "outcomes": [
+   "Fransız Devrimi’nin çağdaş siyasal düşünce ve kurumlar açısından önemini bilir ve analiz eder.",
+   "Fransız Devrimi’ne yönelik tepkilerin neler olduğunu öğrenir ve tepkilerin nedenlerini anlar",
+   "Ütopik ve bilimsel sosyalizmin neyi ifade ettiğini bilir ve Marx’ın yöntem ve düşüncesini tanır",
+   "Totaliter ideolojiler olan Faşizm ve Nasyonel-sosyalizmi bilir ve bu ideolojileri ortaya çıkaran sendikalizmi ve sosyal devletin tarihsel arka planları ve temel argümanlarının bilir ve analiz eder."
+  ],
+  "resources": [
+   ": Mehmet Ali Ağaoğluları, Kent Devletinden İmparatorluğa (Eski Yunan'da Siyaset Felsefesi adıyla, V Yayınları, 1989; İmge Kitabevi Yayınları, 2002) Mehmet Ali Ağaoğluları ,İmparatorluktan Tanrı Devletine (Levent Köker ile birlikte, İmge Kitabevi Yayınları, 1991, 1997, 1998, 2001, 2004) Mehmet Ali Ağaoğluları, Tanrı Devletinden Kral-Devlete (Levent Köker ile birlikte, İmge Kitabevi Yayınları, 1991, 1997, 2001, 2004) Mehmet Ali Ağaoğluları, Kral-Devlet ya da Ölümlü Tanrı (Levent Köker ile birlikte, İmge Kitabevi Yayınları, 1994, 2000, 2004) Mehmet Ali Ağaoğluları,Kral-Devletten Ulus-Devlete (İmge Kitabevi Yayınları) Mehmet Ali Ağaoğluları,Ulus-Devlet ya da Halkın Egemenliği (İmge Kitabevi Yayınları, 2006) Sokrates, Devlet,Sosyal Yayınları,İstanbul,2000 Robert Folkler,J.J.Roussoue,Altın Kitaplar,1995"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Konular ve Kapsam"
+   },
+   {
+    "n": 2,
+    "konu": "B.Constant"
+   },
+   {
+    "n": 3,
+    "konu": "A. Tocqueville"
+   },
+   {
+    "n": 4,
+    "konu": "Sosyalizm: Owen, Fourier, Simon"
+   },
+   {
+    "n": 5,
+    "konu": "Marxizm 1, Marxizm 2, Lenin ve Berstein"
+   },
+   {
+    "n": 6,
+    "konu": "Mary Wallstonecraft: Feminizmin Doğuşu/David Hume, John Stuart Mill"
+   },
+   {
+    "n": 7,
+    "konu": "Anarşizm ve İhtilalci Sendikalizm/"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Anarşizm ve İhtilalci Sendikalizm/"
+   },
+   {
+    "n": 10,
+    "konu": "Nasyonel Sosyalizm"
+   },
+   {
+    "n": 11,
+    "konu": "Sosyal Devlet 1"
+   },
+   {
+    "n": 12,
+    "konu": "Sosyal Devlet 2"
+   },
+   {
+    "n": 13,
+    "konu": "Rawls"
+   },
+   {
+    "n": 14,
+    "konu": "Hayek, Nozick"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "12.04.2025"
+ },
+ "KAM205": {
+  "amac": "Bu dersin temel hedefi Eski Yunan siyasal düşüncesinden başlayarak Fransız Devrimi’ne kadar geçen sürede ortaya konmuş batı siyasal düşüncesini üretilme bağlamı çerçevesinde analiz etmektir",
+  "icerik": "Eski Yunan’dan başlayarak orta çağ ve toplumsal sözleşme düşünürleri bağlamında devlet, iktidar, insan doğası, adalet, eşitlik ve özgürlük konuları",
+  "outcomes": [
+   "Eski Yunan siyasal düşüncesini ve bunun sonraki siyasal düşüncenin temellerinden biri olduğunu kavrar.",
+   "Çağdaş dünyayı anlamanın esas itibariyle geçmişi iyi bilmekle mümkün olduğunu anlar",
+   "Roma siyasal düşüncesinin esaslarını eleştirel bakış açısı inceler.",
+   "Hıristiyan siyasal düşüncesinin batı siyasal düşüncesi açısından önemini kavrar.",
+   "Çağdaş dünyada söz konusu olan farklı siyasal ideolojilerin ilişkisini karşılaştırmalı olarak ele alır.",
+   "Adalet, iktidar, özgürlük ve eşitlik gibi günümüzde önemli tartışma konuları ve kavramlar tarafından nasıl ele alındığını analiz eder"
+  ],
+  "resources": [
+   "Mehmet Ali Ağaoğluları, Kent Devletinden İmparatorluğa (Eski Yunan'da Siyaset Felsefesi adıyla, V Yayınları, 1989; İmge Kitabevi Yayınları, 2002) Mehmet Ali Ağaoğluları ,İmparatorluktan Tanrı Devletine (Levent Köker ile birlikte, İmge Kitabevi Yayınları, 1991, 1997, 1998, 2001, 2004) Mehmet Ali Ağaoğluları, Tanrı Devletinden Kral-Devlete (Levent Köker ile birlikte, İmge Kitabevi Yayınları, 1991, 1997, 2001, 2004)"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin Genel Tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "Atina Polis Devleti"
+   },
+   {
+    "n": 3,
+    "konu": "Sparta Polis Devleti"
+   },
+   {
+    "n": 4,
+    "konu": "Eflatun"
+   },
+   {
+    "n": 5,
+    "konu": "Aristoteles"
+   },
+   {
+    "n": 6,
+    "konu": "Polybius/Cicero"
+   },
+   {
+    "n": 7,
+    "konu": "Kinikler"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Epikürizm"
+   },
+   {
+    "n": 10,
+    "konu": "Stoacılık"
+   },
+   {
+    "n": 11,
+    "konu": "Ortaçağın Toplumsal Yapısı ve Ortaçağda Siyasi Düşünce"
+   },
+   {
+    "n": 12,
+    "konu": "Aziz Augustinus; Salisbury’li John; Aziz Thomas"
+   },
+   {
+    "n": 13,
+    "konu": "İbn-i Haldun"
+   },
+   {
+    "n": 14,
+    "konu": "Padua’lı Marsilius"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "12.04.2025"
+ },
+ "KAM206": {
+  "amac": "Bu dersin amacı öğrencilere kamu gelirleriyle ilgili temel bilgileri vermektir",
+  "icerik": "Vergi teorisi ve uygulamaların genel bir değerlendirilmesi",
+  "outcomes": [
+   "Kamu gelirleri kavramlarını tanımlar",
+   "Kamu gelirlerinin tarihi gelişimini betimler",
+   "Kamu gelirlerini etkileyen faktörleri açıklar",
+   "Kamu gelir politikalarının sonuçlarını değerlendirir ve alternatif politikalar geliştirir"
+  ],
+  "resources": [
+   "Şerafettin Aksoy, Kamu Maliyesi, Filiz Kitabevi, İstanbul, 1998 Abdurrahman Akdoğan, Kamu Maliyesi, Gazi Üniversitesi, Ankara, 1999 Halil Nadaroğlu, Kamu Maliyesi Teorisi, Beta Yayınları, İstanbul, 1992 Aykut Herekman, Kamu Maliyesi I-II, Sevinç Matbaası, Ankara, 1996",
+   "Şerafettin Aksoy, Kamu Maliyesi, Filiz Kitabevi, İstanbul, 1998"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Vergilemenin tarihi gelişimi ve amaçları"
+   },
+   {
+    "n": 2,
+    "konu": "Verginin mahiyetini ve esasını açıklayan teoriler"
+   },
+   {
+    "n": 3,
+    "konu": "Verginin tanımı ve nitelikleri"
+   },
+   {
+    "n": 4,
+    "konu": "Verginin unsurları ve vergi tekniği"
+   },
+   {
+    "n": 5,
+    "konu": "Vergileme ilkeleri, niteliği ve gelişimi"
+   },
+   {
+    "n": 6,
+    "konu": "Vergide ödeme gücü/Vergi yükü"
+   },
+   {
+    "n": 7,
+    "konu": "Genel Tekrar"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Verginin yansıması"
+   },
+   {
+    "n": 10,
+    "konu": "Verginin amortismanı ve kapitalizasyonu"
+   },
+   {
+    "n": 11,
+    "konu": "Vergilerin sınıflandırılması"
+   },
+   {
+    "n": 12,
+    "konu": "Vergi sistemleri ve Türk Vergi Sistemi"
+   },
+   {
+    "n": 13,
+    "konu": "Gelir üzerinden alınan vergiler"
+   },
+   {
+    "n": 14,
+    "konu": "Harcamalar üzerinden alınan vergiler"
+   },
+   {
+    "n": 15,
+    "konu": "Servet Üzerinden alınan vergiler"
+   }
+  ],
+  "updated": "19.03.2025"
+ },
+ "KAM207": {
+  "amac": "Bilim, bilimsel araştırma, bilimsel araştırma yöntemleri ve rapor hazırlama konularının tanımlanacağı bu derste öğrencilerin hazırlayacakları ödev, bitirme tezi ve diğer çalışmalara rehber olunması hedeflenmektedir",
+  "icerik": "Ders içerisinde öncelikle temel kavramlar, araştırma türleri, aşamaları, veri toplama, analiz ve yazma yöntemleri öğrencilere anlatılacak, tez yazım kurallarına ilişkin bilgilendirme yapılacaktır. Son olarak öğrencilerden öğrendiklerini pekiştirecek bir ödev yazmaları beklenmektedir",
+  "outcomes": [
+   "Öğrenci Bilimsel araştırmada temel kavramlar ve araştırma türleri öğrenir",
+   "Araştırmanın amaçları ve aşamaları ortaya koyar",
+   "Kaynak tarama, veri toplama, analiz ve tez yazma aşamaları ayrıntılarıyla inceler.",
+   "Tez yazım kuralları özümser."
+  ],
+  "resources": [
+   "Altunışık, Remzi, Recai Coşkun, Serkan Bayraktaroğlu, Engin Yıldırım, (2007), Sosyal Bilimlerde Araştırma Yöntemleri SPSS Uygulamalı,Sakarya Yayıncılık, Sakarya"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş"
+   },
+   {
+    "n": 2,
+    "konu": "Bilimsel araştırmada yaklaşımlar"
+   },
+   {
+    "n": 3,
+    "konu": "Kaynak tarama ve hipotez"
+   },
+   {
+    "n": 4,
+    "konu": "Biimsel araştırma süreci"
+   },
+   {
+    "n": 5,
+    "konu": "Bilimsel araştırmada veri: Birincil ve İkncil kaynaklar"
+   },
+   {
+    "n": 6,
+    "konu": "Araştrmada ölçme ve ölçekler"
+   },
+   {
+    "n": 7,
+    "konu": "arastirma evreni ve orneklem"
+   },
+   {
+    "n": 8,
+    "konu": "ara-sinav"
+   },
+   {
+    "n": 9,
+    "konu": "Veri analizi"
+   },
+   {
+    "n": 10,
+    "konu": "Araştırma raporu hazırlama"
+   },
+   {
+    "n": 11,
+    "konu": "Araştırma raporu hazırlama"
+   },
+   {
+    "n": 12,
+    "konu": "Tez yazım kuralları"
+   },
+   {
+    "n": 13,
+    "konu": "Öğrenci ödevlerinin analizi"
+   },
+   {
+    "n": 14,
+    "konu": "Öğrenci ödevlerinin analizi"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM208": {
+  "amac": "Borçlar hukukunun temel kavramları, borç ilişkilerinin hukuki hüküm ve sonuçları hakkında bilgi edinilmesi amaçlanmaktadır.",
+  "icerik": "Borçlar hukuku ile ilgili genel bilgiler; hukuki muameleden doğan borçlar; hukuki muamele ehliyeti; sözleşmeler; sözleşmede temsil; haksız fiilden doğan borçlar; ara sınav; sebepsiz zenginleşme; borçların ifası; alacaklının temerrüdü; borçların ifa edilememesi; borçlunun temerrüdü I; borçlunun temerrüdü II ve kusurlu imkansızlık.",
+  "outcomes": [
+   "Borçlar Hukukun temel kavramlarını tanır.",
+   "Borçlar Hukukunun kuralların mahiyetini anlar.",
+   "Günlük hayatta da sıkça karşılaşılan borç tipleri hakkında bilgi edinir."
+  ],
+  "resources": [
+   "Borçlar Hukuku, Turgut Akıntürk, Derya Ateş, Beta Yayınları"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Borçlar hukukuna giriş, temel kavramlar"
+   },
+   {
+    "n": 2,
+    "konu": "Hukuki ilişkilerden doğan borçlar"
+   },
+   {
+    "n": 3,
+    "konu": "Borç ilişkisi kuran sözleşmelerin özellikleri"
+   },
+   {
+    "n": 4,
+    "konu": "Borç ilişkilerinde temsil"
+   },
+   {
+    "n": 5,
+    "konu": "Haksız fiilden doğan borçlar"
+   },
+   {
+    "n": 6,
+    "konu": "Sebepsiz zenginleşme"
+   },
+   {
+    "n": 7,
+    "konu": "Arasınav"
+   },
+   {
+    "n": 8,
+    "konu": "Borçların ifası"
+   },
+   {
+    "n": 9,
+    "konu": "Borçların İfa yeri ve zamanı"
+   },
+   {
+    "n": 10,
+    "konu": "Alacaklının temerrüdü"
+   },
+   {
+    "n": 11,
+    "konu": "Borçlunun temerrüdü"
+   },
+   {
+    "n": 12,
+    "konu": "Borçların ifa edilememesi"
+   },
+   {
+    "n": 13,
+    "konu": "Zamanaşımı"
+   },
+   {
+    "n": 14,
+    "konu": "Borç ilişkilerinde taraf değişikliği"
+   },
+   {
+    "n": 15,
+    "konu": "Borç ilişkilerinde taraf değişikliği II"
+   }
+  ],
+  "updated": "26.03.2025"
+ },
+ "KAM209": {
+  "amac": "Dersin amacı, idare kavramının tanımlanması, görev, yetki ve sorumluluk alanlarının ortaya konması sonrası Hukuk devleti olmanın önemli gereklerinden biri olan İdare’nin hukukla bağlılığı konusu üzerinde durmaktır.",
+  "icerik": "Bu dersin kapsamında öncelikle devletin merkez yönetim ve yerinden yönetim teşkilatları ele alınacaktır.",
+  "outcomes": [
+   "Öğrenci İdari teşkilatın temel yapısı, organları, görev ve yetkileri öğrenir.",
+   "Öğrenci İdarenin yargısal denetimi, idare karşısında bireylerin yargısal hak arama ve korunma yolları öğrenir.",
+   "İdari yargılama hukukuna ilişkin teorik ve pratik bilgiler edinme.",
+   "İdari dava türleri ve özellikleri öğrenir.",
+   "Türk İdari yargısını yetki ve görevi içinde kalan işlem,eylem ve sözleşmelerle bunun dışında kalan idari faaliyetler inceler ve öğrenir.",
+   "Türk hukukunda idari davaların nasıl, nerede ve neye ilişkin olduğu, usuli ve içerik koşullarıyla birlikte öğrenir."
+  ],
+  "resources": [
+   "Prof.Dr. Halil Kalabalık, İdari Yargılama Usulü Hukuku, Sayram Yayınları, Konya * Şeref Gözübüyük, İdari Yargı, Turhan Kitapevi, Ankara. * Şeref Gözübüyük/Turgut Tan, İdare Hukuku Cilt II- İdari Yargılama Hukuku * T.C. Anayasası * İdari yargılama Usulü Kanunu ve diğer İdari yargı mevzuatı * Danıştay kararları"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "İdari otoritelerin denetim yetkileri"
+   },
+   {
+    "n": 2,
+    "konu": "Hukuk devletinin anlamı ve yargı denetimi"
+   },
+   {
+    "n": 3,
+    "konu": "Yönetsel yargı kuruluşları; İdare ve Bölge İdare Mahkemeleri"
+   },
+   {
+    "n": 4,
+    "konu": "Yönetsel yargı kuruluşları; Danıştay"
+   },
+   {
+    "n": 5,
+    "konu": "Yönetsel yargı kuruluşları; Danıştay"
+   },
+   {
+    "n": 6,
+    "konu": "Yönetsel yargı kuruluşları; İdare ve Vergi Mahkemeleri ile Bölge İdare Mahkemele"
+   },
+   {
+    "n": 7,
+    "konu": "Yönetsel yargı usulü"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Hukuka aykırı idari işlemler aleyhine iptal davası"
+   },
+   {
+    "n": 10,
+    "konu": "Tam yargı davası"
+   },
+   {
+    "n": 11,
+    "konu": "İdari sözleşmelere karşı açılan davalar"
+   },
+   {
+    "n": 12,
+    "konu": "Devletin sorumluluğu"
+   },
+   {
+    "n": 13,
+    "konu": "Dava açma süreleri"
+   },
+   {
+    "n": 14,
+    "konu": "Dava açma süreleri"
+   },
+   {
+    "n": 15,
+    "konu": "Yönetimce ihlal edilen bir hakkın yerine getirilmesi ya da uğranılan zararın giderilmesi"
+   }
+  ],
+  "updated": "12.04.2025"
+ },
+ "KAM210": {
+  "amac": "Dersin amacı, idare kavramının tanımlanması, görev, yetki ve sorumluluk alanlarının ortaya konması sonrası Hukuk devleti olmanın önemli gereklerinden biri olan İdare’nin hukukla bağlılığı konusu üzerinde durmaktır.",
+  "icerik": "Bu dersin kapsamında öncelikle devletin merkez yönetim ve yerinden yönetim teşkilatları ele alınacaktır.",
+  "outcomes": [
+   "Öğrenci İdari teşkilatın temel yapısı, organları, görev ve yetkileri öğrenir.",
+   "Öğrenci İdarenin yargısal denetimi, idare karşısında bireylerin yargısal hak arama ve korunma yolları öğrenir.",
+   "İdari yargılama hukukuna ilişkin teorik ve pratik bilgiler edinme.",
+   "İdari dava türleri ve özellikleri öğrenir.",
+   "Türk İdari yargısını yetki ve görevi içinde kalan işlem,eylem ve sözleşmelerle bunun dışında kalan idari faaliyetler inceler ve öğrenir.",
+   "Türk hukukunda idari davaların nasıl, nerede ve neye ilişkin olduğu, usuli ve içerik koşullarıyla birlikte öğrenir."
+  ],
+  "resources": [
+   "Prof.Dr. Halil Kalabalık, İdari Yargılama Usulü Hukuku, Sayram Yayınları, Konya * Şeref Gözübüyük, İdari Yargı, Turhan Kitapevi, Ankara. * Şeref Gözübüyük/Turgut Tan, İdare Hukuku Cilt II- İdari Yargılama Hukuku * T.C. Anayasası * İdari yargılama Usulü Kanunu ve diğer İdari yargı mevzuatı * Danıştay kararları"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "İdari otoritelerin denetim yetkileri"
+   },
+   {
+    "n": 2,
+    "konu": "Hukuk devletinin anlamı ve yargı denetimi"
+   },
+   {
+    "n": 3,
+    "konu": "Yönetsel yargı kuruluşları; İdare ve Bölge İdare Mahkemeleri"
+   },
+   {
+    "n": 4,
+    "konu": "Yönetsel yargı kuruluşları; Danıştay"
+   },
+   {
+    "n": 5,
+    "konu": "Yönetsel yargı kuruluşları; Danıştay"
+   },
+   {
+    "n": 6,
+    "konu": "Yönetsel yargı kuruluşları; İdare ve Vergi Mahkemeleri ile Bölge İdare Mahkemele"
+   },
+   {
+    "n": 7,
+    "konu": "Yönetsel yargı usulü"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Hukuka aykırı idari işlemler aleyhine iptal davası"
+   },
+   {
+    "n": 10,
+    "konu": "Tam yargı davası"
+   },
+   {
+    "n": 11,
+    "konu": "İdari sözleşmelere karşı açılan davalar"
+   },
+   {
+    "n": 12,
+    "konu": "Devletin sorumluluğu"
+   },
+   {
+    "n": 13,
+    "konu": "Dava açma süreleri"
+   },
+   {
+    "n": 14,
+    "konu": "Dava açma süreleri"
+   },
+   {
+    "n": 15,
+    "konu": "Yönetimce ihlal edilen bir hakkın yerine getirilmesi ya da uğranılan zararın giderilmesi"
+   }
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM211": {
+  "amac": "Bir kentte yaşayan ve gelecekte bir kentin yöneticisi olmaya aday öğrencilerin kenti tanımasını, anlamasını ve okumasını sağlamaya çalışmak",
+  "icerik": "Görsel içerik destekli sözlü anlatım. Derste kent tarihi, kent sosyolojisi, kentsel coğrafya, kentleşme tanım ve stratejileri, kent hukuku konularında temel kavramlar konusunda genel bilgiler aktarılarak, konuya ilişkin asgari bilgiler edindirilmeye çalışılır.",
+  "outcomes": [
+   "Kenti tanımlar",
+   "Kent tarihi ve kentsel coğrafya konusunda asgari bilgilere sahip olur.",
+   "Kent sosyolojisine ilişkin başlıca teorileri bilir ve onlar hakkında konuşabilir.",
+   "Kentte yaşam konusunda temel bilgilere sahip olur.",
+   "Kentleşme kavram ve süreçleri konusunda temel bilgilere sahip olur.",
+   "Kentleşme ve süreçlerine ilişkin temel sorunları bilmek ve bu sorunlara yönelik çözüm önerileri konusunda bilgi sahibi olur."
+  ],
+  "resources": [
+   "Keleş, R. (2021); “Kentleşme Politikası”, 17. Baskı, İmge Yayınevi: Ankara."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 60
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş: kent nedir?, özellikleri nelerdir? vs."
+   },
+   {
+    "n": 2,
+    "konu": "Genel olarak kentlerin yapısı ve işleyişi: Kuruluş nedenleri, nüfus ölçütleri, fiziksel biçimleri vs."
+   },
+   {
+    "n": 3,
+    "konu": "Kentlerin Tarihi-I: Antik Çağda Kentler (Mısır, Asurlar, Sümerler, Hititler ve Frigler)"
+   },
+   {
+    "n": 4,
+    "konu": "Kentlerin Tarihi-II: Antik Çağ Batı Kentleri (Yunan, Ege kıyı kentleri ve Roma)"
+   },
+   {
+    "n": 5,
+    "konu": "Kentlerin Tarihi-III: Orta çağda Kentler"
+   },
+   {
+    "n": 6,
+    "konu": "Eski Türklerde Kent ve Kentleşme (Göktürkler, Uygurlar, Selçuklular ve Osmanlılar)"
+   },
+   {
+    "n": 7,
+    "konu": "Sanayii Devrimi öncesi ve sonrasında kentler"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Kentleşme Kuramları-I: Avrupa'dan Bakış (Weber, Tönnies, Simmel)"
+   },
+   {
+    "n": 10,
+    "konu": "Kentleşme Kuramları-II: Amerika dan Bakış (Güzel Şehir Hareketi, Muckrakerler, Chicago Okulu, LA Okulu, New York Okulu ve Miami Okulu)"
+   },
+   {
+    "n": 11,
+    "konu": "Son Dönem Kentleşme Kuramları (Lefevbre, Harvey, Giddens, Soja, Sassen, Jacobs, Castells, Friedman vb)"
+   },
+   {
+    "n": 12,
+    "konu": "Günümüzde Kentler (Dünya Kenti, Küresel kentler, Akıllı Kentler, Dirençli kentler vb.)"
+   },
+   {
+    "n": 13,
+    "konu": "Cumhuriyet Dönemi Türkiye'de Kentler ve Kentleşme"
+   },
+   {
+    "n": 14,
+    "konu": "Geleceğin Kentleri"
+   },
+   {
+    "n": 15,
+    "konu": "Genel Değerlendirme"
+   }
+  ],
+  "updated": "07.04.2025"
+ },
+ "KAM212": {
+  "amac": "Türkiye’deki yönetim yapısıyla yönetimin işleyişini ele alarak, Türk Kamu Yönetimi yapısına ilişkin bilgileri somutlaştırmayı amaçlamaktadır",
+  "icerik": "Türkiye’de politika belirleme sürecinde genel yönetim, yerinden yönetim ve yönetimdeki gelişmeler üzerinde durmaktadır.,",
+  "outcomes": [
+   "Türkiye’deki yönetim yapısıyla yönetimin işleyişini ele alarak, Türk Kamu Yönetimi yapısına ilişkin bilgileri somutlaştırır."
+  ],
+  "resources": [
+   "Gözübüyük, Şeref (2010); Türkiye'nin Yönetim Yapısı, 11. Baskı, Turhan Kitabevi: Ankara"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Kamu Yönetiminde Özel Sektör Etkisi"
+   },
+   {
+    "n": 2,
+    "konu": "Mahşerin Üç Atlısı: Taylor, Fayol, Weber"
+   },
+   {
+    "n": 3,
+    "konu": "F.W.Taylor Bilimsel Yönetimin İlkeleri"
+   },
+   {
+    "n": 4,
+    "konu": "H.Fayol Genel ve Endüstriyel Yönetim"
+   },
+   {
+    "n": 5,
+    "konu": "M.Weber Bürokrasi"
+   },
+   {
+    "n": 6,
+    "konu": "Kamu Yönetiminin İlk Ders Kitabı ve Leonard White"
+   },
+   {
+    "n": 7,
+    "konu": "Yeni Kamu Yönetimine Doğru"
+   },
+   {
+    "n": 8,
+    "konu": "Vize"
+   },
+   {
+    "n": 9,
+    "konu": "D. Waldo ve İdari Devlet"
+   },
+   {
+    "n": 10,
+    "konu": "YKY ve Frederickson"
+   },
+   {
+    "n": 11,
+    "konu": "Yeni Kamu İşletmeciliği"
+   },
+   {
+    "n": 12,
+    "konu": "Yönetişim"
+   },
+   {
+    "n": 13,
+    "konu": "Kamu Yönetiminin Geleceği"
+   },
+   {
+    "n": 14,
+    "konu": "Türk Kamu Yönetiminin Gelişimi"
+   },
+   {
+    "n": 15,
+    "konu": "Woodrow Wilson ve İdarenin İncelenmesi"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM213": {
+  "amac": "Bu dersin amacı öğrencilere maliye teorisi, kamu harcamaları, kamu ekonomisi ve bütçe ile ilgili temel bilgileri vermektir",
+  "icerik": "Kamu ekonomisi, kamu harcamaları, bütçe ve kamu gelirlerine bakış ve uygulamaların genel bir değerlendirilmesi",
+  "outcomes": [
+   "Öğrenci Kamu ekonomisinin yapısını açıklar",
+   "Kamu harcamaları ve kamu gelirleri kavramlarını tanır",
+   "Kamu harcamaları politikalarını değerlendirir",
+   "Devlet bütçesini analiz eder"
+  ],
+  "resources": [
+   "Şerafettin Aksoy, Kamu Maliyesi, Filiz Kitabevi, İstanbul, 1998 Abdurrahman Akdoğan, Kamu Maliyesi, Gazi Üniversitesi, Ankara, 1999 Halil Nadaroğlu, Kamu Maliyesi Teorisi, Beta Yayınları, İstanbul, 1992",
+   "Şerafettin Aksoy, Kamu Maliyesi, Filiz Kitabevi, İstanbul, 1998"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Maliye biliminin konusu, tanımı ve bölümleri"
+   },
+   {
+    "n": 2,
+    "konu": "Maliye biliminin tarihi gelişimi ve diğer bilim dallarıyla ilişkisi"
+   },
+   {
+    "n": 3,
+    "konu": "Piyasa ekonomisi ve kaynak dağılımı"
+   },
+   {
+    "n": 4,
+    "konu": "Devletin ekonomiye müdahale nedenleri"
+   },
+   {
+    "n": 5,
+    "konu": "Kamu faaliyetlerinin optimal seviyesi"
+   },
+   {
+    "n": 6,
+    "konu": "Kamu harcamalarının sınıflandırılması I"
+   },
+   {
+    "n": 7,
+    "konu": "Kamu harcamalarının sınıflandırılması II"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Kamu harcamalarının artışı ve kamu harcamalarının etkileri"
+   },
+   {
+    "n": 10,
+    "konu": "Kamu harcamalarının artışı ve kamu harcamalarının etkileri"
+   },
+   {
+    "n": 11,
+    "konu": "Bütçenin tanımı, tarihi gelişimi, fonksiyonları ve ilkeleri"
+   },
+   {
+    "n": 12,
+    "konu": "Bütçeleme sistemleri"
+   },
+   {
+    "n": 13,
+    "konu": "Türkiye’de bütçe uygulaması"
+   },
+   {
+    "n": 14,
+    "konu": "Kamu gelirleri"
+   },
+   {
+    "n": 15,
+    "konu": "Türkiye’de kamu gelirleri politikaları"
+   }
+  ],
+  "updated": "20.03.2025"
+ },
+ "KAM214": {
+  "amac": "Bir kentte yaşayan ve gelecekte bir kentin yöneticisi olmaya aday öğrencilerin kenti tanımasını, anlamasını ve okumasını sağlamaya çalışmak",
+  "icerik": "Görsel içerik destekli sözlü anlatım. Derste kent tarihi, kent sosyolojisi, kentsel coğrafya, kentleşme tanım ve stratejileri, kent hukuku konularında temel kavramlar konusunda genel bilgiler aktarılarak, konuya ilişkin asgari bilgiler edindirilmeye çalışılır.",
+  "outcomes": [
+   "Kenti tanımlar.",
+   "Kent tarihi ve kentsel coğrafya konusunda asgari bilgilere sahip olur.",
+   "Kent sosyolojisine ilişkin başlıca teorileri bilir ve onlar hakkında konuşabilir.",
+   "Kentte yaşam konusunda temel bilgilere sahip olur.",
+   "Kentleşme kavram ve süreçleri konusunda temel bilgilere sahip olur.",
+   "Kentleşme ve süreçlerine ilişkin temel sorunları bilmek ve bu sorunlara yönelik çözüm önerileri konusunda bilgi sahibi olur."
+  ],
+  "resources": [
+   "Keleş, R. (2011); “Kentleşme Politikası”, 11. Baskı, İmge Yayınevi: Ankara."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 60
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Kent, kentleşme ve kentlileşme"
+   },
+   {
+    "n": 2,
+    "konu": "Farklı ekonomik sistemlerde kent ve Kentleşme"
+   },
+   {
+    "n": 3,
+    "konu": "Türkiye'de Kentleşme Politikaları"
+   },
+   {
+    "n": 4,
+    "konu": "Kent Planlamasının Evrimi"
+   },
+   {
+    "n": 5,
+    "konu": "Kent Planlaması Süreci I"
+   },
+   {
+    "n": 6,
+    "konu": "Kent Planlaması Süreci-II Bölgesel Planlama"
+   },
+   {
+    "n": 7,
+    "konu": "Türkiye'de Kentsel Planlama Politikaları"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Konut Politikaları I: Temel Kavramlarla Konut"
+   },
+   {
+    "n": 10,
+    "konu": "Konut politikaları-II: Türkiye'de ve Dünyada Konut Politikaları"
+   },
+   {
+    "n": 11,
+    "konu": "Gecekondu ve Gecekondu Politikaları"
+   },
+   {
+    "n": 12,
+    "konu": "Kentbilim ve Toprak Sorunu"
+   },
+   {
+    "n": 13,
+    "konu": "İmar Hukuku"
+   },
+   {
+    "n": 14,
+    "konu": "Doğal Afetler ve Türkiye"
+   },
+   {
+    "n": 15,
+    "konu": "Genel Değerlendirme"
+   }
+  ],
+  "updated": "07.04.2025"
+ },
+ "KAM301": {
+  "amac": "Bu derste öğrencilerin yerel yönetimleri siyasal, yönetsel, toplumsal, kültürel ve ekonomik açıdan taşıdıkları önem bağlamında değerlendirilmesini sağlamak amaçlanmaktadır",
+  "icerik": "Derste yerel yönetimlere ilişkin temel kavram ve kuramlar ele alındıktan sonra, yerel yönetimlerin tarihsel gelişimi ve bu doğrultuda demokrasiyle ilişkisine değinilir. Türkiye’de yerel yönetimlerin kısa tarihçesi incelenerek günümüzde ve gelecekte yerel yönetimlerin konumuna ilişkin değerlendirmeler yapılır",
+  "outcomes": [
+   "Yerel yönetimlerin varlık nedenleri ve dayandığı değerlere ilişkin bilgi sahibi olur.",
+   "Yerel yönetimler ve demokrasi ilişkisini tarihsel gelişmeler bağlamında değerlendirebilir.",
+   "Avrupa Birliği, Avrupa Konseyi, Birleşmiş Milletler gibi uluslar arası kuruluşların yerel yönetimlere ilişkin değerleri ve faaliyetleri konusunda bilgi sahibi olur.",
+   "Türkiye’de yerel yönetimlerin durumunu tarihsel, siyasal ve hukuksal açıdan değerlendirebilir.",
+   "Günümüzde ve gelecekte yerel yönetimlerin durumuna ilişkin fikir sahibi olur."
+  ],
+  "resources": [
+   "Keleş, Ruşen, Yerinden Yönetim ve Siyaset, Cem Yayınevi, İstanbul"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Yerel Yönetim Kavramı"
+   },
+   {
+    "n": 2,
+    "konu": "Yerel Yönetim Türleri"
+   },
+   {
+    "n": 3,
+    "konu": "arihsel Gelişim: Antik, Ortaçağ"
+   },
+   {
+    "n": 4,
+    "konu": "Tarihsel Gelişim: Yakın, Yeniçağ"
+   },
+   {
+    "n": 5,
+    "konu": "Tarihsel Gelişim: 19. ve 20. yüzyıl"
+   },
+   {
+    "n": 6,
+    "konu": "Yerel Özerlik, Demokrasi"
+   },
+   {
+    "n": 7,
+    "konu": "Vesayet"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Avrupa Konseyi ve yerel yönetimler"
+   },
+   {
+    "n": 10,
+    "konu": "Avrupa Konseyi ve yerel yönetimler"
+   },
+   {
+    "n": 11,
+    "konu": "Avrupa Birliği ve yerel yönetimler"
+   },
+   {
+    "n": 12,
+    "konu": "Birleşmiş Milletler ve yerel yönetimler"
+   },
+   {
+    "n": 13,
+    "konu": "Siyasal Yerinden Yönetim"
+   },
+   {
+    "n": 14,
+    "konu": "Türkiye’de yerel yönetimlerin kısa tarihçesi"
+   },
+   {
+    "n": 15,
+    "konu": "Anayasalarda yerel yönetim"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM302": {
+  "amac": "Bu derste öğrencilerin Türkiye’de yerel yönetim kuruluşlarının görev ve yetkileri, gelir ve harcamaları, devlet ile kurdukları ilişki hakkında bilgi sahibi olmaları amaçlanmaktadır",
+  "icerik": "Türk mahalli idare yapısını oluşturan belediyeler, il özel idareleri, büyükşehir belediyeleri ve köy yönetimlerinin örgütlenmesi, görevleri, organları ve bu kurumlara ilişkin yasal mevzuat hakkında ayrıntılı bilgilendirme yapılır",
+  "outcomes": [
+   "Belediyeler, il özel idareleri, büyükşehir belediyeleri ve köy yönetimleri hakkında bilgi edinmek",
+   "Yerel yönetimlerin örgütlenmesi, organları, görevleri hakkında bilgi edinmek",
+   "Yerel yönetimlerin mali yapısı hakkında bilgi edinmek"
+  ],
+  "resources": [
+   "Keleş, Ruşen, Yerinden Yönetim ve Siyaset, Cem Yayınevi, İstanbul"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Derse genel bakış"
+   },
+   {
+    "n": 2,
+    "konu": "1982 Anayasa’sında yerel yönetimler"
+   },
+   {
+    "n": 3,
+    "konu": "Köylerimizde yerel yönetimeler"
+   },
+   {
+    "n": 4,
+    "konu": "Köylerimizde yerel yönetim"
+   },
+   {
+    "n": 5,
+    "konu": "Belediyeler"
+   },
+   {
+    "n": 6,
+    "konu": "Belediyeler"
+   },
+   {
+    "n": 7,
+    "konu": "büyükşehir Belediyeleri"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Büyükşehir Belediyeleri"
+   },
+   {
+    "n": 10,
+    "konu": "Yerel yönetim birlikleri ve işletmeler"
+   },
+   {
+    "n": 11,
+    "konu": "Yerel yönetimlerde yeniden düzenleme"
+   },
+   {
+    "n": 12,
+    "konu": "Belediye Maliyesi"
+   },
+   {
+    "n": 13,
+    "konu": "Belediye Maliyesi"
+   },
+   {
+    "n": 14,
+    "konu": "Devlet Yerel Yönetim İlişkileri"
+   },
+   {
+    "n": 15,
+    "konu": "Genel değerlendirme"
+   }
+  ],
+  "updated": "10.04.2025"
+ },
+ "KAM303": {
+  "amac": "Tanımsal istatistik ve olasılık temel kavramlarının öğretilmesi",
+  "icerik": "Merkezi eğilim ölçüleri, merkezi dağılım ölçüleri, çarpıklık ve basıklık, grafikler, temel olasılık kavramları, çağdaş olasılık, kesikli ve sürekli olasılık fonksiyonları, koşullu olasılık, rastgele değişkenler, kesikli ve sürekli olasılık dağılımları",
+  "outcomes": [
+   "Temel istatistik kavramlarını bilir",
+   "Toplanan verilerin derler ve verileri grafiksel ve basit yöntemlerle özetleyerek sunar",
+   "Merkezi eğilim ölçüleri ve dağılım ölçülerinin hesaplar ve yorumlar",
+   "Bazı istatistiksel yöntemleri kullanır ve yorumlar",
+   "Temel olasılık kavramlarını ve olasılık aksiyomlarını bilir",
+   "Rastgele değişken kavramını bilir, rastgele değişkenlerin ortalama ve varyansını hesaplar",
+   "Bazı kesikli ve sürekli olasılık dağılımlarını açıklar"
+  ],
+  "resources": [
+   "Tanımsal İstatistik. Olasılık ve Olasılık Dağılımları. Neyran Orhunbilge. Nobel Yayıncılık"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Merkezi Eğilim Ölçüleri"
+   },
+   {
+    "n": 2,
+    "konu": "Merkezi Eğilim Ölçüleri"
+   },
+   {
+    "n": 3,
+    "konu": "Merkezi Dağılım Ölçüleri"
+   },
+   {
+    "n": 4,
+    "konu": "Merkezi Dağılım Ölçüleri"
+   },
+   {
+    "n": 5,
+    "konu": "Çarpıklık ve Basıklık"
+   },
+   {
+    "n": 6,
+    "konu": "Çarpıklık ve Basıklık"
+   },
+   {
+    "n": 7,
+    "konu": "Grafikler"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Olasılık Kavramı, Olasılığın Temel Kavramları ve Olasılık Aksiyomları"
+   },
+   {
+    "n": 10,
+    "konu": "Olasılık Fonksiyonu, Olasılık Yoğunluk Fonksiyonu"
+   },
+   {
+    "n": 11,
+    "konu": "Rastgele Değişken Kavramı, Rastgele Değişkenlerin Beklenen Değeri ve Varyansı"
+   },
+   {
+    "n": 12,
+    "konu": "Kesikli Olasılık Dağılımları"
+   },
+   {
+    "n": 13,
+    "konu": "Kesikli Olasılık Dağılımları"
+   },
+   {
+    "n": 14,
+    "konu": "Sürekli Olasılık Dağılımları"
+   },
+   {
+    "n": 15,
+    "konu": "Sürekli Olasılık Dağılımları"
+   }
+  ],
+  "updated": "08.04.2025"
+ },
+ "KAM304": {
+  "amac": "Sosyo kültürel yapının unsurları (sosyal ve kültürel) ile sosyal yapının unsurları (temel kurumlar) arasındaki ilişkiyi karşılıklı bağımlılık ilişkisi içinde alarak toplumsal gruplar ile siyasal birimler arasındaki ilişki ve etkileşimi incelemek, devlet toplum ilişkisini tarihsel/kültürel gelenek ile",
+  "icerik": "Liberalizmin Sivil Toplum Anlayışı, Hegel ve Sivil Toplum, Marks ve Sivil Toplum, 1844 El Yazmaları, Komünist Parti Manifestosu, Gramşiyan Yaklaşım, Althusser, Kültürel Aygıtlar, Solcu ve solcu olmayan Çatışma Kuramları, Kolektif Davranış ve Sosyal Harektler",
+  "outcomes": [
+   "Siyaset sosyolojisinin konusunu amacını, yaklaşım ve temel ilkelerini öğrenir.",
+   "Siyaset kurumu ile diğer toplumsal kurumlar arasındaki ilişki ve etkileşimi sosyo kültürel bağlamda değerlendirir.",
+   "Genel olarak devlet toplum ilişkisini özel olarak siyasal hayatın işleyişini öğrenir.",
+   "Siyasal yapı,siyasal hayat, siyasal elitler, siyasal kültür, siyasal katılma, siyasal değişme, siyasal yozlaşma, siyasal yabancılaşma, siyasal çekilme, siyasal çözülme ve siyasal hareketler hakkında bilgi sahibi olur.",
+   "Türkiye’de siyasal ve sosyal hayatın öğeleri arasındaki bağlantıları kurar."
+  ],
+  "resources": [
+   "Atilla Yayla, Karl Marx, Antonio Gramsci, Louis Althusser, slayt"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Genel Tanıtım"
+   },
+   {
+    "n": 2,
+    "konu": "Liberalizm; Liberalizm ve Sivil Toplum"
+   },
+   {
+    "n": 3,
+    "konu": "Hegel ve Sivil Toplum"
+   },
+   {
+    "n": 4,
+    "konu": "Marks ve Sivil Toplum"
+   },
+   {
+    "n": 5,
+    "konu": "Marksist Düşlünce"
+   },
+   {
+    "n": 6,
+    "konu": "Marksist Düşünce"
+   },
+   {
+    "n": 7,
+    "konu": "Antonio Gramsci ve Louis Althusser"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Kültürel Aygıtlar; Anlatı Kuramı"
+   },
+   {
+    "n": 10,
+    "konu": "Kültürel Aygıtlar 2"
+   },
+   {
+    "n": 11,
+    "konu": "Kültürel Aygıtlar : Yeşilçam'da Gayri Müslimlerin Temsili & ABD Sinemasında Arap/Müslümanların Temsili"
+   },
+   {
+    "n": 12,
+    "konu": "Çatışma Kuramları"
+   },
+   {
+    "n": 13,
+    "konu": "Çatışma Kuramları"
+   },
+   {
+    "n": 14,
+    "konu": "Kolektif Davranış ve Sosyal Hareketler"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "25.03.2025"
+ },
+ "KAM305": {
+  "amac": "Öğrencilerin Türkiye ekonomisi hakkında kapsamlı bilgiye sahip olması ve Türkiye ekonomisi hakkında yorum ve analiz yapabilme becerisi kazandırmak.",
+  "icerik": "Ders, Türkiye ekonomisini analiz edebilmek için gerekli olan mikro ve makro ekonomik kavramlar yardımı ile analiz edebilme ve yorumlama şeklinde hazırlanmıştır.",
+  "outcomes": [
+   "Türkiye ekonomisi’nin tarihsel ve yapısal ögeleri öğrenilmektedir. Sektörel analiz yapabilir. 1980 sonrası ekonomi politikalarında yapılan köklü değişimler hakkında bilgi sahibi olur. Ulusal gelirin oluşumunu analiz edebilir. Türkiye ‘nin ekonomik yapısı hakkında bilgi sahibi olur Türkiye ekonomisi hakkında yorum ve analiz yapabilir Türkiye ekonomisi’nin sorunlarını tespit eder ve çözüm önerileri getirebilir."
+  ],
+  "resources": [
+   "Y. Kepenek, N. Yentürk, Türkiye Ekonomisi, 9. Baskı, Remzi Kitabevi M. Eğilmez, Türkiye Ekonomisi, Remzi Kitapevi H. Şahi, Türkiye Ekonomisi, Ezgi Kitapevi G. Kazgan, Tanzimat’tan 21.yüzyıla Türkiye Ekonomisi, İstanbul Bilgi Üniversitesi Yayınları",
+   "Y. Kepenek, N. Yentürk, Türkiye Ekonomisi, 9. Baskı, Remzi Kitabevi"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Türkiye ekonomisi’nin tarihsel gelişimi"
+   },
+   {
+    "n": 2,
+    "konu": "Türkiye’nin nüfus yapısı"
+   },
+   {
+    "n": 3,
+    "konu": "İstihdam ve işsizlik"
+   },
+   {
+    "n": 4,
+    "konu": "Milli gelir ve gelişimi"
+   },
+   {
+    "n": 5,
+    "konu": "Dışa açık büyüme"
+   },
+   {
+    "n": 6,
+    "konu": "Parasal politika ve gelişmeler"
+   },
+   {
+    "n": 7,
+    "konu": "Parasal politika ve gelişmeler"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Sermaye kaynaklarını kullanımı"
+   },
+   {
+    "n": 10,
+    "konu": "Sektörelgelişmeler"
+   },
+   {
+    "n": 11,
+    "konu": "Çalışma Yaşamı"
+   },
+   {
+    "n": 12,
+    "konu": "Ulusal üretim ve bölüşüm"
+   },
+   {
+    "n": 13,
+    "konu": "Ekonominin genel dengesi"
+   },
+   {
+    "n": 14,
+    "konu": "Dış ödemeler dengesi"
+   },
+   {
+    "n": 15,
+    "konu": "Dünya ekonomisinde Türkiye"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM307": {
+  "amac": "Bir vergi sisteminin hayata geçirilmesi için gerekli hukuksal düzenlemelerin temellerini ve ilkelerini öğretmek",
+  "icerik": "Vergi hukukunun anlamı, konusu ve bölümleri, diğer dalları ile ilişkisi, kaynakları, vergi kanunlarının uygulanması, vergilendirme yetkisi, vergilendirme süreci, vergi idaresi, vergi suç ve cezaları, vergi icrası, vergi yargısı ,",
+  "outcomes": [
+   "Vergi hukukunun temel ilkelerini açıklar.",
+   "Vergi kanunlarını somut olaylara uygular.",
+   "Vergi yükümlülüğü ve sorumluluğu arasındaki farklılıkları ortaya koyar.",
+   "Vergi yönetiminin yapısını çözümler"
+  ],
+  "resources": [
+   "M. Öncel, A. Kumrulu, N. Çağan, Vergi Hukuku, Turhan Kitabevi, Ankara, 2007 Sadık Kırbaş, Vergi Hukuku, Siyasal Kitabevi, Ankara, 2007 Nurettin Bilici, Vergi Hukuku, Seçkin yayınları, Ankara, 2007 Tüm vergi kanunları"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Vergi hukukunun anlamı, konusu, gelişimi ve diğer hukuk dallarıyla ilişkisi"
+   },
+   {
+    "n": 2,
+    "konu": "Vergi hukukunun kaynakları"
+   },
+   {
+    "n": 3,
+    "konu": "Vergi kanunlarının uygulanması"
+   },
+   {
+    "n": 4,
+    "konu": "Vergilendirme yetkisi"
+   },
+   {
+    "n": 5,
+    "konu": "Vergi yükümlülüğü ve sorumluluğu"
+   },
+   {
+    "n": 6,
+    "konu": "Vergi hukukunda ehliyet ve temsil ve Vergi mükellefinin ödevleri, hakları"
+   },
+   {
+    "n": 7,
+    "konu": "Tekrar"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Vergi yönetimi"
+   },
+   {
+    "n": 10,
+    "konu": "Vergi yönetimi"
+   },
+   {
+    "n": 11,
+    "konu": "Vergi hukukunda süreler ve Vergi borcunun sona ermesi"
+   },
+   {
+    "n": 12,
+    "konu": "Vergi denetimi"
+   },
+   {
+    "n": 13,
+    "konu": "Vergi suç ve cezaları"
+   },
+   {
+    "n": 14,
+    "konu": "Vergi icrası"
+   },
+   {
+    "n": 15,
+    "konu": "Vergi yargısı"
+   }
+  ],
+  "updated": "29.03.2025"
+ },
+ "KAM308": {
+  "amac": "Bölgesel geri kalmışlığın nedenleri, sonuçları ve çözümlerinin sürdürülebilirlik kapsamında incelenmesi",
+  "icerik": "Bölge kavramı ekseninde Türkiye ve dünya da kalkınma alanında yaşanan gelişmeler anlatılır.",
+  "outcomes": [
+   "Bölge kavramını ana hatlarıyla kavrar",
+   "Genel anlamda bölgesel dengesizlik nedenleri, sonuçları ve çözüm önerilerini ortaya koyar",
+   "Yerel yönetim, yerinden yönetim ve yönetişim gibi kavramları doğru biçimde kullanır",
+   "Geçmişte ve günümüzde Türkiye’de bölge konusunda yaşananları sağlıklı biçimde analiz eder",
+   "Türk yönetim alanında bölgenin yerini tanır"
+  ],
+  "resources": [
+   "Dinler, Z. (2010); “Bölgesel İktisat”, 8. Baskı, Ekin Yayınevi: Ankara."
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Bölgeye ilişkin Temel Paradigmalar-I: Küreselleşme"
+   },
+   {
+    "n": 2,
+    "konu": "Bölgeye ilişkin Temel Paradigmalar-II: Yönetişim"
+   },
+   {
+    "n": 3,
+    "konu": "Bölge, Bölgeselleşme ve Bölgecilik Kavramları"
+   },
+   {
+    "n": 4,
+    "konu": "Yerel Yönetim birimi olarak Bölge Yönetimleri"
+   },
+   {
+    "n": 5,
+    "konu": "Siyasal Bölge Yönetimleri ve Yeni Bölgecilik Yaklaşımı"
+   },
+   {
+    "n": 6,
+    "konu": "Bölgesel geri Kalmışlık ve Nedenleri"
+   },
+   {
+    "n": 7,
+    "konu": "Bölgesel Ekonomik Kalkınma Kuramları-I:Neo-Klasik ve Keynesyen Kalkınma"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Bölgesel Ekonomik Kalkınma Kuramları-II: Modern ve Post Modern Kalkınma Yaklaşımları"
+   },
+   {
+    "n": 10,
+    "konu": "Mekana Bağımlı ve Mekâna bağlı olmayan kalkınma yaklaşımları"
+   },
+   {
+    "n": 11,
+    "konu": "AB'nin Bölge Politikaları"
+   },
+   {
+    "n": 12,
+    "konu": "Kent Bölgeler"
+   },
+   {
+    "n": 13,
+    "konu": "Bölgesel Yönetişim"
+   },
+   {
+    "n": 14,
+    "konu": "Türkiye'de Bölgesel Dengesizlikler ve nedenleri"
+   },
+   {
+    "n": 15,
+    "konu": "Türkiye'de Bölgesel Kalkınma Projeleri ve Bölgesel Kalkınma Yönetimi"
+   }
+  ],
+  "updated": "07.04.2025"
+ },
+ "KAM309": {
+  "amac": "Çevre Yönetim ve ilkelerine yönelik çerçevenin sürdürülebilir kalkınma ekseninde öğretilmesi",
+  "icerik": "Görsel içerik destekli sözlü anlatım. Derste temel olarak sözel anlatımlar somut olgularla pekiştirilir. Öğrencilerin, sürdürülebilir kalkınma anlayışı çerçevesinde çevre kaynaklarının korunması, çevresel ortamların kalitelerinin yükseltilmesi için temel bilgiler ve teknik çevre mevzuatı bilgileri ile donatılması sağlanmaya çalışılır",
+  "outcomes": [
+   "Çevre kavramını bütün yönleriyle kavrar.",
+   "Çevre ve sürdürülebilirlik ilişkisinin özümser",
+   "Çevre ve insan ilişkisini çok iyi kavrar.",
+   "Çevreye yönelik en temel sorunların neler olduğunu ve çözümüne yönelik politikaları tanımlar.",
+   "Türkiye’de mevcut çevre yönetimini rahatlıkla anlatabilir."
+  ],
+  "resources": [
+   "Keleş, R., Hamacı, C. ve A. Çoban (2009); “Kentleşme Politikası”, 6. Baskı, İmge Yayınevi: Ankara."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 60
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Çevre Problematiği: Çevre ve Toplum İlişkileri"
+   },
+   {
+    "n": 2,
+    "konu": "Çevre ve Ekonomi"
+   },
+   {
+    "n": 3,
+    "konu": "Çevre ve Sürdürülebilirlik"
+   },
+   {
+    "n": 4,
+    "konu": "Çevre ve enerji"
+   },
+   {
+    "n": 5,
+    "konu": "Çevreci düşünceler ve hareketler"
+   },
+   {
+    "n": 6,
+    "konu": "Çevresel Etki Değerlemesi"
+   },
+   {
+    "n": 7,
+    "konu": "Çevre Politikası ve Yönetimi: Temel Kavramlar"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Çevre Sorunları-I: Nüfus artışı ve besin yetersizliği"
+   },
+   {
+    "n": 10,
+    "konu": "Çevre Sorunları-II: Kirlilik"
+   },
+   {
+    "n": 11,
+    "konu": "Çevre Politikası Yaklaşımları"
+   },
+   {
+    "n": 12,
+    "konu": "Çevrenin Uluslararası Boyutları (Uluslararası kuruluşlar, Uluslararası çevre hukuku ve Uluslararası çevre anlaşmaları vb)"
+   },
+   {
+    "n": 13,
+    "konu": "Çevre Hukuku"
+   },
+   {
+    "n": 14,
+    "konu": "Türkiye'de Çevre Yönetimi"
+   },
+   {
+    "n": 15,
+    "konu": "Türkiye'de Çevre Yargısı"
+   }
+  ],
+  "updated": "07.04.2025"
+ },
+ "KAM310": {
+  "amac": "Bu dersin amacı öğrencilerin, İş Hukukunun Kapsamı, Konusu, Niteliği, Tarihçesi, Temel Kavramlar hakkında bilgi sahibi olmalarının sağlanmasıdır",
+  "icerik": "Ders kapsamında, İş Hukukunun Kapsamı, Konusu, Niteliği, Tarihçesi, Temel Kavramlar, Bireysel İş Hukuku, İş Sözleşmesi, Unsurları, Özellikleri, İş Sözleşmesinden Doğan Borçlar, İşin Düzenlenmesi, İş Süreleri, Eksik Çalışma, Fazla Çalışma, Dinlenme Süreleri, Yıllık Dinlenme, Ücret ve Ücret Güvencesi, İşçi Sağlığı, İş Güvenliği, İş Sözleşmesinin Sona Ermesi, Toplu İş Hukuku, Sendika Hakkı İle İlgili Temel Kavramlar, Sendikacılığın Tarihçesi, Sendika ve Konfederasyonların Kuruluşu, Sendika Kuruluşu, Sendikaların Organları, Sendika Üyeliği, Faaliyetleri, Gelir ve Giderleri, Denetimi, Sona Ermesi, Toplu İş Sözleşmesi Kavramı, Hakkı ve Oluşumu, Toplu İş Sözleşmesinden Yararlanma, Toplu İş Uyuşmazlıkları ve Çözüm Yolları, Grev Hakkı ve Uygulaması, Lokavt konularına değinilecektir",
+  "outcomes": [
+   "Bu dersi alan öğrenciler; İş Hukukunun Kapsamı, Konusu, Niteliği, Tarihçesi, Temel Kavramlar hakkında bilgi sahibi olur.",
+   "İş Hukukunun Temel Kavramlarını öğrenirler",
+   "İş Sözleşmesi Unsurlarını öğrenirler",
+   "İş Sözleşmesi türlerini öğrenirler",
+   "İş Sözleşmesinden doğan yükümlülükleri türlerini öğrenirler"
+  ],
+  "resources": [
+   "İş Hukuku"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin Genel Tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "İş Hukukunun Kapsamı, Konusu, Niteliği, Tarihçesi"
+   },
+   {
+    "n": 3,
+    "konu": "İş Hukukunun Temel Kavramları"
+   },
+   {
+    "n": 4,
+    "konu": "Bireysel İş Hukuku"
+   },
+   {
+    "n": 5,
+    "konu": "İş Sözleşmesi: Unsurları"
+   },
+   {
+    "n": 6,
+    "konu": "İş Sözleşmesi: Özellikleri/İş Sözleşmesinden Doğan Borçlar, İşin Düzenlenmesi"
+   },
+   {
+    "n": 7,
+    "konu": "İş Süreleri, Eksik Çalışma, Fazla Çalışma"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Dinlenme Süreleri, Yıllık Dinlenme, Ücret ve Ücret Güvencesi, İşçi Sağlığı, İş Güvenliği, İş Sözleşmesinin Sona Ermesi/ Toplu İş Hukuku, Sendika Hakkı İle İlgili Temel Kavramlar, Sendikacılığın Tarihçesi, Sendika ve Konfederasyonların Kuruluşu"
+   },
+   {
+    "n": 10,
+    "konu": "Dinlenme Süreleri, Yıllık Dinlenme, Ücret ve Ücret Güvencesi, İşçi Sağlığı, İş Güvenliği, İş Sözleşmesinin Sona Ermesi/ Toplu İş Hukuku, Sendika Hakkı İle İlgili Temel Kavramlar, Sendikacılığın Tarihçesi, Sendika ve Konfederasyonların Kuruluşu"
+   },
+   {
+    "n": 11,
+    "konu": "Sendika Kuruluşu, Sendikaların Organları, Sendika Üyeliği, Faaliyetleri, Gelir ve Giderleri, Denetimi, Sona Ermesi"
+   },
+   {
+    "n": 12,
+    "konu": "Toplu İş Sözleşmesi Kavramı, Hakkı ve Oluşumu, Toplu İş Sözleşmesinden Yararlanma"
+   },
+   {
+    "n": 13,
+    "konu": "Toplu İş Uyuşmazlıkları ve Çözüm Yolları"
+   },
+   {
+    "n": 14,
+    "konu": "Grev Hakkı ve Uygulaması"
+   },
+   {
+    "n": 15,
+    "konu": "Lokavt"
+   }
+  ],
+  "updated": "27.03.2025"
+ },
+ "KAM311": {
+  "amac": "İlkçağlardan I. Dünya Savaşı’na kadar olan dönemde dünya tarihine damgasını vuran gelişmeler hakkında öğrencileri bilgilendirerek, bu olaylar arasında neden-sonuç ilişkilerini kurmalarını sağlamaktır.",
+  "icerik": "Tarih ve siyasi tarih tanımı, ilk çağlardan başlayarak tarihi dönemler arasında nedensellik ilişkisinin kavranması, feodalizmden başlayarak 1. Dünya Savaşı sonuna kadar devletler arasındaki ilişkilerin analizi ve spesifik kamu çalışmalarını içerir.",
+  "outcomes": [
+   "Tarihsel olayların öğrenciler tarafından bilimsel yöntemle ele alınması",
+   "-Siyasi tarih gelişmelerinin kronolojik olarak kavranılması",
+   "-Devletler arasındaki ilişkilerin analizi"
+  ],
+  "resources": [
+   "Oral Sander, Siyasi Tarih İlkçağlardan 1918’e, İmge Kitabevi, Ankara, 2010"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Feodalizm, Rönesans, Reform Hareketleri"
+   },
+   {
+    "n": 2,
+    "konu": "Başat Güç kavramı, Otuz Yıl Savaşları ve Westphalia Barışı, Fransa'nın Üstünlüğü, Güç Dengesi politikası"
+   },
+   {
+    "n": 3,
+    "konu": "Amerikan Devrimi, 1823 Monroe Doktirini"
+   },
+   {
+    "n": 4,
+    "konu": "Fransız Devrimi- Napolyon Dönemi"
+   },
+   {
+    "n": 5,
+    "konu": "Viyana Kongresi, Sanayi Devrimi, 1830- 1848 Devrimleri"
+   },
+   {
+    "n": 6,
+    "konu": "Osmanlı Diplomasisi, Lale Devri"
+   },
+   {
+    "n": 7,
+    "konu": "Rusya Tarihi (Knezlik- Çarlık- İmparatorluk)"
+   },
+   {
+    "n": 8,
+    "konu": "ARA SINAV"
+   },
+   {
+    "n": 9,
+    "konu": "Alman ve İtalyan Ulusal birlikleri"
+   },
+   {
+    "n": 10,
+    "konu": "Üçlü İttifak- Üçlü Anlaşma"
+   },
+   {
+    "n": 11,
+    "konu": "Sömürgeleşme ve Avrupa Dışı Mücadele"
+   },
+   {
+    "n": 12,
+    "konu": "Osmanlı Devleti'nin parçalanması; 1838 Ticaret Sözleşmesi, 93 Harbi ve Berlin Anlaşması"
+   },
+   {
+    "n": 13,
+    "konu": "19. yy Osmanlı Diplomasisinde gelişme ve sivil bürokrasi"
+   },
+   {
+    "n": 14,
+    "konu": "Büyük Savaş öncesi ağır bunalımlar, İngiltere'nin splendid isolation politikasını bırakması"
+   },
+   {
+    "n": 15,
+    "konu": "Büyük Savaş'ın nedeni, çıkışı ve belirgin özellikleri"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM312": {
+  "amac": "I. Dünya Savaşı’ndan günümüze kadar olan dönemde dünya tarihine damgasını vuran gelişmeler hakkında öğrencileri bilgilendirerek, bu olaylar arasında neden-sonuç ilişkilerini kurmalarını sağlamaktır.",
+  "icerik": "1. Dünya Savaşı sonrası düzenin ve uluslararası sistem doğası ve temel karakteristiği analiz edilerek, soğuk savaşı, detant (yumuşama), iki kutuplu sistem ve egemen güç gibi diplomasi tarihini belirleyen ve yön veren gelişmelerin açıklanmasını içerir.",
+  "outcomes": [
+   "-Tarihsel olayların öğrenciler tarafından bilimsel yöntemle ele alınması",
+   "- Siyasi tarih gelişmelerinin kronolojik olarak kavranılması",
+   "- Devletler arasındaki ilişkilerin analizi"
+  ],
+  "resources": [
+   "Oral Sander, Siyasi Tarih İlkçağlardan 1918’e, İmge Kitabevi, Ankara, 2010"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "İki Savaş arası dönem ve temel özellikleri"
+   },
+   {
+    "n": 2,
+    "konu": "Almanya ve İtalya'da rejimin dönüşümü ve faşizm"
+   },
+   {
+    "n": 3,
+    "konu": "Rusya'da Ekim Devrimi ve rejimin temel özellikleri"
+   },
+   {
+    "n": 4,
+    "konu": "Hitler Dönemi ve uluslararası sistemde hareketlenme, savaşa giden süreç"
+   },
+   {
+    "n": 5,
+    "konu": "II. Dünya Savaşı, savaşın kırılma noktaları"
+   },
+   {
+    "n": 6,
+    "konu": "Savaş içinde ve Savaş sonrası diplomatik konferanslar ve kararlar"
+   },
+   {
+    "n": 7,
+    "konu": "II. Dünya Savaşı ve Türkiye"
+   },
+   {
+    "n": 8,
+    "konu": "ARA SINAV"
+   },
+   {
+    "n": 9,
+    "konu": "Soğuk Savaş Dönemi İki Kutuplu Sistem kavram ve temel özellikleri"
+   },
+   {
+    "n": 10,
+    "konu": "Arap- İsrail Savaşları, Camp David Anlaşmaları ve Kudüs'ün başkent olarak tanınmasına giden süreç"
+   },
+   {
+    "n": 11,
+    "konu": "Kıbrız Uyuşmazlığı, süreç ve AB'ne üyelik süreci"
+   },
+   {
+    "n": 12,
+    "konu": "1979 Sovyetlerin Afganistan işgali ve 1979 İran İslam Devrimi"
+   },
+   {
+    "n": 13,
+    "konu": "Sovyet sisteminin çözülüşü ve neo- liberalizm- new- right hareketi"
+   },
+   {
+    "n": 14,
+    "konu": "Soğuk Savaş sonrası Dönem ve Yeni Dünya düzeni (Kavramlar- Kuramlar)"
+   },
+   {
+    "n": 15,
+    "konu": "Körfez Krizi ve Ortadoğu'da gelişmeler"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM313": {
+  "amac": "Bu dersin temel amaç ve hedefi, Sosyal Politika ve Çalışma Hukuku ile ilgili tüm kavramları ve ilişkileri belirlemek, bu konuda karşılaşılacak hukuki sorunlara pratik çözümler üretme konusunda hukuk mantığı geliştirmektir",
+  "icerik": "Bu ders öğrencilerin, iktisadi alan ve karar alma alanı arasında yer alan sosyal politikanın çeşitli yönleri hakkında bilgilendirilmesini içermektedir. İkili yapı göz önünde bulundurularak, temel iktisadi ve mali konular ele alınacaktır. Ülke ve sektör bazında emek piyasası ve çalışma şartları incelenecektir",
+  "outcomes": [
+   "Öğrenci bir ülkede uygulanması gereken sosyal politikaların neler olduğu öğrenir."
+  ],
+  "resources": [
+   "Sosyal Politika İMGE KİTABEVİ YAYINLARI Prof. Dr. Meryem Koray ,Yayın Yılı: 2008"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş"
+   },
+   {
+    "n": 2,
+    "konu": "Sosyal Politika İle Sosyal Politika'ya Yakın Bilim Dalları Arasındaki Yaklaşım Farklılıkları"
+   },
+   {
+    "n": 3,
+    "konu": "Sosyal Politikaların Tarihsel Gelişimi"
+   },
+   {
+    "n": 4,
+    "konu": "Sosyal Politikaların Türkiye'deki Tarihsel Gelişimi"
+   },
+   {
+    "n": 5,
+    "konu": "İstihdam Politikaları"
+   },
+   {
+    "n": 6,
+    "konu": "Ücret Politikalarının Dayanakları-1"
+   },
+   {
+    "n": 7,
+    "konu": "Ücret Politikalarının Dayanakları-2"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Ücret Politikaları"
+   },
+   {
+    "n": 10,
+    "konu": "Ücret Politikaları"
+   },
+   {
+    "n": 11,
+    "konu": "Kadınların Çalışma Yaşamında Korunması"
+   },
+   {
+    "n": 12,
+    "konu": "Çocukların Çalışma Yaşamında Korunması"
+   },
+   {
+    "n": 13,
+    "konu": "Gençlerin Çalışma Yaşamında Korunması"
+   },
+   {
+    "n": 14,
+    "konu": "Sosyal Politika Ve Çevre"
+   },
+   {
+    "n": 15,
+    "konu": "Sosyal Politika Ve Küreselleşme"
+   }
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM314": {
+  "amac": "Bu dersin amacı öğrencilere uluslararası ilişkilerin tarihi gelişimi, bilim olarak uluslararası ilişkiler, uluslararası ilişkiler kuramları ve kuramcıları, dış politikadaki yaklaşımlar ve, uluslararası sistemin günümüzdeki yapısı ve işleyişini öğretmektedir",
+  "icerik": "Bu ders, uluslararası ilişkilerin tarihi gelişimi, uluslararası ilişkiler kuramlarının ve kuramcılarının anlatılması, dış politikadaki yaklaşımlar ve bu yaklaşımların tanımlanması ve uluslararası örgütler ve işleyişlerini kapsamaktadır",
+  "outcomes": [
+   "Uluslararası sistemin günümüzdeki yapısı ve işleyişini öğrenir",
+   "Dış politikadaki yaklaşımları tanımlayacak",
+   "Uluslararası ilişkiler kuramlarını ve kuramcılarını tanır",
+   "Bir bilim olarak Uluslararası İlişkileri anlar",
+   "Uluslararası ilişkilerin tarihi gelişimini öğrenir"
+  ],
+  "resources": [
+   "1"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin Tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "Uluslararası İlişkilerin sujeleri"
+   },
+   {
+    "n": 3,
+    "konu": "Uluslararası İlişkilerin Disiplin Olarak Ortaya Çıkışı ve Gelişimi"
+   },
+   {
+    "n": 4,
+    "konu": "İlk çağda ve Orta Çağda Uluslararası İlişkilerin Varlığı Sorunu"
+   },
+   {
+    "n": 5,
+    "konu": "Modern Dönemde Uluslararası İlişkiler: Makyevelli,Hobbes,Kant"
+   },
+   {
+    "n": 6,
+    "konu": "İdealizm"
+   },
+   {
+    "n": 7,
+    "konu": "İdealizminden Realizme Geçiş Süreci: E. Carr /Realizm :H. Morgenthau ve Diğerleri"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Neo-Realizm:K. Waltz"
+   },
+   {
+    "n": 10,
+    "konu": "Neo-Marksizm ve Bağımlılık Kuramları"
+   },
+   {
+    "n": 11,
+    "konu": "Post-Modernizm"
+   },
+   {
+    "n": 12,
+    "konu": "Konstrüktivister ve Post-Pozitivistler"
+   },
+   {
+    "n": 13,
+    "konu": "Soğuk Savaş Sonrası Uluslararası Çatışmaların Niteliği ve Dönüşümü1"
+   },
+   {
+    "n": 14,
+    "konu": "Soğuk savaş sonrası uluslararası sistem"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "11.04.2025"
+ },
+ "KAM315": {
+  "amac": "Türk fikir dünyasındaki gelişmeleri kavrama, bu fikirlerin 21. yüzyıla uzanan etkilerini tartışma",
+  "icerik": "Türk Düşünce Tarihi’nin temellerini öğrenmek: Eski Türklerde Dil ve Düşünce, 7-12. yüzyıllar Türk düşünürleri, 13-18. yüzyıllar arası Türk düşüncesi, Tanzimat Dönemi Türk düşüncesi, Cumhuriyet Dönemi Türk Düşüncesi, Kemalist dönem sonrası Türk Düşünürler",
+  "outcomes": [
+   "Cumhuriyet Dönemi Türk düşünce sistemini kavrar, Tanzimat Dönemi Türk düşünce sistemini kavrar, Türk düşüncesinin genel karakteristiklerini analiz eder. Eski Türklerde dil ve düşünceye şekil veren unsurları kavrar, Dilin oluşumu teorileri hakkında genel bilgiye sahip olur"
+  ],
+  "resources": [
+   "Pozitivizmin Türkiyeye Girişi, M. Korlael Türk Düşüncesinde Halkçılık ve Atatürkçülük, C. Eraslan Türk Felsefe Tarihi, B. Kaya Türk Tefekkürü Tarihi, Hilmi Ziya Ülken Türkiye'de Çağdaş Düşünce Tarihi, Hilmi Ziya Ülken"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş ve dersin tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "Eski Türklerde Dil ve Düşünce"
+   },
+   {
+    "n": 3,
+    "konu": "Eski Türklerde Dil ve Düşünce2"
+   },
+   {
+    "n": 4,
+    "konu": "7-12. yüzyıllar Türk düşünürleri"
+   },
+   {
+    "n": 5,
+    "konu": "7-12. yüzyıllar Türk düşünürleri"
+   },
+   {
+    "n": 6,
+    "konu": "3-18. yüzyıllar arası Türk düşüncesi"
+   },
+   {
+    "n": 7,
+    "konu": "3-18. yüzyıllar arası Türk düşüncesi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Tanzimat Dönemi Türk düşüncesi"
+   },
+   {
+    "n": 10,
+    "konu": "Tanzimat Dönemi Türk düşüncesi"
+   },
+   {
+    "n": 11,
+    "konu": "Cumhuriyet Dönemi Türk Düşüncesi"
+   },
+   {
+    "n": 12,
+    "konu": "Cumhuriyet Dönemi Türk Düşüncesi"
+   },
+   {
+    "n": 13,
+    "konu": "Günümüz Türk Düşüncesi"
+   },
+   {
+    "n": 14,
+    "konu": "Genel degerlendırme"
+   },
+   {
+    "n": 15,
+    "konu": "Genel değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM316": {
+  "amac": "Türk fikir dünyasındaki gelişmeleri kavrama, bu fikirlerin 21. yüzyıla uzanan etkilerini tartışma",
+  "icerik": "Türk Düşünce Tarihi’nin temellerini öğrenmek: Eski Türklerde Dil ve Düşünce, 7-12. yüzyıllar Türk düşünürleri, 13-18. yüzyıllar arası Türk düşüncesi, Tanzimat Dönemi Türk düşüncesi, Cumhuriyet Dönemi Türk Düşüncesi, Kemalist dönem sonrası Türk Düşünürler",
+  "outcomes": [
+   "Cumhuriyet Dönemi Türk düşünce sistemini kavrar, Tanzimat Dönemi Türk düşünce sistemini kavrar, Türk düşüncesinin genel karakteristiklerini analiz eder. Eski Türklerde dil ve düşünceye şekil veren unsurları kavrar, Dilin oluşumu teorileri hakkında genel bilgiye sahip olur"
+  ],
+  "resources": [
+   "Pozitivizmin Türkiyeye Girişi, M. Korlael Türk Düşüncesinde Halkçılık ve Atatürkçülük, C. Eraslan Türk Felsefe Tarihi, B. Kaya Türk Tefekkürü Tarihi, Hilmi Ziya Ülken Türkiye'de Çağdaş Düşünce Tarihi, Hilmi Ziya Ülken"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş ve dersin tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "Eski Türklerde Dil ve Düşünce"
+   },
+   {
+    "n": 3,
+    "konu": "Eski Türklerde Dil ve Düşünce2"
+   },
+   {
+    "n": 4,
+    "konu": "7-12. yüzyıllar Türk düşünürleri"
+   },
+   {
+    "n": 5,
+    "konu": "7-12. yüzyıllar Türk düşünürleri"
+   },
+   {
+    "n": 6,
+    "konu": "3-18. yüzyıllar arası Türk düşüncesi"
+   },
+   {
+    "n": 7,
+    "konu": "3-18. yüzyıllar arası Türk düşüncesi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Tanzimat Dönemi Türk düşüncesi"
+   },
+   {
+    "n": 10,
+    "konu": "Tanzimat Dönemi Türk düşüncesi"
+   },
+   {
+    "n": 11,
+    "konu": "Cumhuriyet Dönemi Türk Düşüncesi"
+   },
+   {
+    "n": 12,
+    "konu": "Cumhuriyet Dönemi Türk Düşüncesi"
+   },
+   {
+    "n": 13,
+    "konu": "Günümüz Türk Düşüncesi"
+   },
+   {
+    "n": 14,
+    "konu": "Genel degerlendırme"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM323": {
+  "amac": "bu dersin amacı uluslararası hukukun temel konu ve kavramlarını açıklamaktır.",
+  "icerik": "Uluslararası özel hukukun konusu, kapsamı ve gelişimi",
+  "outcomes": [
+   "Yabancı unsurlu konuların mevzuat ve uluslararası sözleşmeler kapsamında açıklanması ve uygulamada karşılaşılan sorunların mahkeme kararları ve doktrindeki görüşler çerçevesinde değerlendirir",
+   "Uluslararası özel hukuk teorileriinin ve ugulamalarının karşılaştırmalı analizini yapar",
+   "Uluslararası özel hukukun temeli ve uygulama alanını bilir."
+  ],
+  "resources": [
+   "Ergin Nomer/Cemal Şanlı, Devletler Hususi Hukuku, 16.Bası, İstanbul 2008; Aysel Çelikel/Bahadır Erdem, Milletlerarası Özel Hukuk, 10.Bası, İstanbul 2010"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Uluslararası özel hukukun konusu, kapsamı ve gelişimi"
+   },
+   {
+    "n": 2,
+    "konu": "Şahsın hukukuna ilişkin kanunlar ihtilafı kuralla"
+   },
+   {
+    "n": 3,
+    "konu": "Aile hukukuna ilişkin ihtilafı kurallar"
+   },
+   {
+    "n": 4,
+    "konu": "Miras hukukuna ilişkin kanunlar ihtilafı kuralları"
+   },
+   {
+    "n": 5,
+    "konu": "Sözleşmeler hukukuna ilişkin kanunlar ihtilafı kurallar"
+   },
+   {
+    "n": 6,
+    "konu": "Haksız fiil ve sebepsiz zenginleşme"
+   },
+   {
+    "n": 7,
+    "konu": "Uluslararası özel hukukta önmesele, vasıflandırma ve atıf"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav 1"
+   },
+   {
+    "n": 9,
+    "konu": "Milletlerarasi usul hukuku"
+   },
+   {
+    "n": 10,
+    "konu": "Milletlerarası usul hukuku"
+   },
+   {
+    "n": 11,
+    "konu": "Yabancı unsurlu davalarda yargılama hukuku"
+   },
+   {
+    "n": 12,
+    "konu": "Uluslararası İstinabe ve tebligat"
+   },
+   {
+    "n": 13,
+    "konu": "Yargı bağışıklığı"
+   },
+   {
+    "n": 14,
+    "konu": "Yabancı Mahkeme Kararlarının Tanınması ve Tenfizi"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM325": {
+  "amac": "Ders kapsamında Fransa, İngiltere, ABD ve Federal Almanya başta olmak üzere gelişmiş ülkelerin Kamu Yönetimi sistemlerinin incelenmesi ve bunların azgelişmiş ülkelerle karşılaştırılması amaçlanmaktadır.",
+  "icerik": "Bu ders Fransa, İngiltere, ABD, Federal Almanya, Rusya ve Çin’deki Kamu Yönetimi sistemlerinin değerlendirilmesini içermektedir",
+  "outcomes": [
+   "Ders sonunda öğrenciler, Fransa, İngiltere, ABD ve Federal Almanya başta olmak üzere gelişmiş ülkelerin Kamu Yönetimi sistemlerinin karşılaştırmalı olarak analiz edebilir"
+  ],
+  "resources": [
+   "Roskin \"Çağdaş Devlet Sistemleri: Siyaset, Coğrafya, Kültür\""
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Karşılaştırma Nedir? Bilimsel Bir Yöntem Olarak Karşılaştırma"
+   },
+   {
+    "n": 2,
+    "konu": "Karşılaştırmalı Kamu Yönetimi Nedir"
+   },
+   {
+    "n": 3,
+    "konu": "Fransa’da Kamu Yönetimi"
+   },
+   {
+    "n": 4,
+    "konu": "Fransa’da Kamu Yönetimi"
+   },
+   {
+    "n": 5,
+    "konu": "İngiltere’de Kamu Yönetimi"
+   },
+   {
+    "n": 6,
+    "konu": "İngiltere’de Kamu Yönetimi"
+   },
+   {
+    "n": 7,
+    "konu": "ABD’nde Kamu Yönetimi"
+   },
+   {
+    "n": 8,
+    "konu": "Vize"
+   },
+   {
+    "n": 9,
+    "konu": "ABD’nde Kamu Yönetimi"
+   },
+   {
+    "n": 10,
+    "konu": "Federal Almanya’da Kamu Yönetimi"
+   },
+   {
+    "n": 11,
+    "konu": "Federal Almanya’da Kamu Yönetimi"
+   },
+   {
+    "n": 12,
+    "konu": "Rusya’da Kamu Yönetimi"
+   },
+   {
+    "n": 13,
+    "konu": "İncelenen Ülke Sistemlerinin Karşılaştırmalı Analizi"
+   },
+   {
+    "n": 14,
+    "konu": "İncelenen Ülke Sistemlerinin Karşılaştırmalı Analizi"
+   },
+   {
+    "n": 15,
+    "konu": "Genel Değerlendirme"
+   }
+  ],
+  "updated": "08.04.2025"
+ },
+ "KAM326": {
+  "amac": "Bir vergi sisteminin hayata geçirilmesi için gerekli hukuksal düzenlemelerin temellerini öğretmek, vergi sistemimiz içinde yer alan temel vergiler konusunda bilgi vermek",
+  "icerik": "Gelir, Kurumlar ve Harcamalar üzerinden alınan vergilere bakış ve uygulamaları, Türk Vergi Sisteminin genel değerlendirilmesi",
+  "outcomes": [
+   "Gelir vergisini açıklayabilmek ve kurallarını uygulayabilir",
+   "Kurumlar vergisini açıklayabilmek ve kurallarını uygulayabilir",
+   "Harcamalar üzerinden alınan vergileri açıklayabilmek ve kurallarını uygulayabilir",
+   "Türk Vergi Sisteminin yapısını değerlendirebilir"
+  ],
+  "resources": [
+   "Doğan Şenyüz, Türk Vergi Sistemi, Yaklaşım Yayınları, Ankara, 2007 M. Öncel, A. Kumrulu, N. Çağan, Vergi Hukuku, Turhan Kitabevi, Ankara, 2007 Tüm vergi kanunları"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "GVK’na göre gelir kavramı ve gelirin özellikleri"
+   },
+   {
+    "n": 2,
+    "konu": "Ticari kazanç ve vergilendirilmesi"
+   },
+   {
+    "n": 3,
+    "konu": "Zirai kazanç ve vergilendirilmesi"
+   },
+   {
+    "n": 4,
+    "konu": "Ücret ve vergilendirilmesi"
+   },
+   {
+    "n": 5,
+    "konu": "Serbest meslek kazancı ve vergilendirilmesi"
+   },
+   {
+    "n": 6,
+    "konu": "Gayrimenkul sermaye iradı ve vergilendirilmesi/Menkul sermaye iradı ve vergilendirilmesi"
+   },
+   {
+    "n": 7,
+    "konu": "Tekrar"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Sair kazanç ve iratlar ve vergilendirilmesi"
+   },
+   {
+    "n": 10,
+    "konu": "GV’de beyan esası, beyanname türleri ve verginin hesaplanması"
+   },
+   {
+    "n": 11,
+    "konu": "Kurumlar vergisinin konusu, mükellefleri, istisna ve muafiyetler"
+   },
+   {
+    "n": 12,
+    "konu": "Kurumlar vergisinde matrahın tesbiti"
+   },
+   {
+    "n": 13,
+    "konu": "Kurumlar vergisinde kazancın bildirilmesi"
+   },
+   {
+    "n": 14,
+    "konu": "Katma değer vergisinin konusu, mükellefleri, istisna ve muafiyetler"
+   },
+   {
+    "n": 15,
+    "konu": "Katma değer vergisinde matrahın tesbiti, beyanı, tarh ve tahsili"
+   }
+  ],
+  "updated": "28.03.2025"
+ },
+ "KAM329": {
+  "amac": "Bu ders demokrasi kavramının açıklaması ile beraber farklı demokrasi modellerini tartışmaktadır. Demokrasi Kuramındaki Gelişmelerin Düzeyini öğrendikten sonra hangilerinin ne zaman uygulamaya girebileceği konusuna eğilmek",
+  "icerik": "Demokrasi, gelişimi, türleri, uygulama biçimleri, sorunları, Çözüm arayışları",
+  "outcomes": [
+   "Demokrasinin işleyişi sırasında ortaya çıkan sorunları belirler, demokrasi kuramının da yardımı ile uygulanan demokrasiyi geliştirir."
+  ],
+  "resources": [
+   "1"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "temel kavramların açıklanması"
+   },
+   {
+    "n": 3,
+    "konu": "Demokrasi kavramının gelişimi"
+   },
+   {
+    "n": 4,
+    "konu": "Demokrasi türleri"
+   },
+   {
+    "n": 5,
+    "konu": "Doğrudan ve yarı doğrudan demokrasi"
+   },
+   {
+    "n": 6,
+    "konu": "temsili demokrasi"
+   },
+   {
+    "n": 7,
+    "konu": "e-demokrasi"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Parlemetolar"
+   },
+   {
+    "n": 10,
+    "konu": "Seçim sistemleri"
+   },
+   {
+    "n": 12,
+    "konu": "plebisit ve referandum"
+   },
+   {
+    "n": 13,
+    "konu": "parti sistemleri ve demokrasi uygulamaları"
+   },
+   {
+    "n": 14,
+    "konu": "Değerlendirme"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM333": {
+  "amac": "Uluslararası göç kavramının farklı boyutlarını tanıtmak, göçün özelliklerini, tarihçelerini, işleyişlerini ve ulus devletler üzerindeki etkilerini incelemektir.",
+  "icerik": "Giriş ve dersin tanıtımı -",
+  "outcomes": [
+   "uluslararası göç teorileri ve Türk göç politikaları hakkında bilgi sahibi olunur"
+  ],
+  "resources": [
+   "GÖç terimleri Sözlüğü:"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş ve dersin tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "Temel Kavramların tanıtılması: göç, hedef ülke, vs"
+   },
+   {
+    "n": 3,
+    "konu": "Tarihsel Perspektif Ve Uluslararası Göçün Temel Kuramları"
+   },
+   {
+    "n": 4,
+    "konu": "uluslararası koruma 1"
+   },
+   {
+    "n": 5,
+    "konu": "uluslararası Koruma 2"
+   },
+   {
+    "n": 6,
+    "konu": "Uluslararası Korumaya ilişkin Temel Söylemler"
+   },
+   {
+    "n": 7,
+    "konu": "Türkiye'den göçün tarihi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Türkiye'ye göçlerin tarihi"
+   },
+   {
+    "n": 10,
+    "konu": "Sivil Toplum örgütlerinin rolü"
+   },
+   {
+    "n": 11,
+    "konu": "Bir uluslararası organizasyon olarak BMMYK rolü"
+   },
+   {
+    "n": 12,
+    "konu": "Avrupa birliği Göç Politikalarının Gelişimi Türkiye’de Sıgınma Sisteminin Avrupalılaştırılmas"
+   },
+   {
+    "n": 13,
+    "konu": "Türkiye'nin Göç Politikası ve Mevcut Sorunlar YUKK"
+   },
+   {
+    "n": 14,
+    "konu": "Göç konusundaki güncel gelişmeler, sorunlar, çözüm arayışları"
+   },
+   {
+    "n": 15,
+    "konu": "Genel Değerlendirme , örnek sunumlar"
+   }
+  ],
+  "updated": "25.03.2025"
+ },
+ "KAM334": {
+  "amac": "Bu dersin amacı öğrencilerin farklı siyaset uygulamalarını içine alan siyasal sistemleri, çalışma koşullarını ve bu sistemlerin ortay çıkma ve gelişme koşullarını anlamasını sağlamaktadır.",
+  "icerik": "Bu derste karşılaştırmalı siyaset olgusu ve bu çerçevede yer alan kavramlar, farklı siyasal sistemler, otoriter rejimler, totaliter rejimler, ve demokratik sistemler elealınıp incelenmektedir.",
+  "outcomes": [
+   "Öğrenciler dünyada ortaya çıkan farklı siyasal sistemleri tanımlayabilir",
+   "Öğrenciler farklı siyasal sistemlerin nasıl ve neden ortaya çıktıklarını açıklayabilir",
+   "Öğrenciler farklı siyasal sistemlerin geçirdikleri evrim süreçlerini anlayabilir"
+  ],
+  "resources": [
+   "-",
+   "Kalaycıoğlu, E., Kağnıcıoğlu, D. (Ed.) Karşılaştırmalı Siyasal Sistemler, 2018, Eskişehir, Anadolu Üniversitesi Yayını, 1. Baskı"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Karşılaştırma Olgusu ve Siyaset"
+   },
+   {
+    "n": 2,
+    "konu": "Siyasal Sistemlerin Sınıflandırılması"
+   },
+   {
+    "n": 3,
+    "konu": "Çoğunlukçu Kurumsallaşmış Parlamenter Rejim: Britanya Devlet Sisteminin Evrimi"
+   },
+   {
+    "n": 4,
+    "konu": "Britanya’da Siyasal Kültür"
+   },
+   {
+    "n": 5,
+    "konu": "Çoğunlukçu Kurumsallaşmış Yarı Başkanlık Rejimi: Fransa Siyasal Sisteminin Evrimi"
+   },
+   {
+    "n": 6,
+    "konu": "Fransa’da Siyasal Kültür"
+   },
+   {
+    "n": 7,
+    "konu": "Fransa’da Siyasal Katılma"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Çoğunlukçu Kurumsallaşmış Başkanlık Rejimi: ABD Siyasal Sisteminin Gelişimi"
+   },
+   {
+    "n": 10,
+    "konu": "ABD’de Siyasal Kültür ve Siyasal Katılma"
+   },
+   {
+    "n": 11,
+    "konu": "Oydaşmacı Kurumsallaşmış Rejim: İsviçre Modeli Federalizm"
+   },
+   {
+    "n": 12,
+    "konu": "İsviçre’de Siyasal Kültür ve Siyasal Katılma"
+   },
+   {
+    "n": 13,
+    "konu": "Totaliter Rejimler: Kavram ve Uygulamalar"
+   },
+   {
+    "n": 14,
+    "konu": "Totaliter Rejimlerde Siyasal Kültür ve Toplumsallaşma"
+   },
+   {
+    "n": 15,
+    "konu": "Otoriter Rejimler"
+   }
+  ],
+  "updated": "08.04.2025"
+ },
+ "KAM335": {
+  "amac": "Öğrenci Türkiye’deki mevcut toplumsal cinsiyet ilişkilerini modernleşme tarihine bakarak ve tarihsel bir perspektifle kavrar. Günümüzde yönetim organları toplumsal cinsiyet eşitliğini sağlama amacıyla çeşitli adımlar atar. Örneğin, kamu politikaları geliştirilmekte, ulusal ve yerel düzeyde çeşitli birim ve komisyonlar kurulmakta, uluslararası anlaşmalar imzalanmaktadır. Bu gibi adımlar atılırken Türkiye’de çeşitli alanlarda toplumsal cinsiyet eşitsizliğini gösterir veriler derlenir. Bu ders öğrencilerin mevcut verilerin ve adımların tarihsel ve feminist bir perspektifle nasıl anlaşılması gerektiğine dair bakış açısı kazanır.",
+  "icerik": "Günümüzün toplumsal cinsiyet ilişkilerini ve kamu yönetiminde uygulanan cinsiyet eşitliği politikalarını anlamak için Türkiye’nin modernleşme tarihine bakmak elzemdir. Connell (1998) farklı kültürlerin ve tarihin farklı dönemlerinin toplumsal cinsiyeti farklı kurguladığını belirtmiştir. Kendisinin tabiriyle iki farklı ve güç ilişkileri açısından eşitsiz toplumsal cinsiyet düzeninin (Batı ve mevcut Osmanlı) bir araya gelmesi, bu topraklarda (ve diğer birçok Batı dışı ülkede) sentezlenmiş ve kendine özgün koşulları olan toplumsal cinsiyet rejimleri yaratmıştır. Türkiye’de cinsiyet ve aile yapısı, özel ve kamusal alanın değişen anlamları, kamu yönetim yapısının da dönüşümü ile beraber anlaşılması gerekmektedir. Dönem boyunca öğrencilere toplumsal cinsiyet kavramı, Türkiye’nin modernleşme tarihi ve bu tarih içerisinde toplumsal cinsiyet ilişkilerinin hem aile hem de kamu politikaları çerçevesinde dönüşümü anlatılacaktır. 19. yüzyıl sonu Osmanlı reformları ve Cumhuriyet’in ilanından başlanarak günümüze kadar Türkiye modernleşmesinin temel dönüşüm noktaları toplumsal cinsiyet ve aile açısından ele alınacaktır.",
+  "outcomes": [
+   "Öğrenci toplumsal cinsiyet kavramını ve bu kavramın Türkiye özelinde hangi kodlarla içinin doldurulduğunu kavrar.",
+   "Öğrenci Türkiye’nin modernleşme tarihini, dünyada eş zamanlı yaşanan süreçlerle birlikte kavrar.",
+   "Öğrenci günümüzde Türkiye’de toplumsal cinsiyet eşit(siz)liğini yorumlamada tarihsel ve sosyolojik bir perspektif geliştirir."
+  ],
+  "resources": [
+   "Fatmagül Berktay (2010) “Giriş Yerine: Politikanın Çağrısı”, Politikanın Çağrısı, İstanbul Bilgi Üniversitesi Yayınları,"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş dersi olarak dersin amacı, içeriği ve akışı hakkında bilgilendirme yapılır."
+   },
+   {
+    "n": 2,
+    "konu": "Toplumsal cinsiyet neden ve nasıl politikanın konusudur?"
+   },
+   {
+    "n": 3,
+    "konu": "Tanzimat dönemi ile II. Meşruiyet arası dönemi Kadın hakları talepleri"
+   },
+   {
+    "n": 4,
+    "konu": "II. Meşrutiyet’ten Cumhuriyete Kadın Hakları, Düzenlemeler, Tartışmalar"
+   },
+   {
+    "n": 5,
+    "konu": "Cumhuriyet Reformları ve Tek Parti Dönemi Kadın Hakları-Hareketi"
+   },
+   {
+    "n": 6,
+    "konu": "Çok Partili Döneme geçiş- 1980 arası Kadın Hakları konusunda yaşananlar"
+   },
+   {
+    "n": 7,
+    "konu": "1980'ler Türkiye'sinde kadının konumu"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "1980’ler: Kadına Yönelik Şiddetle Mücadele Nasıl Başladı?"
+   },
+   {
+    "n": 10,
+    "konu": "Kadına Yönelik Şiddetle Mücadele- Yasal Çerçeve, Siyasi Tepkiler"
+   },
+   {
+    "n": 11,
+    "konu": "1990larda Türkiye’de Feminizm, Kazanımlar, Siyasi Tartışmalar"
+   },
+   {
+    "n": 12,
+    "konu": "2000li Yıllar ve Feminist Hareketinin Kazanımları"
+   },
+   {
+    "n": 13,
+    "konu": "Türk kamu yönetiminde kadın memurlar"
+   },
+   {
+    "n": 14,
+    "konu": "Son yorumlar ve dersin değerlendirilmesi"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM336": {
+  "amac": "Öğrenciye kent yönetimini tarihsel bir süreç içersinde idari, siyasi ve ekonomik boyutlarıyla anlatmaktır. Bu doğrultuda kent kavramı, tarihsel gelişimi ve modern kent yönetimi uygulamaları anlatılacak, Türkiye’den ve dünyadan örnekler verilecektir. Kamu yönetiminde yaşanan değişimlerin kent yönetimlerine yansımaları ve farklı uygulamaların anlatılması yoluyla öğrencinin güncel yerel yönetim uygulamaları hakkında bilgi sahibi olması sağlanacaktır.",
+  "icerik": "Kent yönetimi; kentin, kentliler için yaşanabilir mekânlar kılınması için yürütülen uğraştır. Kentlerin sağlıklı ve sürdürülebilir gelişmesi yolu ile kent halkının yaşam kalitesinin artırılması kent yönetimlerinin temel sorumluluk alanıdır. Günümüzde tüm dünyada ketleşme oranı çok yüksek seviyelere gelmiş olup, artmaya devam etmektedir. Ülkemizde de benzeri bir eğilim yaşanmaktadır. Stratejik planlama, katılım uygulamaları ile kent yönetimi demokratikleştirilmekte ve küreselleşmeye uyumlu hale getirilmektedir.",
+  "outcomes": [
+   "Kent, kentleşme, kentlileşme kavramlarını açıklar",
+   "Kentlerin sosyal, siyasal, ekonomik gelişimi hakkında bilgi verir.",
+   "Kentlerin yönetim yapısı hakkında bilgi verir",
+   "Tarihsel süreçte kent yönetimindeki değişiklikleri anlatır",
+   "Küreselleşme ile gelen yeni yönetim anlayışının kent yönetimine yansımasını örneklerle açıklar"
+  ],
+  "resources": [
+   "Ruşen Keleş \"Yerinden Yönetim ve Siyaset\""
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Kent, Kentleşme, Kentlileşme"
+   },
+   {
+    "n": 2,
+    "konu": "Tarihte Kentler ve Kent Yönetimi"
+   },
+   {
+    "n": 3,
+    "konu": "Kent Yönetimi"
+   },
+   {
+    "n": 4,
+    "konu": "Kent Yönetimlerinin Sorumluluk Alanları"
+   },
+   {
+    "n": 5,
+    "konu": "Kent Hukuku ve Kentli Hakları"
+   },
+   {
+    "n": 6,
+    "konu": "Yerel Kalkınma Yönetimi /Avrupa Birliği ve Yerelleşme"
+   },
+   {
+    "n": 7,
+    "konu": "Ara Dönem"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Yeni Kamu Yönetimi Anlayışı ve Kentler"
+   },
+   {
+    "n": 10,
+    "konu": "Yönetişim ve Kent Yönetimi"
+   },
+   {
+    "n": 11,
+    "konu": "Kent Yönetiminde Katılımcı Uygulamalar"
+   },
+   {
+    "n": 12,
+    "konu": "Stratejik Planlama"
+   },
+   {
+    "n": 13,
+    "konu": "Belediyelerde Stratejik Planlama"
+   },
+   {
+    "n": 14,
+    "konu": "Belediyelerde Toplam Kalite Yönetimi"
+   },
+   {
+    "n": 15,
+    "konu": "Sonuç ve Değerlendirme"
+   }
+  ],
+  "updated": "10.04.2025"
+ },
+ "KAM337": {
+  "amac": "Çevresel Etki Değerlendirmesi yöntem ve teknikleri konusundaki gelişmeleri, ülkemiz ve dünyadaki örnekler üzerinde aktararak konunun önemini ve peyzaj mimarlarının çalışmalardaki yerini ve önemini öğrencilere aktarmak",
+  "icerik": "1. Çevresel Etki Değerlendirmesi konusunda 1970’lerden günümüze gelişmeleri farklı ülke örnekleri ile karşılaştırma olanağı",
+  "outcomes": [
+   "Kamu Yönetiminde kentleşme ve sanayileşme olgusunun, doğal kaynaklarımız üzerinde oluşturdukları çevresel risklerin, farklı bir disiplin gözüyle değerlendirilme.",
+   "Kirliliğe yaklaşım, yorumlama, tanıma ve kontrol edebilmeyi yorumlama",
+   "Çevre sorunlarını önlemede ÇED'nin yeterliliğini sorgulayabilme",
+   "Farklı ÇED uygulamalarını karşılaştırabilme",
+   "Sürdürülebilir kalkınma bağlamında ÇEDin yerini ve önemini tanıyabilme"
+  ],
+  "resources": [
+   "BUCKLEY R. Strategic Environmental Assessment. In: Environmental Methods Review: Retooling Impact Assessment for the New Century, AEPI, USA, 1998. p. 77-86. DİLEK, E.F., and ŞAHİN, Ş. 2002. “Çevre Duyarlı Turizm Uygulamaları” Kırsal Çevre Yıllığı, Kırsal Çevre ve Ormancılık Sorunları Araştırmaları Derneği, Ankara ECZA 1977. Environmental Assessment Handbook. Energy and Coastal Zone Administration, Maryland Department of Natural Resources. GLASSON, J. et al. 1994. Introduction to Environmental Impact Assessment. UCL Press Limited, UK. LOHANI, B.,et al1997. Environmental Impact Assessment for Developing Countries in Asia. Volume 1 OREA, D.G. 1992. Evaluacion de >Impacto Ambiental. Editorial Agricola Espanola. S.A. Madrid. ŞAHİN, Dr. Ş. ,1998. “Çevresel Etki Değerlendirmesi Yöntem ve Teknikleri”. Türkiye Ormancılar Derneği ÇED Raporu Hazırlama ve Değerlendirme Semineri Ders Notları, Sayfa 69-98, Ankara. ŞAHİN, Dr. Ş. ve AKAY (UYSAL), A. 1998. “Orman Alanlarında Çevresel Etki Değerlendirm"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "updated": "13.04.2025"
+ },
+ "KAM340": {
+  "amac": "Uygarlık kavramı ve bu kavramla ilgili olan temel kavramların tanıtımı, insanın tarih öncesi devirlerde ve tarihi devirlerde hem fiziksel hem de kültürel açıdan geçirdiği değişim ve bu değişim sürecinin günümüze etkileri. Geçmişten günümüze insanlığın ortaya koyduğu farklı uygarlıkların incelenmesi amaçlanır.",
+  "icerik": "Akdeniz’den Amerika kıtasına farklı uygarlıkları tarihsel süreçte incelemek",
+  "outcomes": [
+   "Öğrenciler, kdeniz,Mezopatamya, Mısır, Uzakdoğu, Hint,Orta Amerika (Aztek-İnka Medeniyetleri), Orta Asya Bozkır Uygarlıkları ve Batı Uygarlığı (Avrupa, Amerika) uygarlıklarını tanır"
+  ],
+  "resources": [
+   "1"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş ve dersin tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "Uygarlığın tarihsel gelişimi: tarih öncesi dönemler"
+   },
+   {
+    "n": 3,
+    "konu": "Uygarlığın tarihsel gelişimi: tarih dönemleri"
+   },
+   {
+    "n": 4,
+    "konu": "Uygarlığın kırılma noktaları"
+   },
+   {
+    "n": 5,
+    "konu": "Uygarlığın kırılma noktaları"
+   },
+   {
+    "n": 6,
+    "konu": "İlkçağ uygarlıklar 1"
+   },
+   {
+    "n": 7,
+    "konu": "İlkçağ uygarlıklar 2"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Mezopotamya Uygarlıkları"
+   },
+   {
+    "n": 10,
+    "konu": "Amerika kıtasındaki uygarlıklar"
+   },
+   {
+    "n": 11,
+    "konu": "Akdeniz Uygarlıkları"
+   },
+   {
+    "n": 12,
+    "konu": "Mısır Uygarlığı"
+   },
+   {
+    "n": 13,
+    "konu": "Orta Asya Uygarlığı"
+   },
+   {
+    "n": 14,
+    "konu": "Asya uygarlıkları"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "11.04.2025"
+ },
+ "KAM342": {
+  "amac": "Bu dersin amacı öğrencilerin kent ve kentsel mekânın (yeniden) üretiminin, farklı gruplar tarafından kullanımı ve dönüştürülmesi süreçlerinin ve bu süreçlerde yerel, ulusal ve küresel dinamiklerin rolünün toplumsal cinsiyet ayrımları (sınıf, etnisite, yaş gibi diğer sosyal ayrımlarla kesişmesini de içerecek şekilde) çerçevesinde nasıl kavranabileceği hakkında kavrayış geliştirmelerini sağlamaktır.",
+  "icerik": "Her ne kadar kent sosyolojisi kentsel mekânın (yeniden) üretimi ve kullanımında sosyal ayrımlar ve ilişkilerin etkisi üzerine çeşitli kavrayış biçimleri geliştirmiş olsa da, toplumsal cinsiyet normlarının etkisi büyük oranda göz ardı edilmiştir. Özellikle Türkiye’de bu alan zayıf kalmıştır (bakınız Alkan, 2011). Bu derste toplumsal cinsiyet kent mekânını ve kentsel hayatı etkileyen kurucu etmenlerden biri olarak ele alınıp, diğer sosyal ayrımlarla kesişimi sonucu ortaya çıkan etkileri incelenir. Dönem boyunca, hem daha geniş ölçekte hem de Türkiye özelinde geliştirilen literatürden yararlanarak toplumsal cinsiyet ve mekân ilişkisinin kavranmasına yardımcı olacak kavram setleri öğrenilir. Bu anlamda şehir ve mekân ile ilgili temel teoriler ve kavramlar, toplumsal cinsiyet ile ilgili temel kavramlar ve teoriler öğrenilir. Cinsiyetlendirilmiş kent mekânı aile, konut, mahalle, sosyal ve kültürel aktiviteler, ulaşım ve kentsel hareketlilik gibi konular üzerinden incelenir.",
+  "outcomes": [
+   "Öğrenci kentin sosyal yapılanmasını, bir diğer deyişle mekânsal süreçlerin sosyo- ekonomik, politik ve kültürel dinamiklerini, anlayabilir.",
+   "Öğrenci toplumsal cinsiyet normlarının yukarıda bahsedilen yapı ve süreçlerle iç içe geçerek farklı cinsiyet gruplarının kent mekânını kullanımındaki etkisini kavrayabilir."
+  ],
+  "resources": [
+   "Dökmen, Zehra Y. (2009) “Toplumsal Cinsiyet ve Sosyal Psikoloji: Temel Kavramlar”, Toplumsal Cinsiyet Sosyal Psikolojik Açıklamalar, Remzi Kitabevi,"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş dersi"
+   },
+   {
+    "n": 2,
+    "konu": "İlgili Kavramlar"
+   },
+   {
+    "n": 3,
+    "konu": "Kent ve toplumsal cinsiyet ilişkisi"
+   },
+   {
+    "n": 4,
+    "konu": "Kamusal & Özel Alan- Teorik"
+   },
+   {
+    "n": 5,
+    "konu": "Kamusal & Özel Alan- Tarihsel (Osmanlı)"
+   },
+   {
+    "n": 6,
+    "konu": "Kamusal & Özel Alan- Modern/Güncel"
+   },
+   {
+    "n": 7,
+    "konu": "Feminizm ve Kent Hakkı"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Yerel siyasete katılımda cinsiyet eşitliği"
+   },
+   {
+    "n": 10,
+    "konu": "Yerel siyasete katılım I: Seçimler yoluyla katılım"
+   },
+   {
+    "n": 11,
+    "konu": "Yerel siyasete katılım II: Kent konseyi kadın meclisi"
+   },
+   {
+    "n": 12,
+    "konu": "Toplumsal cinsiyete duyarlı bütçeleme"
+   },
+   {
+    "n": 13,
+    "konu": "Afetler, kentler ve cinsiyet eşitliği"
+   },
+   {
+    "n": 14,
+    "konu": "Dersin değerlendirilmesi ve son yorumlar"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM344": {
+  "amac": "Bu ders ile psikolojinin yönetim ve organizasyonlardaki yeri ve önemi, örgütsel davranış ve çağdaş yaklaşımlar, örgütlerde psikolojik sorun ve şikayetler, örgütsel stres ve baş edebilme yollarının neler olduğu öğretilmesi amaçlanmaktadır.",
+  "icerik": "Psikolojik Faktörlerin Örgüt Yapılarındaki Yeri ve Önemi Psikolojinin Yönetim Süreçlerinde Etkisi Klasik ve Neo Klasik Yönetim Kuramlarında Psikolojik Faktörler Örgütlerde Psikolojik Sorunlar ve Şikâyetler Yabancılaşma, Örgüt İkliminden Uzaklaşma, Modern ve Postmodern Yönetim Kuramlarında Psikolojik Faktörler Örgütlerde Stresle Başa Çıkma Yöntemleri Bireyler Arası İlişkiler ve Haberleşme Liderlerin Davranışları ve Psikoloji Örgüt İklimi, Bağlılık ve Psikoloji Örgütlerde Takım Yönetimi ve Motivasyon",
+  "outcomes": [
+   "Ders sonunda öğrenciler; Psikolojinin yönetimdeki önemini kavrar",
+   "Ders sonunda öğrenciler; Kişilik ve kişisel farklılıklar analiz edebilir",
+   "Ders sonunda öğrenciler; Örgütlerde gruplar ve grupsal farklıklar anlar",
+   "Ders sonunda öğrenciler; Örgütlerde moral, ölçümleri ve düzeyini yükseltici önlemleri algılar",
+   "Ders sonunda öğrenciler; Mobbing ve diğer psikolojik şiddet şekilleri öğrenir"
+  ],
+  "resources": [
+   "Eren, Erol, Örgütsel Davranış ve Yönetim Psikolojisi, 16. Baskı, Beta Yayınları, İstanbul, 2017."
+  ],
+  "updated": "28.03.2025"
+ },
+ "KAM401": {
+  "amac": "Bu dersin amacı öğrencilere Türk siyasi yaşamının köşe taşlarının öğretilmesidir",
+  "icerik": "Ders kapsamında, Çağdaş Türkiye Cumhuriyeti’nin kuruluşu, Jön Türkler, Tek Parti Dönemi ve çöküşü, çok parti sistemi ve demokrasiye geçiş, Demokratik Parti Dönemi (1950–1960), 27 Mayıs sonrası (1960–1973) ve 12 Mart sonrası dönemler (1974–1980) ve gelişmeler işlenmektedir",
+  "outcomes": [
+   "Türk siyasal yaşamındaki önemli olay ve olguları açıklayabilir",
+   "Türk siyasal yaşamındaki güncel sorunları değerlendirip analiz eder"
+  ],
+  "resources": [
+   "1.Ana Çizgileriyle Türkiye'nin Yakın Tarihi İMAJ YAYINCILIK Sina Akşin Yayın Yılı: 2006; 262sayfa 2.Türkiye'nin Demokrasi Tarihi 1839-1950 İMGE KİTABEVİ YAYINLARI Tevfik Çavdar Yayın Yılı: 2008; 3.Tarihimizle Yüzleşmek REMZİ KİTABEVİ Emre Kongar Yayın Yılı: 2006."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin Genel Tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "anzimat Döneminde Osmanlı Siyasal Yaşamı"
+   },
+   {
+    "n": 3,
+    "konu": "Tanzimat Döneminde Osmanlı Siyasal Yaşamı"
+   },
+   {
+    "n": 4,
+    "konu": "II. Meşrutiyet Döneminde Osmanlı Siyasal Yaşamı"
+   },
+   {
+    "n": 5,
+    "konu": "II. Meşrutiyet Döneminde Osmanlı Siyasal Yaşamı"
+   },
+   {
+    "n": 7,
+    "konu": "1924 Anayasası ve tek parti dönemi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "1924 Anayasası ve tek parti dönemi"
+   },
+   {
+    "n": 10,
+    "konu": "II. Dünya Savaşı sonrası çok partili hayata geçiş"
+   },
+   {
+    "n": 11,
+    "konu": "1960 askeri darbesi ve 1961 Anayasası"
+   },
+   {
+    "n": 12,
+    "konu": "1960 askeri darbesi ve 1961 Anayasası"
+   },
+   {
+    "n": 13,
+    "konu": "1960 sonrası siyasal yaşam ve 1971 askeri muhtırası"
+   },
+   {
+    "n": 14,
+    "konu": "Genel Değerlendirme"
+   }
+  ],
+  "updated": "14.04.2025"
+ },
+ "KAM402": {
+  "amac": "Öğrencilerin Türk anayasa hukukunun genel esasları hakkında bilgi sahibi olmalarını ve bunları somut olaylara uygulamalarını sağlamaktır",
+  "icerik": "1982 Anayasası’nın temel kavramları ve uygulaması, 1982 Anayasası’nın demokratik anayasacılık ile karşılaştırılması, yeni anayasa tartışmaları",
+  "outcomes": [
+   "1982 Anayasası’nın temel kavramları hakkında bilgi sahibi olarak, bunları somut olaylara uygulama becerisini sağlar.",
+   "1982 Anayasası’nın demokratik anayasacılık ile karşılaştırmasını sağlar.",
+   "Yeni Anayasa yapım sürecini değerlendirir."
+  ],
+  "resources": [
+   "Bülent TANÖR - Necmi YÜZBAŞIOĞLU. 1982 Anayasasına Göre Türk Anayasa Hukuku, Beta Yayınevi, İstanbul, 10. Baskı, 2011"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin Genel Tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "1982 Anayasasının Oluşumu"
+   },
+   {
+    "n": 3,
+    "konu": "Anayasanın Evrimi ve Anayasa Değişiklikleri"
+   },
+   {
+    "n": 4,
+    "konu": "Devletin Şekli ve Cumhuriyetin Nitelikleri"
+   },
+   {
+    "n": 5,
+    "konu": "Temel Hak ve Özgürlüklerle İlgili Genel Hükümler"
+   },
+   {
+    "n": 6,
+    "konu": "Temel Hak ve Özgürlük I"
+   },
+   {
+    "n": 7,
+    "konu": "Temel Hak ve Özgürlükler II"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Yasama (Organik Açıdan/ Fonksiyonel Açıdan)"
+   },
+   {
+    "n": 10,
+    "konu": "Yasama (Organik Açıdan/ Fonksiyonel Açıdan)"
+   },
+   {
+    "n": 11,
+    "konu": "Yürütme (Organik Açıdan)"
+   },
+   {
+    "n": 12,
+    "konu": "Yürütme (Fonksiyonel Açıdan)"
+   },
+   {
+    "n": 13,
+    "konu": "Yargı"
+   },
+   {
+    "n": 14,
+    "konu": "Anayasa Yargısı ve Anayasa Mahkemesi’nin Kuruluşu, Çalışma ve Yargılama Usulü"
+   },
+   {
+    "n": 15,
+    "konu": "Anayasa Mahkemesi’nin Görev ve Yetkileri, Ölçü Normlar, Denetim Yolları, Kapsamı ve Sonucu"
+   }
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM404": {
+  "amac": "Bu dersi alan öğrenciler Türklerin yönetim açısından tarihte",
+  "icerik": "Türkiye Cumhuriyeti’nin devlet yönetimi alanında tarihsel miraslarını",
+  "outcomes": [
+   "Türklerin yönetim açısından tarihte nasıl bir model oluşturduğunu öğrenme",
+   "Türklerin tarih boyunca ortaya koydukları yönetim tarzlarını analiz edebilme",
+   "Osmanlı İmparatorluğu'ndaki yönetim teşkilatını ve günümüze uzantılarını ayrıntılarıyla kavrayabilme",
+   "Tarih bilinci geliştirme"
+  ],
+  "resources": [
+   "Niray, N. (2001). Sâsâni İmparatorluğu’nun Devlet Yapısı Üzerine Bir İnceleme. Muğla Üniversitesi Sosyal Bilimler Enstitüsü Dergisi(5).",
+   "Prof. Dr. İlber Ortaylı, Türkiye Teşkilat ve İdare Tarihi, Kronik Yayınları, 2022"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Tarih, tarih bilinci, tarih ve kültür varlıklarını koruma"
+   },
+   {
+    "n": 2,
+    "konu": "Osmanlı arşivleri"
+   },
+   {
+    "n": 3,
+    "konu": "Sasani İmparatorluğu’nun yönetim yapısı"
+   },
+   {
+    "n": 4,
+    "konu": "Bizans İmparatorluğu’nun yönetim yapısı"
+   },
+   {
+    "n": 5,
+    "konu": "İslam devletinde yönetim"
+   },
+   {
+    "n": 6,
+    "konu": "Ortaçağlarda Akdeniz ve İtalyan denizci devletleri"
+   },
+   {
+    "n": 7,
+    "konu": "12. ve 13. yüzyıllarda Anadolu’da Selçuklular ve yönetim yapısı"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Osmanlı İmparatorluğu’nda toprak sistemi ve Osmanlı Devletinin merkez ve taşra örgütü"
+   },
+   {
+    "n": 10,
+    "konu": "Osmanlı Devletinde siyasal ve toplumsal değişme dönemi & Tanzimat dönemi / yönetimin modernleşmesi"
+   },
+   {
+    "n": 11,
+    "konu": "Tanzimat dönemi / yönetimin modernleşmesi (devam)"
+   },
+   {
+    "n": 12,
+    "konu": "Tanzimat dönemi / yönetimin modernleşmesi (devam)"
+   },
+   {
+    "n": 13,
+    "konu": "Tanzimat devrine genel bir bakış"
+   },
+   {
+    "n": 14,
+    "konu": "Tanzimat devrine genel bir bakış ve Türkiye Cumhuriyeti'nin ilk kurumları"
+   },
+   {
+    "n": 15,
+    "konu": "Genel değerlendirme"
+   }
+  ],
+  "updated": "08.04.2025"
+ },
+ "KAM405": {
+  "amac": "Öğrencileri insan hakları kavramı hakkında bilgilendirerek, bu kavramı ulusal ve uluslararası boyutlarıyla ele almalarını sağlamaktır",
+  "icerik": "İnsan hakları ve insan hakları hukukunun anlamı, temel hak ve özgürlük türleri, insan haklarını koruyan ulusal ve uluslar arası mekanizmalar, uygulamadan örnekler",
+  "outcomes": [
+   "İnsan Hakları ve İnsan Hakları Hukuk hakkında temel bilgileri edinir",
+   "Temel hak ve özgürlük türlerini ulusal ve uluslararası boyutlarıyla tanımak ve değerlendirir",
+   "İnsan haklarını koruyucu ulusal ve uluslar arası mekanizmaları tanır",
+   "Koruma mekanizmalarının uygulamaları hakkında bilgi sahibi olur"
+  ],
+  "resources": [
+   "Halil KALABALIK. İnsan hakları Hukuku, Seçkin Yayınevi, Ankara, 2. Baskı, 2009"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "İnsan Hakları Kavramı (Tanım ve Terim, Şartları, Unsurları ve Belirleyicileri)"
+   },
+   {
+    "n": 2,
+    "konu": "İnsan hakları Kavramı (Dikey ve Yatay Etkisi, Tarihi Gelişim ve Pozitif Hukuka Geçişi, Sınıflandırılması)"
+   },
+   {
+    "n": 3,
+    "konu": "İnsan Hakları Hukuku"
+   },
+   {
+    "n": 4,
+    "konu": "İnsan Haklarının Düzenlenmesi ve Sınırlanması"
+   },
+   {
+    "n": 5,
+    "konu": "Eşitlik ve Ayrımcılık yasağı"
+   },
+   {
+    "n": 6,
+    "konu": "Kişi Hakları"
+   },
+   {
+    "n": 7,
+    "konu": "İnsan Haklarının Tarihsel Gelişimi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Siyasi Ekonomik, Sosyal ve Kültürel Haklar"
+   },
+   {
+    "n": 10,
+    "konu": "Siyasi Ekonomik, Sosyal ve Kültürel Haklar"
+   },
+   {
+    "n": 11,
+    "konu": "Uluslararası Koruma Mekanizmaları (Yargısal Olmayan)"
+   },
+   {
+    "n": 12,
+    "konu": "Uluslararası Koruma Mekanizmaları (Yargısal)"
+   },
+   {
+    "n": 13,
+    "konu": "Avrupa İnsan Hakları Mahkemesi"
+   },
+   {
+    "n": 14,
+    "konu": "Avrupa İnsan Hakları Mahkemesi"
+   },
+   {
+    "n": 15,
+    "konu": "Ulusal Koruma Mekanizmaları"
+   }
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM406": {
+  "amac": "Geçmişten bugüne kamu sektörünün içinde yer alan kamu personelinin haklarını, sorumluluklarını, yetkilerini ve yükümlülüklerini incelemek, tabi olduğu her türlü güncel Anayasal, yasal ve kurumsal düzenlemeler bağlamında değerlendirmek.",
+  "icerik": "Bu derste, insan kaynakları yönetiminin konusu, amacı ve niteliği, tarihi gelişimi, kamuda insan kaynakları yönetimine egemen olan ilkeler, personel sistemleri, kamu hizmetine giriş, hizmet içi eğitim, personelin değerlendirilmesi ve yükseltilmesi, kamu görevlilerinin statüsü, motivasyon, ödüllendirme ve yönetim etiği konuları ele alınacaktır. Ayrıca, Türkiye´de kamu personel rejiminin sorunları ve yeniden yapılanması konusu irdelenecektir.",
+  "outcomes": [
+   "Kamu personeline ilişkin kavramların doğru tanımlanması ve kümelendirilmesi",
+   "Devlet memurluğuna ilişkin ilkelerin ve şartların Anayasal düzenlemeler ve diğer hukuki metinler çerçevesinde anlaşılması",
+   "Devlet memurunun hakları, ödevleri yükümlülükleri ve sorumluluklarının tam olarak öğrenilmesi",
+   "Devlet memurlarının çalışmalarının değerlendirilmesine ilişkin işlemler,memurlara ilişkin suçlar, disiplin ve ceza kovuşturmaları ile ilgili öğrencilere genel bir birikim kazandırmak.;",
+   "Devlet memurluğunun sona ermesi ve emekliliğe ilişkin değişen düzenlemeler konusunda eleştirel bir bakış açısı yaratabilmek",
+   "Kamu personelinin yaşam standartları, devlete bağlılık, hizmet sevgisi ve yaratıcı yeteneklerinin süreçlere entegrasyonunun öğrenci zihninde değerlendirilmesi ve sorgulanması."
+  ],
+  "resources": [
+   "Kamu Personel Yönetimi",
+   "Kamu Personel Yönetimi Nihat Kayar"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Kamu Personel Yönetimi’nin Konusu ve Yeni Gelişmeler a) Personel yönetimi ile ilgili genel kavramlar b) Kamu Personel Yönetimi ayrımı c) Türkiye’de kamu personelciliği"
+   },
+   {
+    "n": 2,
+    "konu": "Personel Alımı a) İşe almanın önemi b) İşe almada uygulanacak genel şartlar c) Memurluğa atama ve işe alma ayrımı"
+   },
+   {
+    "n": 3,
+    "konu": "Yabancı Ülkelerde İşe Alma a) İskandinav ülkelerinde işe alma b) Anglo-sakson ülkelerde işe alma c) Anglo-amerikan ülkelerde işe alma"
+   },
+   {
+    "n": 4,
+    "konu": "Sınıflandırma ve Kariyerleme a) Kariyer sistemi b Sınıflandırma c) Türkiye’de sınflandırma ve kariyerleme"
+   },
+   {
+    "n": 5,
+    "konu": "Ücret a) Ücretin önemi b) Aylık sistemi c) Türkiye’de ücretleme ve aylıklama"
+   },
+   {
+    "n": 6,
+    "konu": "Yükselme Ve Terfi a) Tanımı ve ilkeleri b) Yükselme ve terfi sisteminin özellikleri c) DMK’ye göre yükselme"
+   },
+   {
+    "n": 7,
+    "konu": "657 sayılı Kanuna göre geçici görevlendirme"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Memurların Hakları Ve Yükümlülükleri a) Memurun hakları b) Memurun yükümlülükleri c) Memur ve sendikacılık"
+   },
+   {
+    "n": 10,
+    "konu": "Memurların Dernek Ve Meslek Kuruluşlarıyla Olan İlişkileri a) Memurların derneklerle ilişkileri b) Memurların meslek kuruluşlarıyla olan ilişkileri c) Memurlarda dernekleşme"
+   },
+   {
+    "n": 11,
+    "konu": "Memurların Sosyal Güvenliği Ve Emekliliği a) Memurlar ve emeklilik sistemi b) Emeklilik koşulları c) Sosyal güvenlik ve Türkiye"
+   },
+   {
+    "n": 12,
+    "konu": "Disiplin Ve Disiplin Cezaları a) Disiplinin anlamı ve kapsamı b) Disiplin cezaları ve türleri c) Disipline itiraz ve uygulanması"
+   },
+   {
+    "n": 13,
+    "konu": "Örgüt Psikolojisi Ve İnsan İlişkileri a) Örgüt gereksinimleri ve güdüleme b) İnsan ilişkilerinin önemi ve gelişimi c) İnsan ilişkilerinin örgüte etkisi"
+   },
+   {
+    "n": 14,
+    "konu": "Türkiye’de Personel Reformu a) Personel reformunun gerekliliği b) Türkiye’de günümüze kadar personel reformları c) Reformların niteliği ve dayanağ"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "23.03.2025"
+ },
+ "KAM409": {
+  "amac": "Dersin amacı, Toplam kalite yönetimi felsefesini kavramak ve insan kaynakları yönetiminin önemini ortaya koymaktır",
+  "icerik": "Ders kapsamında kamuda ve özel sektörde insan kaynakları yönetimi ele alınacaktır",
+  "outcomes": [
+   "Bu dersi alan öğrenciler; Toplam kalite yönetimi işletmelerinde insan kaynakları yönetiminin önemi hakkında bilgi sahibi olur"
+  ],
+  "resources": [
+   "İnsan Kaynakları Yönetimi (Prof. Dr. Nuri Tortop) NOBEL YAYIN DAĞITIM Dr. M. Akif Özer/ Prof. Dr. Burhan Aykaç/ Prof. Dr. Nuri Tortop/ Dr. Hüseyin Yayman, 2010"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş"
+   },
+   {
+    "n": 2,
+    "konu": "İşletme sisteminde personel işlevi"
+   },
+   {
+    "n": 3,
+    "konu": "Toplam kalite yönetimi felsefesi–1"
+   },
+   {
+    "n": 4,
+    "konu": "Toplam kalite yönetimi felsefesi–2"
+   },
+   {
+    "n": 5,
+    "konu": "Toplam kalite yönetimi felsefesi–3"
+   },
+   {
+    "n": 6,
+    "konu": "İş analizi ve toplam kalite yönetimi-1"
+   },
+   {
+    "n": 7,
+    "konu": "İş analizi ve toplam kalite yönetimi-2"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "İşgücü planlaması ve toplam kalite yönetimi"
+   },
+   {
+    "n": 10,
+    "konu": "İşgücü planlaması ve toplam kalite yönetimi"
+   },
+   {
+    "n": 11,
+    "konu": "İşgören değerlemesi ve toplam kalite yönetimi"
+   },
+   {
+    "n": 12,
+    "konu": "Ücretleme ve toplam kalite yönetimi"
+   },
+   {
+    "n": 13,
+    "konu": "İşgören eğitimi ve toplam kalite yönetimi–1"
+   },
+   {
+    "n": 14,
+    "konu": "İşgören eğitimi ve toplam kalite yönetimi–2"
+   },
+   {
+    "n": 15,
+    "konu": "Sonuç"
+   }
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM410": {
+  "amac": "Bu dersin amacı öğrencilere Türk siyasi yaşamının köşe taşlarının öğretilmesidir",
+  "icerik": "Türk Siyasi Hayatı I, dersinin devamı niteliğinde olan bu derste, 1950-60 dönemlerindeki siyasal gelişmeler, 27 Mayıs 1960 ve 12 Mart 1971 hareketleri ve sonraki gelişmeler, 12 Eylül 1980 hareketi ve sonrasındaki gelişmeler işlenecektir,",
+  "outcomes": [
+   "Türk siyasal yaşamındaki önemli olay ve olguları açıklayabilir.",
+   "Türk siyasal yaşamındaki güncel sorunları değerlendirip analiz edebilir."
+  ],
+  "resources": [
+   "Akşin, Sina ve diğ., (1995), Türkiye Tarihi C. III (Osmanlı Devleti 1600-1908), İstanbul: Cem Yayınevi. Timur, Taner, (1996), Osmanlı Çalışmaları, Ankara: İmge Kitabevi. Akşin, Sina, (1998), Ana Çizgileriyle Türkiye’nin Yakın Tarihi 1789–1980, Ankara: İmaj Yayınevi. Timur, Taner, (1998), Osmanlı Kimliği, Ankara: İmge Kitabevi. Ortaylı, İlber, (2003), İmparatorluğun En Uzun Yüzyılı, İstanbul: İletişim Yayınevi."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin Genel Tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "I. Dünya Savaşı"
+   },
+   {
+    "n": 3,
+    "konu": "Ulusal Mücadele ve Bağımsızlık"
+   },
+   {
+    "n": 4,
+    "konu": "Cumhuriyetin İlk Yılları"
+   },
+   {
+    "n": 5,
+    "konu": "II. Dünya Savaşı Çok Partili Hayata Geçiş"
+   },
+   {
+    "n": 6,
+    "konu": "II. Dünya Savaşı Çok Partili Hayat/Demokrat Parti Dönemi"
+   },
+   {
+    "n": 7,
+    "konu": "27 Mayıs 1960 Hareketi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "/ 1961 Anayasası"
+   },
+   {
+    "n": 10,
+    "konu": "68 öğrenci hareketleri"
+   },
+   {
+    "n": 11,
+    "konu": "1971 Askeri Muhtırası"
+   },
+   {
+    "n": 12,
+    "konu": "12 Eylül 1980 askeri darbesi"
+   },
+   {
+    "n": 13,
+    "konu": "Darbe sonrası dönemdeki gelişmeler"
+   },
+   {
+    "n": 14,
+    "konu": "Sonuç"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM411": {
+  "amac": "Uluslararası örgütleri tanıtmak, bu örgütlerin genel özelliklerini, tarihçelerini, işleyişlerini ve ulus devletler üzerindeki etkilerini incelemektir.",
+  "icerik": "Uluslararası örgütleri ele alan teorileri incelemek, örgütlerin işlevlerini öğrenmek, örgüt ve ulus devlet ilişkisi konusunda analiz yeteneklerini geliştirmek",
+  "outcomes": [
+   "Ders bitiminde öğrenciler; 1-uluslararası örgütleri teorik olarak ele alabilir",
+   "ulus devletler üzerindeki etkisini tartışır",
+   "en etkin uluslararası örgütleri ve işleyişlerini bilir"
+  ],
+  "resources": [
+   "Mehmet Hasgüler, Mehmet B. Uludağ, “Uluslararası Örgütler”, Alfa Yay., 3. Baskı, 2007"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş ve dersin tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "Uluslararası kuruluşları tanımlamak, açıklamak, anlamak ve tartışmak: Konuya genel bir giriş"
+   },
+   {
+    "n": 3,
+    "konu": "Uluslararası örgütlerin işlevleri hakkında teorik yaklaşımlar 1"
+   },
+   {
+    "n": 4,
+    "konu": "Uluslararası örgütlerin işlevleri hakkında teorik yaklaşımlar 2"
+   },
+   {
+    "n": 5,
+    "konu": "Uluslararası örgütlerin tarihçesi"
+   },
+   {
+    "n": 6,
+    "konu": "Uluslararası örgütlerin hakları ve sorumluluklar"
+   },
+   {
+    "n": 7,
+    "konu": "Milletler Cemiyeti"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Milletler Cemiyetinin başarısızlıkları"
+   },
+   {
+    "n": 10,
+    "konu": "Birleşmiş Milletler"
+   },
+   {
+    "n": 11,
+    "konu": "Avrupa Birliği"
+   },
+   {
+    "n": 12,
+    "konu": "Ekonomik Örgütler: IMF, Dünya Bankası, DTÖ"
+   },
+   {
+    "n": 13,
+    "konu": "Orta Doğudaki örgütler"
+   },
+   {
+    "n": 14,
+    "konu": "Türkiye’nin üye olduğu örgütlerin tartışılması"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme ve tartışma"
+   }
+  ],
+  "updated": "11.04.2025"
+ },
+ "KAM412": {
+  "amac": "Öğrencilere modern ekonomik düşünceler hakkında kapsamlı bilgi vermek ve onların iktisadi düşünceler ile ekonomi politikalarını analiz etmelerini ve yorumlamalarını sağlamak",
+  "icerik": "Yöntem ve temel kavramlar, iktisadi düşüncenin ortaya çıkışı, Merkantalizm, Fizyokrasi, Klasik Teori, Klasik Teoriye Eleştiriler, Marksizm, Marjinalizm, Neo Klasik İktisat, Keynesyen İktisat, Yeni Neo Klasik Yaklaşımların ortaya çıkışı, matematiksel iktisat, Monetarizm, Post Keynesyen Teori, Kurumsal İktisat, Arz Yönlü İktisat, Rasyonel Beklentiler Teorisi, Kamu Tercihi Teorisi ve Anayasal İktisat gibi konular ders çerçevesinde tartışılmaktadır.",
+  "outcomes": [
+   "Ders sonucunda öğrenci güncel iktisadi akımlar hakkında nitelikli bilgiye sahip olur ve tartışır.",
+   "Genel olarak ekonomi teorilerini öğrenir ve bu bilgiyi ekonomiyi anlamak ve güncel olayları yorumlayabilmek için kullanır.",
+   "Ekonomik verilerden anlamlı modeller çıkarabilmeyi ve bu modelleri analiz etmeyi öğrenir."
+  ],
+  "resources": [
+   "Öğretim üyesi web sayfasındaki kaynaklar"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "İktisadi Düşünce Tarihine Genel Bir Bakış"
+   },
+   {
+    "n": 2,
+    "konu": "Antik Yunan Medeniyeti ve Bilim"
+   },
+   {
+    "n": 3,
+    "konu": "Roma İmparatorluğu ve Ekonomisi"
+   },
+   {
+    "n": 4,
+    "konu": "Coğrafi Keşifler ve Batı Avrupa’nın Gelişimi"
+   },
+   {
+    "n": 5,
+    "konu": "Merkantilist İktisadi Düşünce"
+   },
+   {
+    "n": 7,
+    "konu": "Devrimler ve dünya ekonomisindeki dönüşüm"
+   },
+   {
+    "n": 8,
+    "konu": "Fizyokrasi düşüncesi ve dünya ekonomisindeki etkileri"
+   },
+   {
+    "n": 9,
+    "konu": "Klasik İktisadi Düşünce--Adam Smith"
+   },
+   {
+    "n": 10,
+    "konu": "Klasik İktisadi Düşünce -- J. B Say,Thomas Malthus, David Ricardo"
+   },
+   {
+    "n": 11,
+    "konu": "Klasik İktisadi Düşünce --Bentham, Say, Senior, Mill"
+   },
+   {
+    "n": 12,
+    "konu": "Sosyalist Düşüncenin Çıkışı, Sanayi Devrimi ve Dünya Ekonomisindeki yansımaları"
+   },
+   {
+    "n": 13,
+    "konu": "Neo-Klasik İktisat—Parasal (Monetarist) Ekonomi, Ekonomik Krizler ve tartışmalar"
+   },
+   {
+    "n": 14,
+    "konu": "Keynezyen İktisat ve Günümüze Kadar Olan Gelişmeler"
+   },
+   {
+    "n": 15,
+    "konu": "Sunumlar ve güncel ekonomik tartışmalar."
+   }
+  ],
+  "updated": "10.04.2025"
+ },
+ "KAM413": {
+  "amac": "Öğrencileri girişimcilik ile ilgili teorik konularda bilgilendirmek, alan ile ilgili örnek olaylardan hareketle pratik bilgiler sunmak, öğrencilerin girişimcilikte yaşanan gelişmeler hakkında bilgi sahibi olmasını sağlamak.",
+  "icerik": "Girişimcilikle İlgili Temel Kavramlar (Girişimcinin Tanımı, Temel Özellikleri, Ülkelerin Girişimcilik Seviyesini Belirleyen Olumlu ve Olumsuz Unsurlar), Pazar Araştırması ve İş Fikrinin Oluşturulması, İş Fikrine Yönelik Yapılabilirlik Analizi, Girişimcilikte Finansman Sorunu ve Finansal Yöntemler (Finansman Kavramına İlişkin Temel Kavramlar, Finansal Destek Veren Kurumlar, Geleneksel ve Modern Finansman Yöntemleri), Girişimcilik Yenilik Kavramları ve Yenilikçilik Süreci (İnovasyon), Pazarlama İlkeleri ve Yönetimi, Fikri Mülkiyet Hakları, Marka Tescili ve Markalaşma Süreci, Girişimcilikte Dış Pazar Fırsatları, Girişimcilik ve Sosyal Medya İlişkisi, Girişimin Profesyonelleşmesi ve Boyutları, İş Planı Oluşturma ve Örnek İş Planı, Başarılı Girişimci Örnekleri.",
+  "outcomes": [
+   "Girişimciliğin ekonomideki önemini kavrar.",
+   "Küçük işletmeleri ve ekonomideki rollerini açıklar.",
+   "Girişimcilik konusunun temel kavramlarını tanımlar.",
+   "Girişimciliğin temel kavramlarını bilir."
+  ],
+  "resources": [
+   "Tikici, M. ve Aksoy, A., (2009). Girişimcilik ve Küçük İşletmeler, Nobel Yayın Dağıtım, Ankara.",
+   "Küçük, O., (2013). Girişimcilik ve Küçük İşletme Yönetimi, Seçkin Yayıncılık, Ankara."
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Girişimcilikle İlgili Temel Kavramlar (Girişimcinin Tanımı, Temel Özellikleri, Ülkelerin Girişimcilik Seviyesini Belirleyen Olumlu ve Olumsuz Unsurlar)"
+   },
+   {
+    "n": 2,
+    "konu": "Pazar Araştırması ve İş Fikrinin Oluşturulması"
+   },
+   {
+    "n": 3,
+    "konu": "İş Fikrine Yönelik Yapılabilirlik Analizi"
+   },
+   {
+    "n": 4,
+    "konu": "Girişimcilikte Finansman Sorunu ve Finansal Yöntemler (Finansman Kavramına İlişkin Temel Kavramlar, Finansal Destek Veren Kurumlar, Geleneksel ve Modern Finansman Yöntemleri)"
+   },
+   {
+    "n": 5,
+    "konu": "Girişimcilik Yenilik Kavramları ve Yenilikçilik Süreci (İnovasyon)."
+   },
+   {
+    "n": 6,
+    "konu": "Pazarlama İlkeleri ve Yönetimi"
+   },
+   {
+    "n": 7,
+    "konu": "Fikri Mülkiyet Hakları"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Marka Tescili ve Markalaşma Süreci"
+   },
+   {
+    "n": 10,
+    "konu": "Girişimcilikte Dış Pazar Fırsatları"
+   },
+   {
+    "n": 11,
+    "konu": "Girişimcilik ve Sosyal Medya İlişkisi"
+   },
+   {
+    "n": 12,
+    "konu": "Girişimin Profesyonelleşmesi ve Boyutları"
+   },
+   {
+    "n": 13,
+    "konu": "İş Planı Oluşturma ve Örnek İş Planı"
+   },
+   {
+    "n": 14,
+    "konu": "İş Planı Oluşturma ve Örnek İş Planı"
+   },
+   {
+    "n": 15,
+    "konu": "Başarılı Girişimci Örnekleri"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM414": {
+  "amac": "Çalışma Ekonomisi, insanın iktisadi yaşamındaki istihdam ilişkilerinin ekonomik yönünü ele alır. Bunun içinde mikro ve makro iktisat teorisi araçlarından yararlanılır. İktisadi siyaset ile sosyal siyaset arasındaki irtibat sağlanmaya çalışılır.",
+  "icerik": "Emek piyasası ve özellikleri, emek arzı ve talebi, ücret ve ücret sistemleri ve verimlilik konuları, iş piyasası (teorik olarak ve iş kollarına göre incelenmesi), emek arzı (emek arzını tayin eden unsurlar, istihdam seviyesi ve işgücünün muhtevası), işsizlik, ücretler (kavramsal yaklaşım, ücret teorileri, ücretlerin bünyesi), ücret sistemleri, verimlilik ve eğitim ekonomisini kapsanmaktadır.",
+  "outcomes": [
+   "Çalışma yaşamındaki tarafların fayda optimizasyonunu sağlayabilmelerinde teorik olarak hangi süreçlerin ve yöntemlerin alınmasının sağlar."
+  ],
+  "resources": [
+   "M. Kemal Biçerli, Çalışma Ekonomisi, Genişletilmiş 5. Baskı, Beta Yayınları, 2009. Sabahattin Zaim, Çalışma Ekonomisi, Filiz Kitabevi, İstanbul, 1997; İlker Parasız ve Melike Bildirici, Modern Emek Ekonomisi, Ezgi Kitabevi, Bursa, 2002; Hüseyin Akyıldız, Çalışma Ekonomisi, Alter Yayınları, Ankara, 2010; Kuvvet Lordoğlu ve Nurcan Özkaplan, Çalışma İktisadı, Der Yayınları, İstanbul, 2003."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Giriş"
+   },
+   {
+    "n": 2,
+    "konu": "Ekonomik sistemin bir alt sistemi olarak Çalışma Ekonomisi"
+   },
+   {
+    "n": 3,
+    "konu": "Boş zaman teorisi ve emek arzı ve boş zaman teorilerinin sınırlayıcıları"
+   },
+   {
+    "n": 4,
+    "konu": "İşgücüne katılma oranı kavram ve kararlar"
+   },
+   {
+    "n": 5,
+    "konu": "Türkiye’de işgücüne katılma oranının seyrinin ekonomik ve sosyal analizi"
+   },
+   {
+    "n": 6,
+    "konu": "Kısa dönemde emek talebi"
+   },
+   {
+    "n": 7,
+    "konu": "Uzun dönem emek talebi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Emek talebi esneklikleri ve emek talebini etkileyen faktörler/ Türkiye’de istihdamın değerlendirilmesi"
+   },
+   {
+    "n": 10,
+    "konu": "Emek talebi esneklikleri ve emek talebini etkileyen faktörler/ Türkiye’de istihdamın değerlendirilmesi"
+   },
+   {
+    "n": 11,
+    "konu": "Ücret, tanımı ve çeşitleri"
+   },
+   {
+    "n": 12,
+    "konu": "Ücret farklılıkları"
+   },
+   {
+    "n": 13,
+    "konu": "Ücretlerin teorileri ve ücretlerin belirlenmesi"
+   },
+   {
+    "n": 14,
+    "konu": "İşçi Psikolojisi"
+   },
+   {
+    "n": 15,
+    "konu": "Eğitim ekonomisi"
+   }
+  ],
+  "updated": "21.03.2025"
+ },
+ "KAM415": {
+  "amac": "Öğrencilerin kamu yönetimi ile etik arsındaki ilişki konusunda bilgi sahibi olmasını sağlamak",
+  "icerik": "Bu ders kapsamında etik ve kamu yönetimi ilişkisi temel kavramların anlamlandırılmasıyla başlayacak, genel anlamda etiğin kamu yönetimi açısından önemiyle devam edecek ve sırasıyla kamu yönetiminde etiğe etki eden faktörler ve Türk kamu yönetimi ve etik ilişkisi incelenecektir.",
+  "outcomes": [
+   "Etik ile ilgili kavramlara hâkim olma",
+   "Kamu yönetiminde etik felsefesi ve kültür konusunda bilgi sahibi olma",
+   "Yönetsel etikle ilgili konularda yorum yapabilme",
+   "Etiğe dayalı karar verme becerisine sahip olma"
+  ],
+  "resources": [
+   "BAUMAN, Zygmunt (1998), Post Modern Etik, Çev: Alev Türker, Ayrıntı Yayınları",
+   "Cüneyt Yüksel (2011), Devlette Etik (Dünyada ve Türkiye'de Kamu Yönetiminde Etik, Yasal Altyapı ve Uluslararası Uygulamalar), Boğaziçi Üniversitesi Yayınları."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Etiğe giriş, Etik-Ahlak ilişkisi Etiğin Konusu ve Türleri Etiğin Tarihsel Gelişmesi"
+   },
+   {
+    "n": 2,
+    "konu": "Genel Olarak Kamu Yönetiminde Etik"
+   },
+   {
+    "n": 3,
+    "konu": "Kamu Yönetiminde Etik Davranış Kuralları"
+   },
+   {
+    "n": 4,
+    "konu": "Kamu Yönetiminde Etik ve Çıkar Çatışması"
+   },
+   {
+    "n": 5,
+    "konu": "Kamu Yönetiminde Etiğin Önemi"
+   },
+   {
+    "n": 6,
+    "konu": "Türkiye’de Kamu Yönetiminde Etik Altyapı"
+   },
+   {
+    "n": 7,
+    "konu": "Türk Kamu Yönetiminde Etik Dışı Faaliyetlerin Nedenleri ve Kamu Görevlileri Etik Kurulu"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Etik Sözleşmeler"
+   },
+   {
+    "n": 10,
+    "konu": "Türk Kamu Yönetiminde Etik Mevzuat Sorunları"
+   },
+   {
+    "n": 11,
+    "konu": "Kurumsal Etik ve Whisleblowing"
+   },
+   {
+    "n": 12,
+    "konu": "Çevre etiği, iş etiği ve yerel yönetimlerde etik"
+   },
+   {
+    "n": 13,
+    "konu": "Kamu Yönetiminde Etik Eğitimi"
+   },
+   {
+    "n": 14,
+    "konu": "Kamu Etiği ve Denetim"
+   },
+   {
+    "n": 15,
+    "konu": "Genel Değerlendirme"
+   }
+  ],
+  "updated": "08.04.2025"
+ },
+ "KAM416": {
+  "amac": "Siyasal partilerin özellikleri ve ideolojik ayrımları konu edilerek, dünyada ve Türkiye’de partilerin öneminin tarihsel ortaya çıkışlarından yola çıkılarak öğretilmesi amaçlanmaktadır",
+  "icerik": "Ders syllabus’unda belirtilen konularla ilgili olarak her hafta hazırlıklı gelinmesi,İlgili kaynaklardan yararlanarak sunum hazırlanması,",
+  "outcomes": [
+   "Duverger’in teorisi çevresinde gerçekleştirilecek analiz sonuçları kavrar.",
+   "Türk siyasal partilerinin benzerlik ve farklılıklarını ortaya koyar",
+   "Günümüz Türk siyasal partilerinin analizini yapar."
+  ],
+  "resources": [
+   "M. Duverger, Siyasal Partiler, Bilgi Yayınevi, 1993, Ankara"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Siyasal Parti tanımı, kavramsal analiz"
+   },
+   {
+    "n": 2,
+    "konu": "Dünyada siyasal partilerin ortaya çıkışları, gelişimi ve tipolojileri"
+   },
+   {
+    "n": 3,
+    "konu": "Türkiye’de siyasal partilerin ortaya çıkışı, Osmanlı dönemi siyasal akımlar"
+   },
+   {
+    "n": 4,
+    "konu": "İttihat ve Terakki Fırkası- Hürriyet ve İtilaf Fırkası"
+   },
+   {
+    "n": 5,
+    "konu": "Cumhuriyet sonrası siyasal partiler, CHF’nin oluşum süreci"
+   },
+   {
+    "n": 6,
+    "konu": "Tek parti döneminde muhalif siyasal yapılar ve Türk siyasal yaşamına etkileri"
+   },
+   {
+    "n": 7,
+    "konu": "Çok Partili Hayata Geçiş Demokrat Parti Dönemi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Siyasal Partiler Kanunu ve dayanakları"
+   },
+   {
+    "n": 10,
+    "konu": "Siyasal Partiler Kanunu ve dayanakları"
+   },
+   {
+    "n": 11,
+    "konu": "Demokrasilerde parti kapatma sorunu ve Türkiye örnekleri"
+   },
+   {
+    "n": 12,
+    "konu": "Parti içi demokrasi sorunu"
+   },
+   {
+    "n": 13,
+    "konu": "Demokrasilerde muhalefet olgusu ve ötekini hazmetme kapasitesi"
+   },
+   {
+    "n": 14,
+    "konu": "Demokratik ve otoriter rejimlerde siyasal partilerin işlevleri"
+   },
+   {
+    "n": 15,
+    "konu": "21. yy’da siyasal partilerin önemi ve değişen işlevleri"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM417": {
+  "amac": "plan nedir? Planlamanın evrimi ve stratejik planlar nasıl hazırlanır",
+  "icerik": "Stratejik Plan Hazırlık Süreci ve Metodolojisi",
+  "outcomes": [
+   "öğrencinin planlama sürecini bilmesi",
+   "Öğrencinin Stratejik plan yapabilme kabiliyetini geliştirme"
+  ],
+  "resources": [
+   "Kamu Kurumları İçin Stratejik Planlama Kılavuzu 3.sürüm (2018), Çoban, Mehmet (2007). Stratejik Planlama, İstanbul: Alfa Yayınları. Çomaklı, Şafak E. Kenan Mehmet Ekici; Tarık Zeki Şahım (2007). Geleceği Planlamada Stratejik Yönetim, Ankara: A-C Yayınevi. Songür, Neşe (2011). Kamu Yönetiminde Stratejik Planlama, Ankara: Türkiye ve Ortadoğu Amme İdaresi Enstitüsü, Çağlar, İrfan (2005). Türk İşletmeciliğinde Değişim ve Değişim Yönetimi, Ankara: Gazi Kitapevi"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Stratejik Plan Hazırlık Süreci ve Metodolojisi"
+   },
+   {
+    "n": 2,
+    "konu": "Stratejik Planın Uygulanabilirlik Koşulları"
+   },
+   {
+    "n": 3,
+    "konu": "Stratejik Planın Evreleri"
+   },
+   {
+    "n": 4,
+    "konu": "Durum Analizi, Tarihsel Gelişim ve Yasal Yükümlülükler"
+   },
+   {
+    "n": 5,
+    "konu": "Kurum içi Analiz, Paydaş Analizi ve GZFT Analizi"
+   },
+   {
+    "n": 6,
+    "konu": "Misyon, Vizyon ve Değerler"
+   },
+   {
+    "n": 7,
+    "konu": "Stratejik Plan Ekibinin Oluşturulması"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Hedef Kartları Oluşturma"
+   },
+   {
+    "n": 10,
+    "konu": "Kurumsal Kapasitenin Geliştirilmesi"
+   },
+   {
+    "n": 11,
+    "konu": "Stratejik Planın Maaliyetlendirilmesi"
+   },
+   {
+    "n": 12,
+    "konu": "İzleme, Değerlendirme ve Raporlama"
+   },
+   {
+    "n": 13,
+    "konu": "Performans Göstergeleri oluşturma"
+   },
+   {
+    "n": 14,
+    "konu": "Genel Değerlendirme"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "10.04.2025"
+ },
+ "KAM424": {
+  "amac": "1. Çevre sorunu yaşayan bölgelerde ekonomik ve politik yapıların nasıl etkileşim içerisinde bulunduğuna yönelik incelemeler yapmak",
+  "icerik": "Bu ders, küresel çevre sorunlarının ekonomi politiğini ortaya koymaktadır. Uluslar arası politika teorileri çevre sorunlarına uygulanmaktadır. Derste ayrıca, çevre aktivistleri ve bilim adamları tarafından belirlenen sorunların ve önerdikleri çözüm yolları ele alınır. Klasik ve çağdaş çevre sorunları ele alınacaktır. Üzerinde durulacak olan diğer konular ise toplumsal baskı grupları, nüfus baskısı, biyolojik çeşitlilik, iklim değişikliği, küresel ısınma, epistemik topluluklar, rejimler, küresel ve bölgesel çevre yönetimleri, ekonomi ve çevre, çevre mültecileri, biyo-güvenlik ve enerjidir",
+  "outcomes": [
+   "Çevre sorunlarının küresel bir sorun olduğunu öğrenir",
+   "Küresel çevre sorunlarının çözümünde teori ile pratik arasında nasıl bir etkileşimin olduğunu öğrenir",
+   "Küreselleşmenin çevre sorunlarının varlığına ve çözümüne olan etkilerini öğrenir",
+   "Yönetimde var olan yeni kavram ve anlayışların küresel çevre sorunlarının çözümüne etkilerini öğrenir."
+  ],
+  "resources": [
+   "Kaplan, A (1998); “Küresel Çevre Sorunları ve Politikaları”, Ankara, Mülkiyeliler Birliği Vakfı Yayını, 2. Baskı."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 60
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Büyümenin Sınırları"
+   },
+   {
+    "n": 2,
+    "konu": "Ekonomik Büyüme ve Sürdürülebilir Kalkınma"
+   },
+   {
+    "n": 3,
+    "konu": "Ticaret ve Çevre"
+   },
+   {
+    "n": 4,
+    "konu": "Çok Uluslu Şirketler ve Çevre"
+   },
+   {
+    "n": 5,
+    "konu": "Çevre Sorunlarının Küreselleşmesi"
+   },
+   {
+    "n": 6,
+    "konu": "Küresel Isınma ve İklim Değişikliği"
+   },
+   {
+    "n": 7,
+    "konu": "Ozon Tabakasında İncelme"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Küresel Su sorunları"
+   },
+   {
+    "n": 10,
+    "konu": "Nükleer Kirlilik"
+   },
+   {
+    "n": 11,
+    "konu": "Okyanuslarda yaşanan sorunlar ve Ortak Mallar Sorunu"
+   },
+   {
+    "n": 12,
+    "konu": "Ormansızlaşma"
+   },
+   {
+    "n": 13,
+    "konu": "Toprak Bozulumu ve Çölleşme"
+   },
+   {
+    "n": 14,
+    "konu": "Küresel Çevre Hukuku ve Politikaları"
+   },
+   {
+    "n": 15,
+    "konu": "Neler Yapabiliriz"
+   }
+  ],
+  "updated": "08.04.2025"
+ },
+ "KAM425": {
+  "amac": "Türkiye’nin toplumsal yapısına ilişkin göstergeleri sayısal olarak belirlemek ve toplumsal yapının temel özelliklerini incelemektir.",
+  "icerik": "Türk toplumsal yapısını anlamak için önce yakın tarihe cumhuriyetin nasıl kurulduğuna bakmak ve Osmanlı toplum düzenini anlamak daha sonra bugünkü mevcut yapıyı oluşturan toplumsal kurumları ele almaktır.",
+  "outcomes": [
+   "Türkiye’nin toplumsal yapısına ilişkin sayısal verileri ve toplumsal yapının temel özelliklerini ve bu özellikleri etkileyen unsurları öğrenmek, bilimsel bir bakış açısı getirmek"
+  ],
+  "resources": [
+   "Emre Kongar, 21.Yüzyılda Türkiye, Remzi Kitapevi, 27.Baskı,İstanbul,1998"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Sosyal Tabakalaşma"
+   },
+   {
+    "n": 2,
+    "konu": "Elitler (Seçkinler)"
+   },
+   {
+    "n": 3,
+    "konu": "Sivil toplum Türkiye'de Sivil toplum"
+   },
+   {
+    "n": 4,
+    "konu": "Türk Toplum Yapısını İnceleme Aracı Olarak Merkez- Çevre Yaklaşımı"
+   },
+   {
+    "n": 5,
+    "konu": "Kapitalizm Gelmeden önce Türk Toplum Yapısı"
+   },
+   {
+    "n": 6,
+    "konu": "Periferileşme Süreci"
+   },
+   {
+    "n": 7,
+    "konu": "Jön Türkler"
+   },
+   {
+    "n": 8,
+    "konu": "ARA SINAV"
+   },
+   {
+    "n": 9,
+    "konu": "Devlet ve Sermaye Cumhuriyetin ilk yılları"
+   },
+   {
+    "n": 10,
+    "konu": "Çok Partili Hayata Geçiş Popülizm ve Demokrasi"
+   },
+   {
+    "n": 11,
+    "konu": "İthal İkameci Sanayileşme ve Kitle Toplumu"
+   },
+   {
+    "n": 12,
+    "konu": "Neo Liberalizm ve Türk Toplum Yapısına Etkileri"
+   },
+   {
+    "n": 13,
+    "konu": "Gençlik ve Siyaset"
+   },
+   {
+    "n": 14,
+    "konu": "Şiddet ve Terör"
+   },
+   {
+    "n": 15,
+    "konu": "Yolsuzluk ve Yoksulluk"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM427": {
+  "amac": "Bu dersin amacı, çağdaş siyasal akımları öğrencilere genel hatlarıyla öğretmektir.",
+  "icerik": "Ders kapsamında, liberalizm, muhafazakarlık, feminizm, modernizm, post modernizm, sosyalizm ve komünizm gibi ideolojilere değinilecektir.",
+  "outcomes": [
+   "Bu dersi alan öğrenciler, yarı yıl sonunda liberalizm, muhafazakârlık, feminizm, modernizm, post modernizm, sosyalizm ve komünizm gibi ideolojiler hakkında yeterli bilgi düzeyine sahip olur"
+  ],
+  "resources": [
+   ": 1.Çağdaş Siyasal Akımlar İMAJ YAYINCILIK Adam (Alaeddin) Şenel 2.Çağdaş Siyasal Akımlar VADİ YAYINLARI Aytekin Yılmaz Yayın Yılı: 2001; 3.Çağdaş Siyasal Akımlar ORİON KİTABEVİ Halis Çetin Yayın Yılı: 2007"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Genel Giriş"
+   },
+   {
+    "n": 2,
+    "konu": "Liberalizm"
+   },
+   {
+    "n": 3,
+    "konu": "Liberalizme katkı yapan düşünürler"
+   },
+   {
+    "n": 4,
+    "konu": "Ütopik sosyalizm"
+   },
+   {
+    "n": 5,
+    "konu": "Ütopik sosyalizme katkı yapan düşünürler"
+   },
+   {
+    "n": 6,
+    "konu": "Sosyalizm"
+   },
+   {
+    "n": 7,
+    "konu": "Sosyalizme katkı yapan düşünürler"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Sosyalizme katkı yapan düşünürler"
+   },
+   {
+    "n": 10,
+    "konu": "Marxsizm"
+   },
+   {
+    "n": 11,
+    "konu": "Marxsizme katkı yapan düşünürler"
+   },
+   {
+    "n": 12,
+    "konu": "Muhafazakârlık"
+   },
+   {
+    "n": 13,
+    "konu": "Muhafazakârlığa katkı yapan düşünürler"
+   },
+   {
+    "n": 14,
+    "konu": "Feminizm"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM428": {
+  "amac": "Siyaset teorisini ve teoriye katkısı olmuş düşünürlerin eserlerini okuyup tartışmak",
+  "icerik": "Çağdaş siyaset teorisi düşünürlerini okuyup tartışmak.",
+  "outcomes": [
+   "ders sonunda öğrenciler uluslararası politikayı, farklı aktörleri ve farklı gündemleri yorumlayabilir."
+  ],
+  "resources": [
+   "Andrew Heywood, Küresel Siyaset, çev. Nasuh Uslu, Haluk Özdemir, Ankara, Adres Yayınları, 2013."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "temel kavramların tartışılması"
+   },
+   {
+    "n": 3,
+    "konu": "liberalzim"
+   },
+   {
+    "n": 4,
+    "konu": "John Rawls"
+   },
+   {
+    "n": 5,
+    "konu": "John Stuart Mill: On Liberty"
+   },
+   {
+    "n": 6,
+    "konu": "R. Nozick"
+   },
+   {
+    "n": 7,
+    "konu": "Muhafazakarlık"
+   },
+   {
+    "n": 8,
+    "konu": "Arasınav"
+   },
+   {
+    "n": 9,
+    "konu": "Marksizm"
+   },
+   {
+    "n": 10,
+    "konu": "Çok Kültürlülük"
+   },
+   {
+    "n": 12,
+    "konu": "Kamusal alan tartışmaları"
+   },
+   {
+    "n": 13,
+    "konu": "Kamusal Alan tartışmaları : Hanna Arendt:"
+   },
+   {
+    "n": 14,
+    "konu": "Feminist theori: Judith Butler"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "KAM429": {
+  "amac": "Bu ders ile öğrencilere Anglo Sakson, Amerikan ve Kıta Avrupa’sı üzerinde hüküm süren devletlerin, devlet yapılarının öğretilmesi amaçlanmaktadır",
+  "icerik": "Bu derste öğrencilere Anglo Sakson, Amerikan ve Kıta Avrupası üzerinde hüküm süren devletlerin, devlet yapıları öğretilecektir.,",
+  "outcomes": [
+   "Bu dersi alan öğrenciler, dönem sonunda güncel konuları teorik bazda değerlendirir ve dünyada var olan bütün devlet sistemleri hakkında bilgi sahibi olur"
+  ],
+  "resources": [
+   "Aslan, Ali Rıza, Demokratik Yönetim Sistemleri, Dora, 2015 Gönenç, Levent, \"Hükümet Sistemi Tartışmalarında 'Başkanlı Parlamenter Sistem' Seçeneği\",, Gözler, Kemal, Elveda Anayasa, Ekin, 2017 Gözler, Kemal, Referandumdan Önce, Referandumdan Sonra, Ekin, 2017",
+   "Aslan, Ali Rıza, Demokratik Yönetim Sistemleri, Dora, 2015"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Genel Tanıtım"
+   },
+   {
+    "n": 2,
+    "konu": "Aktör-odaklı Kurumsalcılık"
+   },
+   {
+    "n": 3,
+    "konu": "Lijpart Modeli"
+   },
+   {
+    "n": 4,
+    "konu": "Hükümet Sistemi Tipleri"
+   },
+   {
+    "n": 5,
+    "konu": "ABD Başkanlık Sistemi"
+   },
+   {
+    "n": 6,
+    "konu": "Alman Parlamenter Demokrasisi"
+   },
+   {
+    "n": 7,
+    "konu": "Fransız Yarı Başkanlık Sistemi"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Türk Tipi Başkanlık Sistemi 1"
+   },
+   {
+    "n": 10,
+    "konu": "Türk tipi Başkanlık Sistemi 2: HSK, HSYK (1982, 2010, 2014)"
+   },
+   {
+    "n": 11,
+    "konu": "Türk tipi Başkanlık Sistemi 3"
+   },
+   {
+    "n": 12,
+    "konu": "Türk tipi Başkanlık Sistemi 4: ABD Başkanlaık Sistemi ile Karşılaştırma"
+   },
+   {
+    "n": 13,
+    "konu": "İran Devlet Sistemi"
+   },
+   {
+    "n": 14,
+    "konu": "Nazi Almanyası'nda \"Gleichschaltung\""
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "25.03.2025"
+ },
+ "KAM430": {
+  "amac": "insanlık tarihinde uygarlık kavramının ortaya çıkması kentsel yerleşimlerle bağlantılıdır. insan uğraşılarında uzmanlaşma, becerilerin gelişmesi, düşünüp fikir üreten kişilerin ortaya çıkmasıyla kentler ve kasabalar oluşmuştur. Kent yaşamı insanların beceri kazanmasını sağlamıştır. dersin amacı insanlık tarihinde gelişen evreleri öğrencileri aktarmak amaçlanmıştır.",
+  "icerik": "Uygarlık nedir? Batı uygarlığı nedir? ilk alet üretiminden, tarım devrimine geçiş: Paleolitikten, neolitiğe geçiş ve geçiş süreci…Doğu toplulukları: Mesopotamya’da Sümerler, Tarihte Mesopotamya halkları, katkıları. Bilimsel Devrimler, Devrimler süreci: Fransız Devrimi nedenleri ve sonuçları, Devrimler süreci: Fransız Devrimi nedenleri ve sonuçları, Sanayii Devrimi nedenleri ve sonuçları. Sanatsal ve Kültürel Modernizm Ondokuzuncu yüzyıla doğru izlenen yol…. Dünya savaşlarına doğru:, Savaşlar ve Politik gelişmeler: Savaş mı? Barış mı? Rusya ve Batı: Devrim ve İdeolojiler, Totalitarizm, Küreselleşen kentler ve Yirmibirinci yüzyıla bakış",
+  "outcomes": [
+   "Tarımsal ve kentsel yaşama geçiş süreçlerini öğrenir",
+   "İlk kentlerin ortaya çıkışı",
+   "ilk Kentsel kanunlar ile günümüz kanunlarını kıyaslayarak süreci ortaya koyar",
+   "Antik Yunanda kentsel ve toplumsal gelişme",
+   "Romada kentsel ve toplumsal gelişme",
+   "Rönesans ve reformun toplumsal ve kentsel gelişmeye etkisi",
+   "Coğrafi keşifler ve kapitalist sömürü",
+   "Sanayileşme dönemi kentsel, toplumsal gelişme",
+   "Sanayileşme döneminde kentsel toplumsal gelişmeler",
+   "Sanayileşme dönemi toplumsal ve kentsel gelişme",
+   "küreselleşme ve toplumsal değişim"
+  ],
+  "resources": [
+   "Ağasıoğlu, F. (2000). Türkler Asur yazılarında. Türk Dünyası Dil ve Edebiyat Dergisi, Bookchin, M. (1999). Kentsiz Kentleşme. B. Özyalçın (Çev.) İstanbul: Ayrıntı Kitabevi, Landsberger, B. (1994). Mezopotamya?da medeniyetin doğuşu. Mebrure O. Tosun (Çev.) AÜ Dil ve Tarih-Coğrafya Fakültesi Dergisi, 2, Lipson, L. (1984). Demokratik Uygarlık. H. Gülalp ve T. Alkan (Çev.) Ankara: Türkiye İş Bankası Kültür Yayınları. Mumford, L. (2007). Tarih Boyunca Kent; Kökenleri, Geçirdiği Dönüşümler ve Geleceği, G. Koca ve T. Tosun (Çev.), İstanbul: Ayrıntı Yayınları, Yiğit, T. (2000). Akadlar devrinde Anadolu?nun siyasal yapısı. Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi Dergisi, Keleş, R. (1998). Kentbilim Terimleri Sözlüğü. Ankara: İmge Kitabevi. Keleş, R. (2004). Kentleşme Politikası. Ankara: İmge Kitabevi."
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "1 Tarımsal ve kentsel yaşama geçiş süreçlerini öğrenir"
+   },
+   {
+    "n": 2,
+    "konu": "İlk kentlerin ortaya çıkışı"
+   },
+   {
+    "n": 3,
+    "konu": "ilk Kentsel kanunlar ile günümüz kanunlarını"
+   },
+   {
+    "n": 4,
+    "konu": "Dünya ve Türk kentsel uygarlık dönemini öğrenir"
+   },
+   {
+    "n": 5,
+    "konu": "Antik Yunan'da Kentsel ve toplumsal gelişme"
+   },
+   {
+    "n": 6,
+    "konu": "Antik Yunanda kentsel ve toplumsal gelişme"
+   },
+   {
+    "n": 7,
+    "konu": "Antik Yunanda kentsel ve toplumsal gelişme"
+   },
+   {
+    "n": 8,
+    "konu": "Romada kentsel ve toplumsal gelişme"
+   },
+   {
+    "n": 9,
+    "konu": "Rönesans ve reformun toplumsal ve kentsel gelişmeye etkisi"
+   },
+   {
+    "n": 10,
+    "konu": "Coğrafi keşifler ve kapitalist sömürü"
+   },
+   {
+    "n": 11,
+    "konu": "Sanayileşme dönemi kentsel, toplumsal gelişme"
+   },
+   {
+    "n": 12,
+    "konu": "Sanayileşme döneminde kentsel toplumsal gelişmeler"
+   },
+   {
+    "n": 13,
+    "konu": "küreselleşme ve toplumsal değişim"
+   },
+   {
+    "n": 14,
+    "konu": "Sanayileşme dönemi toplumsal ve kentsel gelişme"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "10.04.2025"
+ },
+ "KAM431": {
+  "amac": "Bu dersin amacı, bilgi iletişim teknolojilerinin gelişmesi ile kamu hizmetlerinin sunumunda yaşanan dijitalleşme sürecine ilişkin teori ve uygulamaları tanıtmaktır.",
+  "icerik": "Bilgi ve iletişim teknolojilerinin tarihsel gelişimi Kamu hizmetlerinin Sunumunda Alternatif Yöntemler, E-Devlet: Tanımı ve özellikleri, E-Devletin Kapsamı, Nesnelerin interneti, Büyük Veri, Dijital Yönetişim, E-Devletin Başarı Koşulları, Türkiye’de E-Devlet Uygulamalarında Yaşanan Sorunlar, Blokzincir Sistemi ve Kamu Hizmetleri, Siyasal Karar Alma Süreci ve E-demokrasi ve Katılım, E, Mobil Devlet ve Blokzincir Sistemi ve Kamu Hizmetlerinde Kullanımı, Büyük veri, 5G, Bulut Bilişim,.",
+  "outcomes": [
+   "İktisadi ve İdari Bilimlerle ilgili temel ve kavramsal bilgiye sahip olur",
+   "Yönetim, Kent - Çevre, Siyaset ve Hukuk bilimlerinin temel kavramlarına hâkim, bu alandaki bilgileri kamuda karar alma mekanizmalarında evrensel değerlerle bütünleşik değerlendirebilme ve uygulama yetkinliği kazanır",
+   "Kamu yönetimiyle bağlantılı hukuk disiplinlerinin temel bilgilerine sahip olarak, güncel hukuki problemleri algılayıp yorumlayarak evrensel hukuk ilkeleriyle bağlantılı çözümler getirir",
+   "Teorik bilgiyi pratiğe aktarabilme, uygulamaları analiz edebilme ve paylaşabilme becerisi kazanır",
+   "Yönetimde demokratik değerleri özümsemiş, insan haklarına saygılı, geçmişi ve günümüzü sorgulayarak, etik ilkeler çerçevesinde hızlı karar verme, uygulama bilgi ve becerisi kazanır"
+  ],
+  "resources": [
+   "Akcagündüz, E. (2013), “Türkiye’de E-Devlet Sistemine Farklı Bir Bakış: E-Devlet ve Tasarruf İlişkisi” Doğuş Üniversitesi Dergisi. Akcagündüz, E. (2019). Türkiye’de E-Devlet ve E-Yönetişim: Mevcut Duruma Genel Bir Bakış, E-Yönetişim, Kavramsal Çerçeve, Ülke İncelemeleri ve Türkiye’ye Yansımaları (İçinde) Editör. Kadir Caner DOĞAN-Bekir Parlak, Bursa,2019 Akcagündüz E. (2021) İnsan Kaynakları Yönetiminde Blokzincir Teknolojisi, İçnde: Kamu ve Özel Sektörde Blokzincir Teknolojisi, Nobel Yayınevi, Editör:Onur Durukal. Altun, T., Şahin, F., & Öztaş, N. (2017). Kamu Politikalarinin Belirlenmesi Ve Uygulanmasinda Büyük Veri, Süleyman Demirel Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi, 22(Kayfor 15 Özel Sayısı), 2021-2044. Önder, M., & Saygili, H. (2018). Yapay Zekâ Ve Kamu Yönetimine Yansimalari. Türk İdare Dergisi, 487, 629-668. Göçoğlu, V. (2020). Kamu Hizmetlerinin Sunumunda Dijital Dönüşüm: Nesnelerin Interneti Üzerine Bir Inceleme. MANAS Sosyal Araştırmalar Dergisi, 9(1),"
+  ],
+  "updated": "28.03.2025"
+ },
+ "KAM433": {
+  "amac": "öğrencilerin çevreye karşı işlenecek suçlarda hukukun koruyuculuğunun önemini kavratmak ve çevre hassasiyetini geliştirmek.",
+  "icerik": "Çevreye karşı işlenen suçların hukuk ekseninde korunmasını sağlamaya ilişkin temel ilke ve sorumlulukların ortaya konulması.",
+  "outcomes": [
+   "Çevre Hukukunun temel kavramlarını tanımlar",
+   "Çevre Sorunlarıyla ilgili hukuksal sorunları çözer",
+   "çevre hakkının diğer hak ve özgürlüklerle ilişkisini kurar",
+   "çevre hakkı ihlallerinin engellenmesi adına hukuki çözümler geliştirir"
+  ],
+  "resources": [
+   "Turgut, Nükhet YILMAZ (2012); \"Çevre Politikası ve Hukuku\" İmaj Yayıncılık: Ankara"
+  ],
+  "updated": "07.04.2025"
+ },
+ "KAM468": {
+  "amac": "Bu dersin amacı, medya-kamuoyu-siyaset olgularını birbirleri ile ilişkileri çerçevesinde bütüncül bir bakış açısıyle incelemektir",
+  "icerik": "Ders kapsamında, siyaset-kamuoyu-medya ilişkisi öğrenilecek ve analizler yapılacaktır",
+  "outcomes": [
+   "Ders sonunda öğrenciler; siyaset, medya ve kamuoyunu birbirlerini nasıl şekillendirdikleri analiz edebilecektir.",
+   "Öğrenciler bir siyasal ve medya aktörleri hakkında önerilerde bulunabileceklerdir."
+  ],
+  "resources": [
+   "Mesut Yılmaz, “Medya ve Siyaset İlişkilerinin Kamuoyu Üzerindeki Etkileri: KKTC Örneği”, Gnsan ve Toplum Bilimleri Araştırmaları Dergisi, 2013 | Cilt.2, Sayı: 2, S. 230-252 Gülüm Şener, “Türkiye’de Sosyal Medyanın Siyasi Katılıma Etkileri”, folklor/edebiyat2015/3, cilt:21, sayı:83, s. 75-98 Nida Sümeyya Çetin, “Medya Siyaset İlişkisinde Etik Çerçeve”, İnönü Üniversitesi İletişim Fakültesi Elektronik Dergisi cilt: 4 Sayı: 2, s.228 - 249 E. Özgür Gönenç, “Medyanın Kamuoyu Oluşturmadaki Etkisi”, İletişim Fakültesi Dergisi, 2002 (14), s. 151-158 Cengiz Anık, “Medya ve Demokrasi İlişkisinin Bağ ve Bağlantıları Üzerine Yeniden Düşünmek”, Türkiye İletişim Araştırmaları Dergisi • Yıl, 2018 • Özel Sayı, s. 129- s.138 Süleyman Güven, “Postmodern Siyaset ve Söylem: Siyasi Parti Lider Söylemleri Üzerine Bir Çalışma”, Gümüşhane Üniversitesi İletişim Fakültesi Elektronik Dergisi, 2015, Cilt: 3 Sayı: 1, S. 208 - 240 İsmail Dursunoğlu, “Sosyal Medya ve Siyasal Davranış İlişkisi”, Süleyman Demirel İlet"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Ders Tanıtımı ve Konulara Genel Giriş"
+   },
+   {
+    "n": 2,
+    "konu": "Medya, Siyaset ve Kamuoyu Kavramlarına Genel Bir Bakış"
+   },
+   {
+    "n": 3,
+    "konu": "Medyanın Siyaset Üzerindeki Etkisi"
+   },
+   {
+    "n": 4,
+    "konu": "Medya, Siyaset ve Etik"
+   },
+   {
+    "n": 5,
+    "konu": "Medyanın Kamuoyu Oluşumuna Etkisi"
+   },
+   {
+    "n": 6,
+    "konu": "Medya ve Demokrasi"
+   },
+   {
+    "n": 7,
+    "konu": "Siyasal İletişim ve Siyasi Partiler"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Medya ve Siyasal Davranış"
+   },
+   {
+    "n": 10,
+    "konu": "Küreselleşmenin Medya Üzerindeki Etkisi"
+   },
+   {
+    "n": 11,
+    "konu": "Internet ve E-demokrasi"
+   },
+   {
+    "n": 12,
+    "konu": "Sinema, TV dizileri ve siyaset"
+   },
+   {
+    "n": 13,
+    "konu": "Afiş analizi ve siyaset"
+   },
+   {
+    "n": 14,
+    "konu": "Günlük gazete ve siyaset"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "10.04.2025"
+ },
+ "KAM484": {
+  "amac": "Bu dersin amacı siyasi hayatı etkilen çıkar ve baskı gruplarını tanıyıp analiz etmektir.",
+  "icerik": "Çıkar ve Baskı Gruplarının Tanımlanması",
+  "outcomes": [
+   "Dersin sonunda öğrenciler siyasal sisteme etki eden baskı ve çıkar gruplarını analiz eder."
+  ],
+  "resources": [
+   "1) AKTAN, Coşkun Can, DİLEYİCİ, Dilek, Modern Politik İktisat Kamu Tercihi, Ankara, Seçkin Yayınları, 2007 2) HEYWOOD, Andrew, Siyaset , İstanbul, Adres yayınları, 2012"
+  ],
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dersin tanıtımı"
+   },
+   {
+    "n": 2,
+    "konu": "Çıkar ve Baskı Gruplarının Tanımlanması"
+   },
+   {
+    "n": 3,
+    "konu": "Ölçek açısından baskı grupları"
+   },
+   {
+    "n": 4,
+    "konu": "Ortak Menfaatlere ve Ortak Tutumlara Dayalı Çıkar Grupları"
+   },
+   {
+    "n": 5,
+    "konu": "Amaçları Bakımından Çıkar Grupları"
+   },
+   {
+    "n": 6,
+    "konu": "Kurumsal Çıkar Grupları"
+   },
+   {
+    "n": 7,
+    "konu": "Teşkilatlanma açısından çıkar grupları"
+   },
+   {
+    "n": 8,
+    "konu": "ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Kitle Çıkar grupları"
+   },
+   {
+    "n": 10,
+    "konu": "kadro çıkar grupları"
+   },
+   {
+    "n": 12,
+    "konu": "Çıkar grupları tipolojisi"
+   },
+   {
+    "n": 13,
+    "konu": "Türkiye siyasetini etkileyen baskı grupları"
+   },
+   {
+    "n": 14,
+    "konu": "Türk dış politikasını etkileyen çıkar ve baskı grupları"
+   },
+   {
+    "n": 15,
+    "konu": "Değerlendirme"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "MAT111": {
+  "amac": "Küme, fonksiyonlar, limit, süreklilik ve türev ifadelerinin tanımlarını ve uygulamalarını kavratmak.",
+  "icerik": "Kümeler; Sayılar; Denklemler ve Eşitsizlikler; Fonksiyonlar; Doğrusal Fonksiyonlar; İkinci Dereceden Fonksiyonlar; Rasyonel, Cebirsel ve Parçalı Fonksiyonlar; Üstel ve Logaritmik Fonksiyonlar; Limit ve Süreklilik;",
+  "outcomes": [
+   "Temel matematik bilgisine sahiptir",
+   "Problemlere analitik çözümler üretir",
+   "Öğrendiği bilgileri kendi alanında kullanabilir"
+  ],
+  "resources": [
+   "GENEL MATEMATİK TC. ANADOLU ÜNİVERSiTESi YAYINI NO: 1286 AÇIKÖĞRETİM FAKÜLTESİ YAYINI NO: 708 Yazarlar : Prof.Dr. Yalçın KÜÇÜK Doç.Dr. Mehmet ÜREYEN Ö¤r.Gör.Dr. Nevin ORHUN Prof.Dr. Musa ŞENEL Prof.Dr. Orhan ÖZER Doç.Dr. Hüseyin AZCAN ISBN : 975 - 06 - 0031 - 2"
+  ],
+  "assessment": {
+   "vize": 40,
+   "final": 60
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Kümeler: Tanımlar, kümelerle yapılan işlemler."
+   },
+   {
+    "n": 2,
+    "konu": "Sayılar: Gerçel sayılar, üslü ve köklü çokluklar, aralıklar, mutlak değer"
+   },
+   {
+    "n": 3,
+    "konu": "Özdeşlikler: Denklemler ve eşitsizlikler, özdeşlikler ve binom açılımı, denklemler, yüksek dereceden bazı denklemler, eşitsizlikler"
+   },
+   {
+    "n": 4,
+    "konu": "Fonksiyonlar: Bağıntı, fonksiyon, fonksiyonla yapılan işlemler"
+   },
+   {
+    "n": 5,
+    "konu": "Doğrusal fonksiyonlar: Doğrusal fonksiyonların grafikleri ve doğru denklemi"
+   },
+   {
+    "n": 6,
+    "konu": "İkinci dereceden fonksiyonlar, Rasyonel, ters ve parçalı fonksiyonlar"
+   },
+   {
+    "n": 7,
+    "konu": "Limit ve limitin Özellikleri"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Tek Yönlü Limitler, Süreklilik, Sürekli Fonksiyonların Özellikleri"
+   },
+   {
+    "n": 10,
+    "konu": "Türev"
+   },
+   {
+    "n": 11,
+    "konu": "Türev alma kuralları"
+   },
+   {
+    "n": 12,
+    "konu": "Türevin uygulamaları"
+   },
+   {
+    "n": 13,
+    "konu": "Grafik çizimi"
+   },
+   {
+    "n": 14,
+    "konu": "Üstel ve logaritmik fonksiyonlar"
+   }
+  ],
+  "updated": "28.03.2025"
+ },
+ "ZAI101": {
+  "amac": "Türkiye Cumhuriyeti Devleti’nin Osmanlı İmparatorluğu'nun yıkılmasından sonra laik ve üniter yapıda ulus-devlet olarak kuruluşunu, bu kuruluş esasına göre biçimlenen çağdaşlaşma tecrübesinin tarihini; Türkiye Cumhuriyeti Devleti’nin kurucusu Mustafa Kemal Atatürk'ün önderliğinde gerçekleştirilen Türk İnkılabının, ulus-devlet ve çağdaşlık ve laiklik olgularının Türkiye bağlamında ifadesi ve anlamına karşılık gelen Atatürkçü Düşünceyi genç nesillere öğretmek ve bunun değerini idrak ettirmektir.",
+  "icerik": "Türkiye Cumhuriyeti’nin kuruluşuna paralel olarak Türk toplumunu çağdaş ulus-devletler seviyesinde değerlendirip, ulus devleti tanımlayan değerler sistemi içinde Türk İnkılabı tecrübesini, modern Türk ulus devletinin, devlet ve toplumsal yeniden yapılanması çerçevesinde ele alınıp bütüncül olarak Türk siyasî ve toplumsal sisteminin değişmesinin aşamaları,",
+  "outcomes": [
+   "Tarihî bilginin, bir konu/sorun ve zaman kesiti, olay-olgular, vs. etrafında çözümlenmesi, bu tarihî olay-olgunun yazım ve anlatı biçimleri, dolayısıyla çeşitli materyallerin; tarihî kesitle-olay-olgu- üzerine kaynakların, literatürün (kitaplar, makaleler, sinema ve edebiyat ürünleri) bu bilginin çözümlenmesinde bakış açısını destekleme gücünü kazanır.",
+   "Bir tarihsel sorunu ele alan ve irdeleyen makalenin nasıl okunması, yorumlanması gerektiğini öğrenir.",
+   "Bir tarihi sorunu bugünle ilişkilendirerek, güncel sorunlarla (farazî) ilişkisini kurarak araştırır.",
+   "Tarihî bir problem üzerine sunum hazırlamayı öğrenir.",
+   "Farklı bakış açılarını ve görüşleri eleştirel olarak değerlendirme yetisini kazanır, kendi bakış açısına ve ileri sürdüğü düşünceler ve görüşlerine yönelik ortaya çıkan sorulara, tarihsel dayanaklarla düşünerek analiz edip cevap verebilme deneyimini, bir problem üzerine düşüncesini rasyonel ve doğru ifade edebilme ve aktarabilme bilgi ve deneyimini kazanır, soyutlama yapabilmeyi öğrenir."
+  ],
+  "resources": [
+   "KILINÇKAYA Derviş (ed), Atatürk ve Türkiye Cum.Tarihi, Siyasal Kitabevi, Ankara, 2004. AHMAD Feroz, Modern Türkiye’nin Oluşumu, İstanbul, 1995. Atatürk’ün Söylev ve Demeçleri, 3 cilt, Ankara, 1981. Atatürk’ün Tamim Telgraf ve Beyannameleri, 4 cilt, Ankara, 1964. BAYUR Yusuf Hikmet, Türk İnkılâp Tarihi, 10 cilt, Ankara, 1991. BERKES Niyazi, Türkiye’de Çağdaşlaşma, Ankara, 1978. KARPAT Kemal, H., Türk Demokrasi Tarihi, İstanbul, 1967. LEWIS Bernard, Modern Türkiye’nin Doğuşu, Ankara, II. Baskı, 1984. MUMCU Ahmet, Tarih Açısından Türk Devriminin temelleri ve Gelişimi, Ankara, 1974. SAFA, Peyami, Türk İnkılabına Bakışlar, İstanbul, 1988. Türkiye Cumhuriyeti Tarihi, I-II, Atatürk Araştırma Merkezi, Ankara, 2006. ZÜRCHER, E. J., Modernleşen Türkiye’nin Tarihi, İstanbul, 1999.",
+   "Atatürk, GMK, Nutuk, Ankara 1938"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Ders İşlenirken İhtiyaç Duyulması Muhtemel Kavramlar (Millet, Devlet, Islahat, Tanzimat, Reform, (İnkılâp, İhtilâl, Tekâmül, Batılılaşma, Muasırlaşma, Modernleşme vs. )."
+   },
+   {
+    "n": 2,
+    "konu": "XX. Yüzyıl Başlarında Dünya (Osmanlı Barışından Avrupa Sömürgeciliğine)- Coğrafî Keşifler, Reform ve Rönesans Hareketleri, Sanayi İnkılâbı, Fransız İhtilâli"
+   },
+   {
+    "n": 3,
+    "konu": "Osmanlı Devlet-Toplum Yapısı, Bozulması ve Islahat Hareketleri (Lale Devri- Sened-i İttifak-Tanzimat ve Islahat Fermanları)"
+   },
+   {
+    "n": 4,
+    "konu": "I.ve II. Meşrutiyetin İlanı ve İttihat ve Terakki Cemiyeti/Fırkası"
+   },
+   {
+    "n": 5,
+    "konu": "XIX. Yüzyılın Sonu ve XX. Yüzyılın Başlarında Osmanlı Devleti’ni Kurtarmak İçin İleri Sürülen Fikir Akımları (Osmanlıcılık, İslâmcılık, Türkçülük, Batıcılık vs.)"
+   },
+   {
+    "n": 6,
+    "konu": "Trablusgarp ve Balkan Savaşları"
+   },
+   {
+    "n": 7,
+    "konu": "I. Dünya Savaşı Öncesi Avrupa- Savaşın Genel ve Özel Sebepleri-İtilaf ve İttifak Gruplarının Oluşması- Osmanlı Devleti’nin Durumu"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Osmanlı Devleti’nin, Almanya’nın Yanında Savaşa Girmesinin Sebepleri ve Dâhil Olduğu Cepheler"
+   },
+   {
+    "n": 10,
+    "konu": "I. Dünya Savaşı’nda Ermeni Meselesi-I. Dünya Savaşı Sonunda İmzalanan Mütareke ve Antlaşmalar"
+   },
+   {
+    "n": 11,
+    "konu": "Mondros Mütarekesine Tepkiler-Kuva-yı Milliye-İzmir’in İşgali ve Mustafa Kemal Paşa’nın Samsun’a Çıkışı"
+   },
+   {
+    "n": 12,
+    "konu": "Kongreler Dönemi (Amasya Tamimi-Erzurum Kongresi-Sivas Kongresi)"
+   },
+   {
+    "n": 13,
+    "konu": "Amasya Mülakatı ve Son Osmanlı Mebuslar Meclisi ve Misâk-ı Millî’nin Kabulü"
+   },
+   {
+    "n": 14,
+    "konu": "İstanbul’un Resmî İşgali ve TBMM’nin Açılması ve Özellikleri"
+   },
+   {
+    "n": 15,
+    "konu": "Genel Değerlendirme"
+   }
+  ],
+  "updated": "15.04.2025"
+ },
+ "ZAI102": {
+  "amac": "Atatürk İlkeleri ve İnkılâp Tarihi Dersinin amacı öğrencilere Türkiye Cumhuriyeti’nin hangi koşullarda nasıl kurulduğunu anlatarak, devletin temelini oluşturan Atatürk İlkelerini benimsetmek, Atatürk’ün asker kişiliği kadar, büyük devlet adamı, inkılâpçı kişiliği ve önderliğini, ırkçılığı reddeden milliyetçilik anlayışını, uluslararası barışın kurulması hususundaki çabalarını anlatmaktadır. Türkiye Cumhuriyeti Devleti’nin kurucusu Mustafa Kemal Atatürk'ün önderliğinde gerçekleştirilen Türk İnkılabı'nın, ulus-devlet ve çağdaşlık ve laiklik olgularının Türkiye bağlamında ifadesi ve anlamına karşılık gelen Atatürkçü Düşünce'yi genç nesillere öğretmek ve bunun değerini idrak ettirmektir.",
+  "icerik": "Siyasi alanda yapılan inkılâplar: Hilafetin kaldırılması, Cumhuriyetin ilanı. Yeni devletin kurulma/inşa edilme adımlarının atılması; Atatürk döneminde kurulan siyasi partiler ve siyasal olaylar. Cumhuriyet Halk Fırkası, Terakkiperver Cumhuriyet Fırkası, Serbest Cumhuriyet Fırka. Hükümet ve muhalefet arasındaki ilişkiler. Siyasal ve toplumsal hayatın demokratikleşmesi ve Türkiye’de çok partili sisteme geçişin sorunları; Hukuk alanında yapılan inkılâplar. Sosyal ve ekonomik hayatı düzenleyen inkılapların gerçekleştirilmesi; Eğitim alanında yapılan inkılâplar. Modern ve laik eğitim kurumlarının inşası; Kültür alanında yapılan inkılâplar. Ulus-devletin kuruluşu ve ulusal kültür arasındaki ilişki; Ekonomi alanında yapılan inkılâplar. Ulus-devletin kuruluşu ekseninden ekonominin yeniden düzenlenmesi. Yeni Türkiye ekonomisinin stratejileri ve uygulamaları; Atatürk Dönemi Türk Dış Politikası I (1923-1930). Lozan Antlaşması (1923) ardından Türkiye’nin Avrupa devletleriyle olan ilişkileri; Atatürk Dönemi Türk Dış Politikası II (1930-1938). Türkiye’nin Kıta Avrupası’ndaki totaliter rejimlerle ilişkili olarak Avrupa devletleriyle ilişkileri. Sovyetler Birliği ve ABD ile olan ilişkiler. Dış siyasetin sosyal ve entelektüel yaşama yansımaları; Atatürk İlkeleri- Cumhuriyetçilik, Milliyetçilik, Laiklik; Atatürk İlkeleri - Halkçılık, Devletçilik, İnkılapçılık ve Bütünleyici İlkeler; Atatürk sonrası Türk Dış Politikası (1938-1960). İsmet İnönü’nün Cumhurbaşkanlığı. II. Dünya Savaşı ve Türkiye: Türk dış politikası, savaşın siyasal hayata ve toplumsal yaşama etkileri; II. Dünya Savaşı sonrası Türk siyasal hayatındaki değişimin özellikleri: Çok partili sistemin kurulması. Türkiye'de 1946 Seçimleri. Hükümet ile muhalefet arasındaki ilişki, Demokrat Parti'nin kuruluşu; İktidardaki Demokrat Parti (1950-1960): 1960-1980 Arası Türk Siyasi Hayatı ve 12 Eylül 1980 Hükümet Darbesi ve sonrası Türk iç ve dış politikalarına yansımaları.",
+  "outcomes": [
+   "Kurtuluş Savaşının son yıllarında yer alan olayları, zaferle birlikte gelişen olayları ilişkilendirecektir.",
+   "Kurtuluş Savaşında Batı Cephesi savaşlarını aktarır.",
+   "Zaferin kazanılmasını açıklar.",
+   "Cumhuriyetin ilanını açıklar.",
+   "Cumhuriyet ve Atatürk İnkılaplarını değerlendirecektir.",
+   "Cumhuriyetle birlikte başlayan halifeliğin kaldırılması, 1924 anayasası gibi olayları irdeler",
+   "Atatürk inkılaplarını tartışır.",
+   "Çok partili hayata geçiş çalışmalarını irdeler.",
+   "Atatürk dönemi ve sonrası gelişen olayları değerlendirecektir.",
+   "Atatürk’ün dış politikasını açılar.",
+   "Atatürk sonrası hayatı ve 2. Dünya Savaşını yorumlar.",
+   "Musul, Hatay ve boğazlar konusu gibi stratejik konuları sorgular"
+  ],
+  "resources": [
+   "Türkiye Cumhuriyeti Tarihi-I, II, (Editör: Durmuş Yalçın) Atatürk Araştırma Merkezi Yayınları, Ankara 2019. AHMAD Feroz, Modern Türkiye’nin Oluşumu, İstanbul, 1995. ARMAOĞLU, Fahir, 20. Yüzyıl Siyasi Tarihi, cilt. I-II:1914-1995, İstanbul, 2005 Atatürk, Gazi Mustafa Kemal, Nutuk, cilt: I-III, İstanbul, 1973 Atatürk’ün Söylev ve Demeçleri, 3 cilt, Ankara, 1981. Atatürk’ün Tamim Telgraf ve Beyannameleri, 4 cilt, Ankara, 1964. BAYUR Yusuf Hikmet, Türk İnkılâp Tarihi, 10 cilt, Ankara, 1991. BERKES Niyazi, Türkiye’de Çağdaşlaşma, Ankara, 1978. EROĞLU Hamza, Türk İnkılâp Tarihi, İstanbul: Milli Eğitim Basımevi, 1982 KARPAT Kemal, H., Türk Demokrasi Tarihi, İstanbul, 1967. LEWIS Bernard, Modern Türkiye’nin Doğuşu, Ankara, II. Baskı, 1984. KİNROSS, Lord, Atatürk, Bir Milletin Yeniden Doğuşu, İstanbul, 1988. KARABEKİR, Kazım, İstiklâl Harbimiz, İstanbul, 1988. MUMCU Ahmet, Tarih Açısından Türk Devriminin temelleri ve Gelişimi, Ankara, 1974. SAFA, Peyami, Türk İnkılabına Bakışlar, İstanbul, 1988",
+   "Atatürk, Nutuk, G.M.K., Ankara 1938"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Sevr Antlaşması ve Etkileri, TBMM’ne Yönelik İsyanların Bastırılması ve Mustafa Kemal Paşa"
+   },
+   {
+    "n": 2,
+    "konu": "Türk İstiklâl Savaşında:"
+   },
+   {
+    "n": 3,
+    "konu": "Kütahya-Eskişehir Muharebeleri ve Sonuçları Sakarya Meydan Muharebesi ve Sonuçları"
+   },
+   {
+    "n": 4,
+    "konu": "Başkomutan Gazi Mustafa Kemal Paşa ile Gelen Yeni Zafer: Başkomutanlık Meydan Muharebesi ve İzmir’in Kurtuluşu- Mudanya Mütarekesi-İzmir İktisat Kongresi"
+   },
+   {
+    "n": 5,
+    "konu": "Lozan Barış Antlaşması"
+   },
+   {
+    "n": 6,
+    "konu": "Siyasal Alanda Yapılan İnkılâplar (Saltanatın Kaldırılması-Cumhuriyetin İlanı-Halifeliğin Kaldırılması)"
+   },
+   {
+    "n": 7,
+    "konu": "Cumhuriyet Halk Fırkasının Kuruluşu-Çok Partili Hayata Geçiş Süreci ve Yaşanan Olaylar"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Hukuk Alanında Yapılan İnkılâplar ve Anayasa Değişiklikleri-Sosyal Alanda Yapılan İnkılâplar ve Ekonomik Alanda Yapılan Reformlar"
+   },
+   {
+    "n": 10,
+    "konu": "Atatürk Dönemi Türk Dış Politikası"
+   },
+   {
+    "n": 11,
+    "konu": "Atatürkçülük ve Atatürk İlkeleri (Devletçilik, Milliyetçilik, İnkılâpçılık, Cumhuriyetçilik, Laiklik)"
+   },
+   {
+    "n": 12,
+    "konu": "Millî Şef İsmet Paşa Dönemi ve II.Dünya Savaşı Sürecinde Türkiye"
+   },
+   {
+    "n": 13,
+    "konu": "Çok Partili Hayata Geçilmesi ve Demokrat Parti [Adnan Menderes] Dönemi 27 Mayıs 1960 Hükümet Darbesi"
+   },
+   {
+    "n": 14,
+    "konu": "1960-1980 Arası Türk Siyasi Hayatı ve 12 Eylül 1980 Hükümet Darbesi"
+   },
+   {
+    "n": 15,
+    "konu": "1980 Sonrası Türkiye ve Genel Değerlendirme."
+   }
+  ],
+  "updated": "15.04.2025"
+ },
+ "ZTD101": {
+  "amac": "Yükseköğrenimini tamamlayacak olan her gence, ana dilinin yapı ve işleyiş özelliklerini gereğince kavratabilmek; dil-düşünce bağlantısı açısından, yazılı ve sözlü anlatım aracı olarak, Türkçeyi doğru ve güzel kullanabilme yeteneği kazandırabilmek; öğretimde birleştirici ve etkin kılmak, ana dili şuuruna sahip gençler yetiştirmek.",
+  "icerik": "Dil Nedir?Dil-Millet İlişkisi",
+  "outcomes": [
+   "Türkçenin şekil yapısını bilir, imlâ-noktalama işaretlerini yerinde Dersin Öğrenme Çıktıları kullanır Kitap okuma alışkanlığını kazanır, günlük gazete ve diğer süreli yayınları takip eder Çevresindeki dil kirliliğine yol açan kelimelerin dil üzerindeki etkilerini hesaplayabilir Türkçeyi doğru, güzel ve başarılı bir üslupla konuşur, kendini ifade edebilme yeteneği sahip olur Topluluk önünde sunum yapabilme becerisine sahip olur, bilgi ve düşüncelerini başkalarının anlayabileceği düzeyde ifade edebilir, etkili iletişimi kullanabilir. Edebî ve bilimsel metinleri inceleyip not çıkarma becerisi kazanır Sözlük ve yazım kılavuzu kullanma alışkanlığına sahip olur Dünya dilleri içerisinde Türk dilinin büyüklüğü ve bilim dili olarak kullanılması noktasında yeterli bilgi ve anlayışa sahip olur."
+  ],
+  "resources": [
+   "Beyaz, A., Türk Dili Dizin I.Cilt Ankara Üniversitesi Basımevi, Ankara,1961. Türk D Beyaz, A., Türk Dili Dizin I.Cilt Ankara ÜniversitesiBasımevi, Ankara, 1961.Türk Dil Kurumu Yayınları, Türk Dil Kurumu, Ankara ÜniversitesiBasımevi, Ankara,1963-2000. İmla Kılavuzu, Türk Dil Kurumu,Ankara.Anlatım, gösteri, soru-cevap, kütüphane araştırması veödevler.il Kurumu Yayınları, Türk Dil Kurumu, Ankara ÜniversitesiBasımevi, Ankara,1963-2000. İmla Kılavuzu, Türk Dil Kurumu,Ankara.",
+   "Beyaz, A., Türk Dili Dizin I.Cilt Ankara Üniversitesi Basımevi, Ankara, 1961. Türk Dil Kurumu Yayınları, Türk Dil Kurumu, Ankara Üniversitesi Basımevi, Ankara,1963-2000. İmla Kılavuzu, Türk Dil Kurumu, Ankara."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "updated": "12.04.2025"
+ },
+ "ZTD102": {
+  "amac": "Yükseköğrenimini tamamlayacak olan her gence, ana dilinin yapı ve işleyiş özelliklerini gereğince kavratabilmek; dil-düşünce bağlantısı açısından, yazılı ve sözlü anlatım aracı olarak, Türkçeyi doğru ve güzel",
+  "icerik": "Türk dili, Türk edebiyatı",
+  "outcomes": [
+   "Türkçenin şekil yapısını bilir, imlâ-noktalama işaretlerini yerinde kullanır.",
+   "Kitap okuma alışkanlığını kazanır, günlük gazete ve diğer süreli yayınları takip eder",
+   "Çevresindeki dil kirliliğine yol açan kelimelerin dil üzerindeki etkilerini hesaplayabilir",
+   "Türkçeyi doğru, güzel ve başarılı bir üslupla konuşur, kendini ifade edebilme yeteneğine sahip olur.",
+   "Topluluk önünde sunum yapabilme becerisine sahip olur, bilgi ve düşüncelerini başkalarının anlayabileceği düzeyde ifade edebilir, etkili iletişimi kullanabilir. Edebî ve bilimsel metinleri inceleyip not çıkarma becerisi kazanır",
+   "Sözlük ve yazım kılavuzu kullanma alışkanlığına sahip olur",
+   "Dünya dilleri içerisinde Türk dilinin büyüklüğü ve bilim dili olarak kullanılması noktasında yeterli bilgi ve anlayışa sahip olur."
+  ],
+  "resources": [
+   "Üniversiteler İçin Türk Dili Kitabı, Edt. Haluk Harun Duman, Duyap Yayınları, İstanbul 2007",
+   "Üniversiteler İçin Türk Dili ve Kompozisyon Bilgileri – Zeynep Korkmaz. Üniversiteler İçin Türk Dili Yazılı ve Sözlü Anlatım - Editör Rıdvan Canım"
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "İşlevsel yazılar: dilekçe, tutanak"
+   },
+   {
+    "n": 2,
+    "konu": "Rapor, öz geçmiş, iş mektubu"
+   },
+   {
+    "n": 3,
+    "konu": "Öğretici yazılar: makale, deneme, eleştiri, köşe yazısı"
+   },
+   {
+    "n": 4,
+    "konu": "Sohbet, gezi yazısı, anı, günlük, biyografi"
+   },
+   {
+    "n": 5,
+    "konu": "Sanatsal yazılar: roman, hikaye"
+   },
+   {
+    "n": 6,
+    "konu": "Şiir, tiyatro"
+   },
+   {
+    "n": 7,
+    "konu": "Sözlü anlatım türleri: konferans, iş görüşmesi"
+   },
+   {
+    "n": 8,
+    "konu": "Ara Sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Münazara, sempozyum"
+   },
+   {
+    "n": 10,
+    "konu": "Panel, forum"
+   },
+   {
+    "n": 11,
+    "konu": "Halk edebiyatı sözlü anlatım türleri: destan, masal"
+   },
+   {
+    "n": 12,
+    "konu": "Efsane, atasözü, deyim"
+   },
+   {
+    "n": 13,
+    "konu": "Sunum ve sunum teknikleri"
+   },
+   {
+    "n": 14,
+    "konu": "Bilimsel araştırma ve kaynak gösterme"
+   },
+   {
+    "n": 15,
+    "konu": "Konu tekrarı"
+   }
+  ],
+  "updated": "02.04.2025"
+ },
+ "ZYD101": {
+  "amac": "Öğrencilerin İngilizce dilinde okuduğunu anlama, dinleme, konuşma ve yazma becerilerini A1/A2 düzeyine getirmek",
+  "icerik": "A1/A2 düzeyinde dilbilgisi, okuma, dinleme, konuşma ve yazma etkinlikleri ve ilgili konu anlatımları",
+  "outcomes": [
+   "Öğrendiği sözcükler ve basit tümcelerle, yavaş ve anlaşılır bir biçimde konuşulduğunda, somut konularla ilgili söylenenleri anlayabilir.",
+   "A1/A2 seviyesinde metinleri okuyup anlayabilir.",
+   "Günlük yaşamdaki ihtiyaçlarını giderebilecek düzeyde konuşabilir.",
+   "A1/ A2 seviyesindeki konuları, duygu ve düşüncelerini yazılı olarak ifade edebilir.",
+   "A1/A2 seviyesinde öğrendiği dilbilgisi kalıplarını kullanarak tümceler kurabilir."
+  ],
+  "resources": [
+   "Soars, L., Soars, J., & Hancock, p. (2019). 5th Edition Headway Elementary Workbook. Oxford University Press.",
+   "Soars, L., Soars, J., & Hancock, p. (2019). 5th Edition Headway Elementary Student's Book. Oxford University Press."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dilbilgisi (fiiller: olmak, sahip olmak, gitmek, yaşamak, sevmek; iyelik sıfatları), kelime bilgisi (zıt sıfatlar, aile ile ilgili sözcükler)"
+   },
+   {
+    "n": 2,
+    "konu": "Okuma (Bir Öğrencinin Çevrimiçi Günlüğü), dinleme (Maria Nerede?), konuşma (günlük konuşmalar), yazma (çevrimiçi günlük yazma)"
+   },
+   {
+    "n": 3,
+    "konu": "Dilbilgisi (geniş zaman), kelime bilgisi (zıt sözcükler: erken/geç, vs.; meslekler: mimar, dişçi, vs.)"
+   },
+   {
+    "n": 4,
+    "konu": "Okuma (Ayrı Dünyalar), dinleme (Meslekleri Tanıtmak), konuşma (aile ve meslekler hakkında konuşmak, saati söylemek), yazma (zamirler kullanarak üslubu geliştirmek)"
+   },
+   {
+    "n": 5,
+    "konu": "Dilbilgisi (geniş zaman), kelime bilgisi (mevsimler ve aylar, boş zaman aktiviteleri: koşmak, bisiklete binmek, yemek pişirmek, vs.)"
+   },
+   {
+    "n": 6,
+    "konu": "Okuma (Yoğun Geçen Hafta Sonları), dinleme (İş-Hayat Dengeniz), konuşma (sosyal ifadeler), yazma (başvuru formunu doldurmak)"
+   },
+   {
+    "n": 7,
+    "konu": "Dilbilgisi (var/yok, biraz/hiç/birçok, bu/şu/bunlar/şunlar), kelime bilgisi (konum bildiren edatlar, sıfatlar)"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Okuma (Parlamentonun İçi), dinleme (Çantanda Ne Var?), konuşma (sayılar ve fiyatlar), yazma (bağlaçlar)"
+   },
+   {
+    "n": 10,
+    "konu": "Dilbilgisi (yapabilmek/yapamamak, geçmiş zamanda olmak ve yapabilmek), kelime bilgisi (isim tamlamaları, fiilerden sonra gelen isimler, konum bildiren edatlar)"
+   },
+   {
+    "n": 11,
+    "konu": "Okuma (Yetenekli Bir Aile), dinleme (Büyük Yetenekler), konuşma (nazikçe ricada bulunmak), yazma (iş başvurusu için formal bir eposta yazmak)"
+   },
+   {
+    "n": 12,
+    "konu": "Dilbilgisi (Basit geçmiş zaman), kelime bilgisi (duygulardan bahsetmek)"
+   },
+   {
+    "n": 13,
+    "konu": "Okuma (Hayatın Anlamı), dinleme (Doğduğum Yıl), konuşma (tarihi söylemek), yazma (biyografi yazmak ve bağlaçlar)"
+   },
+   {
+    "n": 14,
+    "konu": "Genel tekrar"
+   },
+   {
+    "n": 15,
+    "konu": "Final sınavı"
+   }
+  ],
+  "updated": "13.04.2025"
+ },
+ "ZYD102": {
+  "amac": "Öğrencilerin İngilizce dilinde okuduğunu anlama, dinleme, konuşma ve yazma becerilerini A1/A2 düzeyine getirmek",
+  "icerik": "A1/A2 düzeyinde dilbilgisi, okuma, dinleme, konuşma ve yazma etkinlikleri ve ilgili konu anlatımları",
+  "outcomes": [
+   "Öğrendiği sözcükler ve basit tümcelerle, yavaş ve anlaşılır bir biçimde konuşulduğunda, somut konularla ilgili söylenenleri anlayabilir.",
+   "A1/A2 seviyesinde metinleri okuyup anlayabilir.",
+   "Günlük yaşamdaki ihtiyaçlarını giderebilecek düzeyde konuşabilir.",
+   "A1/ A2 seviyesindeki konuları, duygu ve düşüncelerini yazılı olarak ifade edebilir.",
+   "A1/A2 seviyesinde öğrendiği dilbilgisi kalıplarını kullanarak tümceler kurabilir."
+  ],
+  "resources": [
+   "Soars, L., Soars, J., & Hancock, p. (2019). 5th Edition Headway Elementary Workbook. Oxford University Press.",
+   "Soars, L., Soars, J., & Hancock, p. (2019). 5th Edition Headway Elementary Student's Book. Oxford University Press."
+  ],
+  "assessment": {
+   "vize": 30,
+   "final": 70
+  },
+  "weeks": [
+   {
+    "n": 1,
+    "konu": "Dilbilgisi (basit geçmiş zaman), kelime bilgisi (konum bildiren sözcükler, zarflar)"
+   },
+   {
+    "n": 2,
+    "konu": "Okuma (Hedy Lamarr ve Rosalind Franklin), dinleme (Eski günler), konuşma (özel günler), yazma (zaman ifadelerini kullanma)"
+   },
+   {
+    "n": 3,
+    "konu": "Dilbilgisi (sayılabilen ve sayılamayan isimler), kelime bilgisi (yiyecek ve içecekler, günlük gereksinimler)"
+   },
+   {
+    "n": 4,
+    "konu": "Okuma (Hepimiz Dondurma Severiz!), dinleme (Unutulmaz Bir Yemek!), konuşma (alışveriş yapma), yazma (formal ve informal epostalar)"
+   },
+   {
+    "n": 5,
+    "konu": "Dilbilgisi (Karşılaştırma sıfatları), kelime bilgisi (şehir merkezi, kırsal yerler, hareketle ilgili konum bildiren edatlar)"
+   },
+   {
+    "n": 6,
+    "konu": "Okuma (Yükseklerde Yaşamak), dinleme (Londra’da Bir Amerikalı, Sherford’da Dolaşmak), konuşma (yönler), yazma (bir yeri betimleme)"
+   },
+   {
+    "n": 7,
+    "konu": "Dilbilgisi (şimdiki zaman), kelime bilgisi (insanları betimleme)"
+   },
+   {
+    "n": 8,
+    "konu": "Ara sınav"
+   },
+   {
+    "n": 9,
+    "konu": "Okuma (Dünyada Bir Dakika), dinleme (Şu Anda Dünyada Neler Oluyor?), konuşma (günlük olaylar), yazma (karşılaştırma)"
+   },
+   {
+    "n": 10,
+    "konu": "Dilbilgisi (gelecek zaman), kelime bilgisi (yerler ve etkinlikler, hava durumu)"
+   },
+   {
+    "n": 11,
+    "konu": "Okuma (İnsan Kuleleri), dinleme (Neden Oraya Gidiyorum? Ve Hava Nasıl Olacak?), konuşma (önerilerde bulunma), yazma (tatilden bahsetme)"
+   },
+   {
+    "n": 12,
+    "konu": "Dilbilgisi (yakın geçmiş zaman), kelime bilgisi (ulaşım ve seyahat)"
+   },
+   {
+    "n": 13,
+    "konu": "Okuma (Modern ve Antik Kaşifler), dinleme (Kim?), konuşma (ulaşım ve seyahat), yazma (doğru sözcüğü seçme)"
+   },
+   {
+    "n": 14,
+    "konu": "Genel tekrar"
+   },
+   {
+    "n": 15,
+    "konu": "Final sınavı"
+   }
+  ],
+  "updated": "13.04.2025"
+ }
+}
