@@ -1,0 +1,69 @@
+[
+  {
+    "v": "v1.10.0",
+    "tarih": "2026-09-24",
+    "baslik": "Word'e aktarma, sürüm geçmişi ve NotebookLM metin çevirisinde iyileştirme",
+    "maddeler": [
+      "Konu sayfasındaki indirme düğmesi ikiye ayrıldı: Word (.docx) ve .md",
+      "Word belgesinde başlıklar gezinme bölmesinde görünüyor, tablolar gerçek tablo oluyor",
+      "Hesap sayfasına sürüm geçmişi eklendi: her güncellemede ne değiştiği madde madde yazıyor",
+      "NotebookLM'e giden metinde formüller daha doğru düz yazıya çevriliyor, kod olduğu gibi kalıyor"
+    ]
+  },
+  {
+    "v": "v1.9.1",
+    "tarih": "2026-09-24",
+    "baslik": "NotebookLM'e geçiş tek dokunuşa indi",
+    "maddeler": [
+      "\"Kopyala ve NotebookLM'i aç\" düğmesi metni panoya alır, aynı dokunuşta NotebookLM'i açar",
+      "Her derse defter bağlantısı kaydedilebiliyor; sonraki haftalar doğrudan o deftere gidiyor"
+    ]
+  },
+  {
+    "v": "v1.9.0",
+    "tarih": "2026-09-24",
+    "baslik": "NotebookLM'e aktarma: haftayı sesli anlattırma",
+    "maddeler": [
+      "Haftanın tamamı (anlatım, kartlar, sorular ve gerekçeleri) tek dokunuşla panoya kopyalanıyor",
+      "Dosya olarak indirme ve hazır yönerge düğmeleri de konu sayfasında",
+      "Bu araç eskiden yalnızca bilgisayardaydı; artık telefondan da kullanılabiliyor"
+    ]
+  },
+  {
+    "v": "v1.8.2",
+    "tarih": "2026-09-24",
+    "baslik": "Formüllerdeki bozuk metin onarıldı",
+    "maddeler": [
+      "Birkaç formül \"ext{...}\" gibi görünüyordu; tam onarıldı ve tarayıcıda doğrulandı"
+    ]
+  },
+  {
+    "v": "v1.8.1",
+    "tarih": "2026-09-24",
+    "baslik": "Formül düzeltmeleri yayına alındı",
+    "maddeler": [
+      "Ders içeriğindeki bozuk formül yazımları toplu olarak düzeltildi"
+    ]
+  },
+  {
+    "v": "v1.8.0",
+    "tarih": "2026-09-24",
+    "baslik": "Konulara dosya ekleme",
+    "maddeler": [
+      "PDF, Word, Excel ve fotoğraf eklenebiliyor (tek dosya en çok 25 MB)",
+      "Fotoğraflarda önizleme; PDF tarayıcıda, Word/Excel cihazın uygulamasında açılıyor",
+      "Dosyalar yalnızca o cihazda duruyor, yedeğe ve buluta girmiyor"
+    ]
+  },
+  {
+    "v": "v1.7.0",
+    "tarih": "2026-09-23",
+    "baslik": "İlk sürüm — qievly.online yayında",
+    "maddeler": [
+      "86 dersin tamamı: 1204 konu, 14 binden fazla soru, 11 binden fazla kart",
+      "Çevrimdışı çalışma, aralıklı tekrar, deneme sınavı, ders programı ve not takibi",
+      "Not sistemi Trakya Üniversitesi yönetmeliğine göre; ortalama AKTS ağırlıklı",
+      "Telefona uygulama gibi kurulabiliyor, internet olmadan da açılıyor"
+    ]
+  }
+]

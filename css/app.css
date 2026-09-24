@@ -787,3 +787,23 @@ textarea.ans-input.code { font-family: var(--fm); font-size: 13.5px; }
 .file-meta { min-width: 0; display: flex; flex-direction: column; }
 .file-meta b { font-size: 13.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .file-meta small { font-size: 11.5px; color: var(--txt-3); }
+
+/* ---------- sürüm geçmişi (Hesap → Uygulama sürümü) ---------- */
+.changelog { margin-top: 18px; border-top: 1px solid var(--line-soft); padding-top: 14px; }
+.cl-h { font-size: 14px; margin: 0 0 10px; }
+.cl-item { margin-bottom: 14px; }
+.cl-item:last-child { margin-bottom: 0; }
+.cl-head { display: flex; align-items: baseline; gap: 8px; }
+.cl-head b { font-family: var(--fm); font-size: 12.5px; color: var(--acc); }
+.cl-title { font-size: 13.5px; font-weight: 600; margin-top: 2px; }
+.cl-list { margin: 5px 0 0; padding-left: 18px; }
+.cl-list li { font-size: 13px; color: var(--txt-2); margin-bottom: 3px; line-height: 1.45; }
+.cl-more { margin-top: 12px; }
+.cl-more > summary {
+  cursor: pointer; font-size: 13px; color: var(--txt-2); padding: 6px 0;
+  list-style: none; display: flex; align-items: center; gap: 6px;
+}
+.cl-more > summary::-webkit-details-marker { display: none; }
+.cl-more > summary::before { content: '▸'; font-size: 11px; color: var(--txt-3); }
+.cl-more[open] > summary::before { content: '▾'; }
+.cl-more[open] > summary { margin-bottom: 10px; }

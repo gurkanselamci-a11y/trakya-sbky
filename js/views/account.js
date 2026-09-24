@@ -48,6 +48,8 @@ const versionCardHtml = () => `
     <p class="tiny muted" style="margin:12px 0 0">Güncelleme bir türlü gelmiyorsa
     <button type="button" class="linkish" id="verReset">önbelleği temizle ve baştan kur</button> —
     ders içeriği yeniden indirilir.</p>
+
+    <div id="verLog" class="changelog"></div>
   </div>`;
 
 /** Sürüm kartının düğmelerini bağlar; hem bulutlu hem bulutsuz kurulumda çağrılır. */
@@ -70,6 +72,41 @@ function wireVersionCard(root) {
   };
 
   updateInfo().then(showVersion).catch(() => { verLine.textContent = 'Sürüm okunamadı.'; });
+
+  // ---------- sürüm geçmişi ----------
+  // Liste data/changelog.json'dan gelir (service worker önbelleğinde; çevrimdışı da
+  // açılır). Son sürüm açık gösterilir, eskiler katlanır: kart uzayıp sayfayı
+  // boğmasın ama "ne değişti" sorusunun cevabı hep burada dursun.
+  const verLog = root.querySelector('#verLog');
+  const AY = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran',
+    'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'];
+  const tarihYaz = (s) => {
+    const [y, a, g] = String(s || '').split('-').map(Number);
+    return y && a && g ? `${g} ${AY[a - 1]} ${y}` : '';
+  };
+  const surumBlok = (x) => `
+    <div class="cl-item">
+      <div class="cl-head"><b>${escHtml(x.v)}</b><span class="tiny muted">${escHtml(tarihYaz(x.tarih))}</span></div>
+      <div class="cl-title">${escHtml(x.baslik || '')}</div>
+      ${x.maddeler?.length ? `<ul class="cl-list">${x.maddeler.map((m) => `<li>${escHtml(m)}</li>`).join('')}</ul>` : ''}
+    </div>`;
+
+  if (verLog) {
+    fetch('data/changelog.json')
+      .then((r) => (r.ok ? r.json() : []))
+      .then((liste) => {
+        if (!Array.isArray(liste) || !liste.length) return;
+        const [son, ...eski] = liste;
+        verLog.innerHTML = `
+          <h3 class="cl-h">Son güncellemelerde neler yapıldı</h3>
+          ${surumBlok(son)}
+          ${eski.length ? `<details class="cl-more">
+            <summary>Önceki ${eski.length} sürüm</summary>
+            ${eski.map(surumBlok).join('')}
+          </details>` : ''}`;
+      })
+      .catch(() => { /* liste yoksa kart eskisi gibi çalışır */ });
+  }
 
   verCheck.addEventListener('click', async () => {
     verCheck.disabled = true;

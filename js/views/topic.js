@@ -100,7 +100,8 @@ export default async function topicView([code, topicId]) {
           </div>
           <div class="btn-row" style="margin-top:6px">
             <button class="btn ghost grow" id="nlmCopy" title="Yalnızca panoya kopyala">${ico('file')} Kopyala</button>
-            <button class="btn ghost" id="nlmFile" title="Markdown dosyası olarak indir">${ico('download')} İndir</button>
+            <button class="btn ghost" id="nlmWord" title="Word belgesi (.docx) olarak indir">${ico('download')} Word</button>
+            <button class="btn ghost" id="nlmFile" title="Markdown dosyası olarak indir">${ico('download')} .md</button>
             <button class="btn ghost" id="nlmPrompt" title="NotebookLM özelleştirme yönergesi">${ico('quote')} Yönerge</button>
           </div>
           <p class="tiny muted" style="margin:8px 0 0" id="nlmBook"></p>
@@ -303,22 +304,41 @@ export default async function topicView([code, topicId]) {
       });
       defteriYaz();
 
+      /** Blob'u dosya olarak indirir. */
+      function indir(blob, ad) {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = ad;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+        setTimeout(() => URL.revokeObjectURL(url), 60000);
+        toast('Dosya indiriliyor: ' + ad);
+      }
+
       root.querySelector('#nlmFile').addEventListener('click', async (e) => {
         const btn = e.currentTarget;
         btn.disabled = true;
         try {
           const { metin, ad } = await kaynakUret();
-          const url = URL.createObjectURL(new Blob([metin], { type: 'text/markdown;charset=utf-8' }));
-          const a = document.createElement('a');
-          a.href = url;
-          a.download = ad;
-          document.body.appendChild(a);
-          a.click();
-          a.remove();
-          setTimeout(() => URL.revokeObjectURL(url), 60000);
-          toast('Dosya indiriliyor: ' + ad);
+          indir(new Blob([metin], { type: 'text/markdown;charset=utf-8' }), ad);
         } catch (err) {
           toast('Dosya üretilemedi: ' + (err.message || err));
+        }
+        btn.disabled = false;
+      });
+
+      // Word: aynı düz metin gerçek bir .docx paketine çevrilir (js/docx.js). Modül
+      // yalnızca basıldığında yüklenir — konu sayfası açılışı etkilenmesin.
+      root.querySelector('#nlmWord').addEventListener('click', async (e) => {
+        const btn = e.currentTarget;
+        btn.disabled = true;
+        try {
+          const [{ metin, ad }, { docxBlob }] = await Promise.all([kaynakUret(), import('../docx.js')]);
+          indir(docxBlob(metin, { baslik: `${meta.shortName} — ${t.week}. hafta` }), ad.replace(/\.md$/, '.docx'));
+        } catch (err) {
+          toast('Word dosyası üretilemedi: ' + (err.message || err));
         }
         btn.disabled = false;
       });
