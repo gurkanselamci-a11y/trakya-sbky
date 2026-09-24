@@ -1,6 +1,6 @@
 /* sw.js — çevrimdışı çalışma. Kabuk önbelleğe alınır, ders içerikleri ilk erişimde saklanır. */
 
-const VERSION = 'v1.8.1';
+const VERSION = 'v1.8.2';
 const CACHE = `tusbky-${VERSION}`;
 
 const CORE = [
