@@ -1,7 +1,7 @@
 // views/topic.js — konu anlatımı: notlar, kritik noktalar, tuzaklar, kişisel not.
 
 import { store } from '../store.js';
-import { getCourse, getCourseMeta } from '../data.js';
+import { getCourse, getCourseMeta, getOfficial } from '../data.js';
 import { md } from '../md.js';
 import { escHtml, toast, empty } from '../ui.js';
 import { ico } from '../icons.js';
@@ -85,6 +85,24 @@ export default async function topicView([code, topicId]) {
             <div id="fileList" class="file-list"></div>
             <p class="tiny muted" style="margin:6px 0 0">PDF, Word, Excel veya fotoğraf (tek dosya en çok ${fmtSize(MAX_FILE_BYTES)}).
               Dosyalar yalnızca bu cihazda saklanır; bulut eşitlemesine ve yedeğe girmez.</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="row spread">
+            <b class="tiny muted">Bu haftayı anlattır</b>
+            <a class="tiny" href="https://notebooklm.google.com" target="_blank" rel="noopener">notebooklm.google.com ↗</a>
+          </div>
+          <p class="tiny muted" style="margin:6px 0 10px">
+            Bu haftanın notunu, terimlerini ve sorularını NotebookLM'in anlayacağı tek parça
+            kaynağa çevirir. <b>Kaynağı kopyala</b> → NotebookLM'de yeni not defteri → kaynak olarak
+            <i>yapıştırılan metin</i> → <b>Video Overview</b>. Anlatımın ayrıntılı olması için önce
+            <b>yönergeyi kopyala</b>yıp "özelleştir" kutusuna yapıştır.
+          </p>
+          <div class="btn-row">
+            <button class="btn ghost grow" id="nlmCopy">${ico('file')} Kaynağı kopyala</button>
+            <button class="btn ghost" id="nlmFile" title="Markdown dosyası olarak indir">${ico('download')} İndir</button>
+            <button class="btn ghost" id="nlmPrompt" title="NotebookLM özelleştirme yönergesi">${ico('quote')} Yönerge</button>
           </div>
         </div>
 
@@ -188,6 +206,80 @@ export default async function topicView([code, topicId]) {
       });
 
       renderFiles();
+
+      // ---- NotebookLM kaynağı ----
+      // Metni üreten modül yalnızca düğmeye basılınca yüklenir; konu sayfasının açılışını
+      // yavaşlatmasın diye. Çevrimdışı da çalışsın diye service worker'da önbelleğe alınmıştır.
+      let kaynak = null;
+      async function kaynakUret() {
+        if (kaynak) return kaynak;
+        const [{ konuKaynagi, dosyaAdi }, resmi] = await Promise.all([
+          import('../nlmexport.js'),
+          getOfficial(code).catch(() => null),
+        ]);
+        kaynak = { metin: konuKaynagi(course, t, resmi), ad: dosyaAdi(course, t) };
+        return kaynak;
+      }
+
+      /** Panoya kopyalar. Clipboard API yoksa (ya da izin verilmezse) seçim yöntemine düşer. */
+      async function panoyaYaz(metin) {
+        try {
+          await navigator.clipboard.writeText(metin);
+          return true;
+        } catch (_) {
+          const ta = document.createElement('textarea');
+          ta.value = metin;
+          ta.setAttribute('readonly', '');
+          ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0';
+          document.body.appendChild(ta);
+          ta.select();
+          let ok = false;
+          try { ok = document.execCommand('copy'); } catch (__) { ok = false; }
+          ta.remove();
+          return ok;
+        }
+      }
+
+      root.querySelector('#nlmCopy').addEventListener('click', async (e) => {
+        const btn = e.currentTarget;
+        btn.disabled = true;
+        try {
+          const { metin } = await kaynakUret();
+          const ok = await panoyaYaz(metin);
+          toast(ok
+            ? `Kaynak kopyalandı (${Math.round(metin.length / 1000)} bin karakter) — NotebookLM'de yapıştır`
+            : 'Kopyalanamadı; "İndir" ile dosya olarak alabilirsin');
+        } catch (err) {
+          toast('Kaynak üretilemedi: ' + (err.message || err));
+        }
+        btn.disabled = false;
+      });
+
+      root.querySelector('#nlmFile').addEventListener('click', async (e) => {
+        const btn = e.currentTarget;
+        btn.disabled = true;
+        try {
+          const { metin, ad } = await kaynakUret();
+          const url = URL.createObjectURL(new Blob([metin], { type: 'text/markdown;charset=utf-8' }));
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = ad;
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          setTimeout(() => URL.revokeObjectURL(url), 60000);
+          toast('Dosya indiriliyor: ' + ad);
+        } catch (err) {
+          toast('Dosya üretilemedi: ' + (err.message || err));
+        }
+        btn.disabled = false;
+      });
+
+      root.querySelector('#nlmPrompt').addEventListener('click', async () => {
+        const { YONERGE } = await import('../nlmexport.js');
+        const ok = await panoyaYaz(YONERGE);
+        toast(ok ? 'Yönerge kopyalandı — NotebookLM\'de "özelleştir" kutusuna yapıştır' : 'Kopyalanamadı');
+      });
 
       // Okuma süresince kaydırma ilerlemesi -> %90'ı geçince otomatik "okundu"
       const article = root.querySelector('#notes');

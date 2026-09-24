@@ -1,6 +1,6 @@
 /* sw.js — çevrimdışı çalışma. Kabuk önbelleğe alınır, ders içerikleri ilk erişimde saklanır. */
 
-const VERSION = 'v1.8.2';
+const VERSION = 'v1.9.0';
 const CACHE = `tusbky-${VERSION}`;
 
 const CORE = [
@@ -10,6 +10,7 @@ const CORE = [
   'css/app.css',
   'js/app.js',
   'js/attachments.js',
+  'js/nlmexport.js',
   'js/store.js',
   'js/data.js',
   'js/icons.js',
