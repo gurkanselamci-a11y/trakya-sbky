@@ -89,21 +89,21 @@ export default async function topicView([code, topicId]) {
         </div>
 
         <div class="card">
-          <div class="row spread">
-            <b class="tiny muted">Bu haftayı anlattır</b>
-            <a class="tiny" href="https://notebooklm.google.com" target="_blank" rel="noopener">notebooklm.google.com ↗</a>
-          </div>
+          <b class="tiny muted" style="display:block">Bu haftayı NotebookLM'e anlattır</b>
           <p class="tiny muted" style="margin:6px 0 10px">
-            Bu haftanın notunu, terimlerini ve sorularını NotebookLM'in anlayacağı tek parça
-            kaynağa çevirir. <b>Kaynağı kopyala</b> → NotebookLM'de yeni not defteri → kaynak olarak
-            <i>yapıştırılan metin</i> → <b>Video Overview</b>. Anlatımın ayrıntılı olması için önce
-            <b>yönergeyi kopyala</b>yıp "özelleştir" kutusuna yapıştır.
+            Aşağıdaki düğme bu haftanın tamamını panoya alır ve NotebookLM'i açar; orada
+            <i>yapıştırılan metin</i> olarak ekleyip <b>Video Overview</b> al. Anlatımın ayrıntılı
+            olması için önce <b>Yönerge</b>'ye basıp "özelleştir" kutusuna yapıştır.
           </p>
           <div class="btn-row">
-            <button class="btn ghost grow" id="nlmCopy">${ico('file')} Kaynağı kopyala</button>
+            <button class="btn primary grow" id="nlmOpen">${ico('globe')} Kopyala ve NotebookLM'i aç</button>
+          </div>
+          <div class="btn-row" style="margin-top:6px">
+            <button class="btn ghost grow" id="nlmCopy" title="Yalnızca panoya kopyala">${ico('file')} Kopyala</button>
             <button class="btn ghost" id="nlmFile" title="Markdown dosyası olarak indir">${ico('download')} İndir</button>
             <button class="btn ghost" id="nlmPrompt" title="NotebookLM özelleştirme yönergesi">${ico('quote')} Yönerge</button>
           </div>
+          <p class="tiny muted" style="margin:8px 0 0" id="nlmBook"></p>
         </div>
 
         <div class="btn-row">
@@ -240,12 +240,17 @@ export default async function topicView([code, topicId]) {
         }
       }
 
+      /** Kaynağı panoya alır; bildirimi döndürdüğü değere göre çağıran verir. */
+      async function kopyala() {
+        const { metin } = await kaynakUret();
+        return { ok: await panoyaYaz(metin), metin };
+      }
+
       root.querySelector('#nlmCopy').addEventListener('click', async (e) => {
         const btn = e.currentTarget;
         btn.disabled = true;
         try {
-          const { metin } = await kaynakUret();
-          const ok = await panoyaYaz(metin);
+          const { ok, metin } = await kopyala();
           toast(ok
             ? `Kaynak kopyalandı (${Math.round(metin.length / 1000)} bin karakter) — NotebookLM'de yapıştır`
             : 'Kopyalanamadı; "İndir" ile dosya olarak alabilirsin');
@@ -254,6 +259,49 @@ export default async function topicView([code, topicId]) {
         }
         btn.disabled = false;
       });
+
+      // Tek dokunuş: kopyala + NotebookLM'i aç. Ders için kayıtlı defter varsa doğrudan
+      // oraya, yoksa yeni defter sayfasına gider. Sekme, kopyalama beklenmeden açılır:
+      // tarayıcılar pencere açmayı yalnızca dokunma anında serbest bırakıyor.
+      root.querySelector('#nlmOpen').addEventListener('click', async (e) => {
+        const btn = e.currentTarget;
+        const hedef = store.getNotebook(code) || 'https://notebook.google.com/new';
+        const sekme = window.open(hedef, '_blank', 'noopener');
+        btn.disabled = true;
+        try {
+          const { ok, metin } = await kopyala();
+          toast(ok
+            ? `Kaynak panoda (${Math.round(metin.length / 1000)} bin karakter) — NotebookLM'de yapıştır`
+            : 'Kopyalanamadı; "İndir" ile dosya olarak ekleyebilirsin');
+          if (!sekme) toast('Açılır pencere engellendi — tarayıcıdan izin ver');
+        } catch (err) {
+          toast('Kaynak üretilemedi: ' + (err.message || err));
+        }
+        btn.disabled = false;
+      });
+
+      // Dersin NotebookLM defteri: bir kez kaydedilir, sonraki haftalarda doğrudan oraya gidilir.
+      const bookEl = root.querySelector('#nlmBook');
+      function defteriYaz() {
+        const url = store.getNotebook(code);
+        bookEl.innerHTML = url
+          ? `Bu dersin defteri kayıtlı: <a href="${escHtml(url)}" target="_blank" rel="noopener">aç ↗</a> · <a href="#" data-act="defter">değiştir</a> · <a href="#" data-act="sil">kaldır</a>`
+          : `<a href="#" data-act="defter">Bu dersin NotebookLM defterini kaydet</a> — kaydedersen düğme her hafta doğrudan o deftere götürür`;
+      }
+      bookEl.addEventListener('click', (e) => {
+        const a = e.target.closest('[data-act]');
+        if (!a) return;
+        e.preventDefault();
+        if (a.dataset.act === 'sil') { store.setNotebook(code, ''); defteriYaz(); toast('Defter bağlantısı kaldırıldı'); return; }
+        const girilen = prompt(`${meta.shortName} dersinin NotebookLM defter bağlantısı:`, store.getNotebook(code));
+        if (girilen === null) return;
+        const temiz = girilen.trim();
+        if (temiz && !/^https:\/\/notebook(lm)?\.google\.com\//.test(temiz)) { toast('NotebookLM bağlantısı gibi görünmüyor'); return; }
+        store.setNotebook(code, temiz);
+        defteriYaz();
+        toast(temiz ? 'Defter bağlantısı kaydedildi' : 'Defter bağlantısı kaldırıldı');
+      });
+      defteriYaz();
 
       root.querySelector('#nlmFile').addEventListener('click', async (e) => {
         const btn = e.currentTarget;

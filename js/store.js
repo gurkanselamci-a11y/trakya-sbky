@@ -42,6 +42,10 @@ const emptyState = () => ({
   bookmarks: [],
   // notes[code/topicId] = "kişisel not"
   notes: {},
+  // notebooks[code] = "https://notebook.google.com/notebook/..." — dersin NotebookLM defteri.
+  // Kullanıcı defteri bir kez açıp linkini kaydeder; sonraki haftalarda uygulama doğrudan
+  // oraya götürür, her seferinde yeni defter açmak gerekmez.
+  notebooks: {},
   // examHistory = [{ at, code, scope, score, total, durationSec }]
   examHistory: [],
   // enrollment[code] = { at, slots: [{ day, start, end, room, kind }] }
@@ -181,6 +185,15 @@ export const store = {
       if (i >= 0) s.bookmarks.splice(i, 1); else s.bookmarks.push(key);
     });
     return this.isBookmarked(key);
+  },
+
+  getNotebook(code) { return (state.notebooks || {})[code] || ''; },
+  setNotebook(code, url) {
+    this.update((s) => {
+      if (!s.notebooks) s.notebooks = {};
+      const t = String(url || '').trim();
+      if (t) s.notebooks[code] = t; else delete s.notebooks[code];
+    });
   },
 
   getNote(key) { return state.notes[key] || ''; },

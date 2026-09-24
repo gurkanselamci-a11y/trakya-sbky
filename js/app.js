@@ -419,7 +419,7 @@ let swReg = null;
  * devreye alıyor, yani "çalışan service worker" güncel görünürken ekrandaki HTML/JS hâlâ
  * eski olabiliyor. Karşılaştırmanın doğru tarafı, sayfanın kendi kodudur.
  */
-export const APP_VERSION = 'v1.9.0';
+export const APP_VERSION = 'v1.9.1';
 
 /** Çalışan service worker'a sorar. Yanıt yoksa null (henüz yönetmiyordur). */
 function askSw(message, timeout = 1500) {
